@@ -1,0 +1,74 @@
+name: Sync CFA Database
+
+on:
+  schedule:
+    # Cek setiap hari jam 06:00 UTC (13:00 WIB)
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+    # Tombol "Run workflow" manual di GitHub Actions tab
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout repo ini (vanguard-library-db)
+      - name: Checkout vanguard-library-db
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2. Setup Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      # 3. Clone repo cfa-texts (shallow, hanya butuh Text/ dan latest commit)
+      - name: Clone cfa-texts
+        run: |
+          git clone --depth=1 https://github.com/uniquekid/cfa-texts.git cfa-texts
+
+      # 4. Ambil commit SHA terbaru dari cfa-texts
+      - name: Get cfa-texts latest commit SHA
+        id: cfa_sha
+        run: |
+          SHA=$(git -C cfa-texts rev-parse HEAD)
+          echo "sha=$SHA" >> $GITHUB_OUTPUT
+          echo "Latest cfa-texts commit: $SHA"
+
+      # 5. Cek apakah SHA sudah sama dengan yang tersimpan
+      - name: Check if update needed
+        id: check
+        run: |
+          if [ -f last_sync.txt ]; then
+            LAST=$(cat last_sync.txt)
+            echo "Last synced SHA: $LAST"
+            if [ "$LAST" = "${{ steps.cfa_sha.outputs.sha }}" ]; then
+              echo "needed=false" >> $GITHUB_OUTPUT
+              echo "No update needed."
+            else
+              echo "needed=true" >> $GITHUB_OUTPUT
+              echo "Update needed."
+            fi
+          else
+            echo "needed=true" >> $GITHUB_OUTPUT
+            echo "First run — update needed."
+          fi
+
+      # 6. Jalankan parser (hanya kalau ada update)
+      - name: Run parser
+        if: steps.check.outputs.needed == 'true'
+        run: |
+          node parse_cfa.js
+
+      # 7. Simpan SHA dan commit hasilnya
+      - name: Commit updated database
+        if: steps.check.outputs.needed == 'true'
+        run: |
+          echo "${{ steps.cfa_sha.outputs.sha }}" > last_sync.txt
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add cards_min.json cards_full.json last_sync.txt
+          git diff --cached --quiet || git commit -m "chore: sync database from cfa-texts @ ${{ steps.cfa_sha.outputs.sha }}"
+          git push
