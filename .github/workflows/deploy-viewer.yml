@@ -1,0 +1,44 @@
+name: Deploy DB Viewer to GitHub Pages
+
+# Triggers:
+# 1. Push ke main yang mengubah file di folder viewer/
+# 2. Manual via Actions tab
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'viewer/**'
+      - '.github/workflows/deploy-viewer.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Hanya satu deploy yang jalan dalam satu waktu
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload viewer folder
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './viewer'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

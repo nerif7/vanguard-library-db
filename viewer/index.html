@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vanguard Library DB Viewer</title>
+  <link rel="stylesheet" href="viewer.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-inner">
+    <div class="brand">
+      <h1>Vanguard Library DB</h1>
+      <p class="subtitle">Browser untuk verifikasi <code>cards.json</code></p>
+    </div>
+    <div class="db-info" id="dbInfo">
+      <div class="db-info-row">
+        <span class="db-info-label">Total kartu</span>
+        <span class="db-info-value" id="totalCards">—</span>
+      </div>
+      <div class="db-info-row">
+        <span class="db-info-label">Last update</span>
+        <span class="db-info-value" id="lastUpdate">—</span>
+      </div>
+      <div class="db-info-row">
+        <a href="https://github.com/nerif7/vanguard-library-db" target="_blank" rel="noopener" class="db-info-link">
+          ↗ GitHub Repo
+        </a>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main class="layout">
+
+  <!-- TABS -->
+  <div class="tabs" role="tablist">
+    <button class="tab active" data-tab="browse" role="tab">Browse</button>
+    <button class="tab" data-tab="stats" role="tab">Stats per Set</button>
+  </div>
+
+  <!-- ───────── BROWSE TAB ───────── -->
+  <section class="tab-panel active" data-panel="browse">
+
+    <div class="filter-bar">
+      <input type="search" id="searchInput" placeholder="Cari nama, kode, race, clan...">
+
+      <select id="setFilter">
+        <option value="all">Semua set</option>
+      </select>
+
+      <select id="nationFilter">
+        <option value="all">Semua nation</option>
+      </select>
+
+      <select id="unitTypeFilter">
+        <option value="all">Semua tipe</option>
+        <option value="Normal Unit">Normal Unit</option>
+        <option value="G Unit">G Unit</option>
+        <option value="Normal Order">Normal Order</option>
+        <option value="Set Order">Set Order</option>
+        <option value="Blitz Order">Blitz Order</option>
+        <option value="Trigger Order">Trigger Order</option>
+        <option value="Token">Token</option>
+        <option value="Ride Deck Crest">Ride Deck Crest</option>
+        <option value="Others">Others</option>
+      </select>
+
+      <select id="triggerFilter">
+        <option value="all">Semua trigger</option>
+        <option value="__none__">— Tidak ada</option>
+        <option value="Critical">Critical</option>
+        <option value="Draw">Draw</option>
+        <option value="Heal">Heal</option>
+        <option value="Front">Front</option>
+        <option value="Over">Over</option>
+        <option value="Sentinel">Sentinel</option>
+      </select>
+
+      <span class="result-count" id="resultCount">— kartu</span>
+    </div>
+
+    <div class="browse-layout">
+      <!-- LIST -->
+      <div class="card-list" id="cardList" tabindex="0">
+        <!-- rows ditambah via JS -->
+      </div>
+
+      <!-- PREVIEW -->
+      <aside class="card-preview" id="cardPreview">
+        <div class="preview-empty">
+          <p>Klik kartu untuk lihat detail.</p>
+        </div>
+      </aside>
+    </div>
+
+  </section>
+
+  <!-- ───────── STATS TAB ───────── -->
+  <section class="tab-panel" data-panel="stats">
+
+    <div class="stats-info">
+      <p>Total <strong id="statsTotal">—</strong> kartu dalam <strong id="statsSetCount">—</strong> set. Disortir berdasarkan setCode.</p>
+    </div>
+
+    <div class="stats-grid" id="statsGrid">
+      <!-- cards ditambah via JS -->
+    </div>
+
+  </section>
+
+</main>
+
+<div class="loading" id="loading">
+  <div class="loading-spinner"></div>
+  <p>Memuat <code>cards.json</code>...</p>
+  <p class="loading-hint" id="loadingHint">~10 MB, harap tunggu</p>
+</div>
+
+<script src="viewer.js"></script>
+</body>
+</html>

@@ -1,0 +1,135 @@
+name: Auto-update cards database
+
+# Triggers:
+# 1. Schedule: setiap Senin pagi 06:00 WIB (23:00 UTC Minggu)
+# 2. Manual: workflow_dispatch (bisa dijalankan dari Actions tab)
+# 3. Push ke main: kalau scrape_en.js atau update.js berubah (rebuild support)
+on:
+  schedule:
+    - cron: '0 23 * * 0'  # Setiap Minggu 23:00 UTC = Senin 06:00 WIB
+  workflow_dispatch:
+    inputs:
+      force_expansion:
+        description: 'Force scrape expansion tertentu (opsional, masukkan ID number)'
+        required: false
+        default: ''
+      dry_run:
+        description: 'Dry run (cek saja, tidak commit)'
+        required: false
+        type: boolean
+        default: false
+
+# Permissions: butuh write untuk commit + push perubahan cards.json
+permissions:
+  contents: write
+
+jobs:
+  update-db:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120  # 2 jam max — scrape multi expansion bisa lama
+
+    steps:
+      # ─────────────────────────────────────────────────────────
+      # 1. Checkout repo
+      # ─────────────────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      # ─────────────────────────────────────────────────────────
+      # 2. Setup Node.js
+      # ─────────────────────────────────────────────────────────
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # ─────────────────────────────────────────────────────────
+      # 3. Run auto-updater
+      # ─────────────────────────────────────────────────────────
+      - name: Run update orchestrator
+        id: update
+        run: |
+          if [ -n "${{ github.event.inputs.force_expansion }}" ]; then
+            echo "🎯 Force mode: expansion=${{ github.event.inputs.force_expansion }}"
+            node update.js --force-expansion ${{ github.event.inputs.force_expansion }} --delay 500
+          elif [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            echo "👀 Dry-run mode"
+            node update.js --dry-run
+          else
+            echo "🔄 Auto-detect mode"
+            node update.js --delay 500
+          fi
+
+      # ─────────────────────────────────────────────────────────
+      # 4. Check git status — apakah cards.json berubah?
+      # ─────────────────────────────────────────────────────────
+      - name: Check for changes
+        id: git_check
+        run: |
+          if git diff --quiet cards.json; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "📊 Tidak ada perubahan di cards.json"
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            CARD_COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('cards.json')).length)")
+            echo "card_count=$CARD_COUNT" >> $GITHUB_OUTPUT
+            echo "📊 cards.json berubah — total: $CARD_COUNT kartu"
+          fi
+
+      # ─────────────────────────────────────────────────────────
+      # 5. Commit + push perubahan (kalau ada)
+      # ─────────────────────────────────────────────────────────
+      - name: Commit and push changes
+        if: steps.git_check.outputs.has_changes == 'true' && github.event.inputs.dry_run != 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name  "github-actions[bot]"
+
+          NEW_SETS="${{ steps.update.outputs.new_set_codes }}"
+          NEW_COUNT="${{ steps.update.outputs.new_expansions }}"
+
+          if [ -n "$NEW_SETS" ]; then
+            MSG="Auto-update: $NEW_COUNT expansion baru ($NEW_SETS)"
+          else
+            MSG="Auto-update: refresh cards.json"
+          fi
+
+          git add cards.json
+          git commit -m "$MSG
+
+          Total: ${{ steps.git_check.outputs.card_count }} kartu
+          Triggered by: ${{ github.event_name }}
+
+          [skip ci]"
+
+          git push
+
+      # ─────────────────────────────────────────────────────────
+      # 6. Summary di Actions UI
+      # ─────────────────────────────────────────────────────────
+      - name: Generate summary
+        if: always()
+        run: |
+          echo "## 🃏 Vanguard Library Auto-Update" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          if [ "${{ steps.git_check.outputs.has_changes }}" = "true" ]; then
+            echo "✅ **cards.json di-update**" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "- Total kartu: \`${{ steps.git_check.outputs.card_count }}\`" >> $GITHUB_STEP_SUMMARY
+            echo "- Expansion baru: \`${{ steps.update.outputs.new_expansions || 0 }}\`" >> $GITHUB_STEP_SUMMARY
+            if [ -n "${{ steps.update.outputs.new_set_codes }}" ]; then
+              echo "- Set codes: \`${{ steps.update.outputs.new_set_codes }}\`" >> $GITHUB_STEP_SUMMARY
+            fi
+            if [ "${{ steps.update.outputs.failed }}" != "0" ] && [ -n "${{ steps.update.outputs.failed }}" ]; then
+              echo "- ⚠️  Failed scrape: \`${{ steps.update.outputs.failed }}\`" >> $GITHUB_STEP_SUMMARY
+            fi
+          else
+            echo "ℹ️  Database sudah up-to-date. Tidak ada perubahan." >> $GITHUB_STEP_SUMMARY
+          fi
+
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Trigger:** \`${{ github.event_name }}\`" >> $GITHUB_STEP_SUMMARY
+          echo "**Branch:** \`${{ github.ref_name }}\`" >> $GITHUB_STEP_SUMMARY
