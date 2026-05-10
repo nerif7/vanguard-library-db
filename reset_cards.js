@@ -24,7 +24,6 @@ const fs = require("fs");
 const path = require("path");
 
 const CARDS_PATH = path.join(__dirname, "cards.json");
-const MIN_PATH   = path.join(__dirname, "cards_min.json");
 
 // ── Argument parsing ─────────────────────────────────────────────────────────
 
@@ -160,26 +159,6 @@ console.log(`\n  Backup dibuat: ${path.basename(backupPath)}`);
 // Write cards.json
 fs.writeFileSync(CARDS_PATH, JSON.stringify(cards, null, 2));
 console.log(`  ✅ ${CARDS_PATH} ditulis ulang`);
-
-// Regenerate cards_min.json
-const minCards = cards.map((c) => {
-  const m = {
-    enCardNo:   c.enCardNo,
-    setCode:    c.setCode,
-    name:       c.name,
-    unitType:   c.unitType,
-    nations:    c.nations,
-    clan:       c.clan,
-    races:      c.races,
-    grade:      c.grade,
-    imageUrlEn: c.imageUrlEn,
-  };
-  if (c.trigger) m.trigger = c.trigger;
-  return m;
-});
-
-fs.writeFileSync(MIN_PATH, JSON.stringify(minCards, null, 2));
-console.log(`  ✅ ${MIN_PATH} di-regenerate`);
 
 console.log("\n═══════════════════════════════════════════════════");
 console.log(`  ${targets.length} kartu di-reset.`);

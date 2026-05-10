@@ -7,7 +7,7 @@
  *      (kasus G era / BCS dimana div.group berisi nama nation, bukan clan)
  *
  * Usage:
- *   node fix_data.js              # perbaiki cards.json + cards_min.json
+ *   node fix_data.js              # perbaiki cards.json
  *   node fix_data.js --dry-run    # preview saja, tidak menulis file
  */
 
@@ -15,7 +15,6 @@ const fs = require("fs");
 const path = require("path");
 
 const CARDS_PATH = path.join(__dirname, "cards.json");
-const MIN_PATH   = path.join(__dirname, "cards_min.json");
 
 const args     = process.argv.slice(2);
 const DRY_RUN  = args.includes("--dry-run");
@@ -93,26 +92,6 @@ console.log(`\n  Backup dibuat: ${path.basename(backupPath)}`);
 // Write cards.json
 fs.writeFileSync(CARDS_PATH, JSON.stringify(cards, null, 2));
 console.log(`  ✅ ${CARDS_PATH} ditulis ulang`);
-
-// Regenerate cards_min.json from updated cards
-const minCards = cards.map((c) => {
-  const m = {
-    enCardNo:   c.enCardNo,
-    setCode:    c.setCode,
-    name:       c.name,
-    unitType:   c.unitType,
-    nations:    c.nations,
-    clan:       c.clan,
-    races:      c.races,
-    grade:      c.grade,
-    imageUrlEn: c.imageUrlEn,
-  };
-  if (c.trigger) m.trigger = c.trigger;
-  return m;
-});
-
-fs.writeFileSync(MIN_PATH, JSON.stringify(minCards, null, 2));
-console.log(`  ✅ ${MIN_PATH} di-regenerate`);
 
 console.log("\n═══════════════════════════════════════════════════");
 console.log(`  Selesai. ${fixed1} kartu diperbaiki dalam beberapa detik.`);

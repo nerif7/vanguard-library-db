@@ -10,7 +10,6 @@
  *
  * Output:
  *   cards.json      — full EN card database (all fields + rarity)
- *   cards_min.json  — minimal lookup DB for tcg_library
  *
  * Usage:
  *   node scrape_en.js                          # scrape all expansions
@@ -30,7 +29,6 @@ const http  = require("http");
 
 const BASE_URL    = "https://en.cf-vanguard.com";
 const OUT_FULL    = path.join(__dirname, "cards.json");
-const OUT_MIN     = path.join(__dirname, "cards_min.json");
 const RESUME_FILE = path.join(__dirname, ".scrape_progress.json");
 
 const args        = process.argv.slice(2);
@@ -582,22 +580,6 @@ function buildCardEntry(gallery, detail) {
 
 // ── Min output ────────────────────────────────────────────────────────────────
 
-function toMinCard(card) {
-  const min = {
-    enCardNo:   card.enCardNo,
-    setCode:    card.setCode,
-    name:       card.name,
-    unitType:   card.unitType,
-    nations:    card.nations,
-    clan:       card.clan,
-    races:      card.races,
-    grade:      card.grade,
-    imageUrlEn: card.imageUrlEn,
-  };
-  if (card.trigger) min.trigger = card.trigger;
-  return min;
-}
-
 // ── Main ──────────────────────────────────────────────────────────────────────
 
 
@@ -667,7 +649,6 @@ async function retryFailed() {
       return (a.cardNumber ?? "").localeCompare(b.cardNumber ?? "", undefined, { numeric: true });
     });
     fs.writeFileSync(OUT_FULL, JSON.stringify(sorted, null, 2));
-    fs.writeFileSync(OUT_MIN,  JSON.stringify(sorted.map(toMinCard), null, 2));
   };
 
   // Save partial progress on Ctrl+C so user doesn't lose work
@@ -832,12 +813,10 @@ async function main() {
 
   // Write outputs
   fs.writeFileSync(OUT_FULL, JSON.stringify(allCards, null, 2));
-  fs.writeFileSync(OUT_MIN,  JSON.stringify(allCards.map(toMinCard), null, 2));
 
   console.log("\n═══════════════════════════════════════════════════");
   console.log(`✅  Done. ${allCards.length} total cards.`);
-  console.log(`   cards.json     : ${OUT_FULL} (${(fs.statSync(OUT_FULL).size / 1024).toFixed(0)} KB)`);
-  console.log(`   cards_min.json : ${OUT_MIN}  (${(fs.statSync(OUT_MIN).size  / 1024).toFixed(0)} KB)`);
+  console.log(`   cards.json : ${OUT_FULL} (${(fs.statSync(OUT_FULL).size / 1024).toFixed(0)} KB)`);
   console.log("═══════════════════════════════════════════════════");
 
   // Clean up progress file on full success
