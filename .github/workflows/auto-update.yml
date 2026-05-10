@@ -23,6 +23,11 @@ on:
 permissions:
   contents: write
 
+# Cegah dua run yang sama jalan bersamaan (avoid race condition saat commit)
+concurrency:
+  group: auto-update-db
+  cancel-in-progress: false
+
 jobs:
   update-db:
     runs-on: ubuntu-latest
@@ -33,7 +38,7 @@ jobs:
       # 1. Checkout repo
       # ─────────────────────────────────────────────────────────
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           fetch-depth: 1
 
@@ -41,7 +46,7 @@ jobs:
       # 2. Setup Node.js
       # ─────────────────────────────────────────────────────────
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
           node-version: '20'
 
@@ -104,7 +109,23 @@ jobs:
 
           [skip ci]"
 
-          git push
+          # Sync dengan remote sebelum push untuk avoid non-fast-forward errors
+          # (kasus: user push perubahan lain sambil workflow jalan)
+          git pull --rebase origin ${{ github.ref_name }} || {
+            echo "⚠️  Rebase gagal — coba git pull biasa"
+            git pull --no-rebase origin ${{ github.ref_name }}
+          }
+
+          # Retry push dengan max 3 attempts (handle race condition)
+          for i in 1 2 3; do
+            if git push; then
+              echo "✅ Push berhasil di attempt $i"
+              break
+            fi
+            echo "⚠️  Push attempt $i gagal, retry..."
+            git pull --rebase origin ${{ github.ref_name }}
+            sleep 2
+          done
 
       # ─────────────────────────────────────────────────────────
       # 6. Summary di Actions UI
