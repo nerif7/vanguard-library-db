@@ -116,6 +116,70 @@ async function fetchExpansionList() {
 }
 
 /**
+ * Count cards in EN site gallery for an expansion.
+ * Iterates pagination until empty page, returns total card count.
+ *
+ * For D-PR (expansion=0), this is the only reliable way to know if
+ * new promos were added since the setCode never changes.
+ */
+async function countGalleryCards(expansionId) {
+  let total = 0;
+  let page  = 1;
+
+  while (true) {
+    let url = `${BASE_URL}/cardlist/cardsearch_ex/?expansion=${expansionId}&view=image&page=${page}`;
+    let html;
+    try {
+      html = await fetchUrl(url);
+    } catch (err) {
+      break;
+    }
+
+    // Count <li class="ex-item"> in this page
+    const items = (html.match(/<li class="ex-item">/g) || []).length;
+
+    // Fallback to non-ex endpoint if first page returned 0 (D-PR sometimes needs this)
+    if (items === 0 && page === 1) {
+      try {
+        url  = `${BASE_URL}/cardlist/cardsearch/?expansion=${expansionId}&view=image&page=${page}`;
+        html = await fetchUrl(url);
+        const fallback = (html.match(/<li class="ex-item">/g) || []).length;
+        if (fallback === 0) break;
+        total += fallback;
+      } catch {
+        break;
+      }
+    } else if (items === 0) {
+      break;
+    } else {
+      total += items;
+    }
+
+    page++;
+    // Safety cap: 50 pages × ~40 cards = 2000 max (D-PR fits within this)
+    if (page > 50) break;
+
+    await new Promise((r) => setTimeout(r, 250));
+  }
+
+  return total;
+}
+
+/**
+ * Count cards in local cards.json matching a setCode prefix.
+ * For D-PR detection: count cards with setCode === "D-PR".
+ */
+function countLocalCardsForSet(setCode) {
+  if (!fs.existsSync(CARDS_PATH)) return 0;
+  try {
+    const cards = JSON.parse(fs.readFileSync(CARDS_PATH, "utf-8"));
+    return cards.filter((c) => c.setCode === setCode).length;
+  } catch {
+    return 0;
+  }
+}
+
+/**
  * Get all unique setCode values from cards.json.
  * Returns a Set of setCodes (e.g. "DZ-BT12", "V-BT01", "G-BT11").
  */
@@ -261,24 +325,57 @@ async function main() {
   // Map expansion IDs to setCodes (1 fetch per expansion, slow but reliable)
   const expansionToSetCode = await mapExpansionsToSetCodes(expansionIds);
 
-  // Find expansion yang setCode-nya BELUM ada di lokal
+  // Find expansion yang perlu di-scrape:
+  // - Untuk expansion biasa: setCode BELUM ada di lokal
+  // - Untuk D-PR (expansion=0): JUMLAH kartu di EN > lokal (promo terus bertambah)
   const newExpansions = [];
+
+  // Step 2a: Cek D-PR via count comparison
+  if (expansionToSetCode.has(0)) {
+    console.log("\n  Cek D-PR (promo) via count comparison...");
+    const localPRCount = countLocalCardsForSet("D-PR");
+    console.log(`    Lokal: ${localPRCount} kartu D-PR`);
+
+    try {
+      const remotePRCount = await countGalleryCards(0);
+      console.log(`    EN site: ${remotePRCount} kartu D-PR`);
+
+      if (remotePRCount > localPRCount) {
+        const diff = remotePRCount - localPRCount;
+        console.log(`    📦 +${diff} kartu D-PR baru terdeteksi`);
+        newExpansions.push({
+          expId: 0,
+          setCode: "D-PR",
+          reason: `${diff} kartu baru (${localPRCount} → ${remotePRCount})`,
+        });
+      } else if (remotePRCount < localPRCount) {
+        console.log(`    ⚠️  EN site punya LEBIH SEDIKIT kartu dari lokal (mungkin ada yang ditarik). Skip.`);
+      } else {
+        console.log(`    ✅ D-PR up-to-date`);
+      }
+    } catch (err) {
+      console.warn(`    ⚠️  Gagal hitung D-PR di EN site: ${err.message}. Skip detection D-PR.`);
+    }
+  }
+
+  // Step 2b: Cek expansion biasa via setCode comparison
   for (const [expId, setCode] of expansionToSetCode) {
+    if (expId === 0) continue; // sudah di-handle di Step 2a
     if (setCode === "(unknown)" || setCode === "(error)") continue;
     if (!existingSets.has(setCode)) {
-      newExpansions.push({ expId, setCode });
+      newExpansions.push({ expId, setCode, reason: "setCode baru" });
     }
   }
 
   if (newExpansions.length === 0) {
-    console.log("\n  ✨ Tidak ada expansion baru. Database sudah up-to-date.");
+    console.log("\n  ✨ Tidak ada update. Database sudah up-to-date.");
     if (ARG_CHECK_ONLY) process.exit(0);
     process.exit(0);
   }
 
-  console.log(`\n  📦 ${newExpansions.length} expansion baru terdeteksi:`);
-  for (const { expId, setCode } of newExpansions) {
-    console.log(`     • expansion=${expId} (setCode: ${setCode})`);
+  console.log(`\n  📦 ${newExpansions.length} expansion perlu di-update:`);
+  for (const { expId, setCode, reason } of newExpansions) {
+    console.log(`     • expansion=${expId} (${setCode}) — ${reason}`);
   }
 
   // --check-only mode: exit dengan kode 1 untuk signal "ada update"
