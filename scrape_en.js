@@ -198,6 +198,7 @@ function stripTags(html) {
 function parseGalleryHtml(html) {
   const cards = [];
   const items = allBetween(html, '<li class="ex-item">', "</li>");
+  const seenBaseEnCardNo = new Set();
 
   for (const item of items) {
     // Extract href from <a>
@@ -216,10 +217,17 @@ function parseGalleryHtml(html) {
     if (!cardnoMatch) continue;
     const enCardNo = decodeURIComponent(cardnoMatch[1]);
 
+    // SKIP TD copies suffix: "DZ-TD01/001EN_16" → "DZ-TD01/001EN"
+    // EN site lists Trial Deck cards multiple times with _N suffix indicating
+    // deck slot positions. We only want one record per unique card.
+    const baseEnCardNo = enCardNo.replace(/_\d+$/, "");
+    if (seenBaseEnCardNo.has(baseEnCardNo)) continue;
+    seenBaseEnCardNo.add(baseEnCardNo);
+
     // Build absolute image URL
     const imageUrlEn = src.startsWith("http") ? src : BASE_URL + src;
 
-    cards.push({ enCardNo, name: title, imageUrlEn });
+    cards.push({ enCardNo: baseEnCardNo, name: title, imageUrlEn });
   }
 
   return cards;
@@ -540,20 +548,64 @@ function saveProgress(progress) {
 
 // ── Normalize final card output ───────────────────────────────────────────────
 
+/**
+ * Parse setCode + cardNumber from enCardNo, handling all known format variants.
+ *
+ * Handles:
+ *   Regular:       DZ-BT12/001EN     → setCode="DZ-BT12", cardNumber="001"
+ *   EX cards:      DZ-BT12/EX01EN    → setCode="DZ-BT12", cardNumber="EX01"
+ *   SEC/SP:        DZ-BT12/SECV02EN  → setCode="DZ-BT12", cardNumber="SECV02"
+ *   D-PR:          D-PR/1285EN       → setCode="D-PR",    cardNumber="1285"
+ *   Sneak preview: D-PR/805-SEN      → setCode="D-PR",    cardNumber="805"
+ *   B/W variant:   EB10/001EN-B      → setCode="EB10",    cardNumber="001"
+ *   Special var:   D-BT11/EX01EN-S   → setCode="D-BT11",  cardNumber="EX01"
+ *   BCS Gift:      BCS2022/V-GM-01EN → setCode="BCS2022", cardNumber="01"
+ *   Anniversary:   D-BT05/10thSEC01EN → setCode="D-BT05", cardNumber="SEC01"
+ *   DZ special:    DZ-BT06/SER＋01EN  → setCode="DZ-BT06", cardNumber="SER01"
+ *   TD copies:     DZ-TD01/001EN_16  → setCode="DZ-TD01", cardNumber="001"
+ *   G Reborn:      G-BT08/Re:01EN    → setCode="G-BT08",  cardNumber="01"
+ *   G special:     G-CB03/S01EN      → setCode="G-CB03",  cardNumber="S01"
+ *   Alt rarity:    G-BT01/088EN PR   → setCode="G-BT01",  cardNumber="088"
+ *
+ * Returns { setCode, cardNumber } — both strings. Falls back to {enCardNo, ""} if unparseable.
+ */
+function parseCardCode(enCardNo) {
+  if (!enCardNo || typeof enCardNo !== "string") {
+    return { setCode: "", cardNumber: "" };
+  }
+
+  // Step 1: Normalize trailing description/tag into dash suffix
+  let normalized = enCardNo.trim();
+  normalized = normalized.replace(/\s*\(Hot-stamped ver\.\)\s*$/i, "-HS");
+  normalized = normalized.replace(/\s+with serial number\s*$/i, "-SN");
+  normalized = normalized.replace(/\s+Neon Gyze side\s*$/i, "-NGS");
+  normalized = normalized.replace(/\s+([A-Z][A-Za-z]+)\s*$/, "-$1");
+
+  // Step 2: Split on first "/" — left is setCode, right is card identifier
+  const parts = normalized.split("/");
+  if (parts.length !== 2) return { setCode: normalized, cardNumber: "" };
+
+  const setCode = parts[0];
+  let cardId = parts[1];
+
+  // Step 3: Strip metadata prefixes from cardId
+  cardId = cardId.replace(/^\d+th/, "");      // "10th" anniversary marker
+  cardId = cardId.replace(/^Re:/, "");        // "Re:" G era reborn marker
+  cardId = cardId.replace(/^V-GM-/, "");      // "V-GM-" BCS Imaginary Gift Marker
+  cardId = cardId.replace(/＋/, "");            // full-width plus (DZ era special)
+
+  // Step 4: Extract first letter*+digits sequence as cardNumber
+  const numMatch = cardId.match(/^([A-Z]*\d+)/i);
+  const cardNumber = numMatch ? numMatch[1] : "";
+
+  return { setCode, cardNumber };
+}
+
 function buildCardEntry(gallery, detail) {
   const enCardNo   = gallery.enCardNo;
   const imageUrlEn = detail?.imageUrlEn ?? gallery.imageUrlEn ?? deriveImageUrlEn(enCardNo);
 
-  // Parse setCode + cardNumber from enCardNo
-  // Format: SETCODE/[LETTER_PREFIX]NUMBER[EN_SUFFIX]
-  // Examples:
-  //   DZ-BT12/001EN     → setCode="DZ-BT12", cardNumber="001"
-  //   DZ-BT12/EX01EN    → setCode="DZ-BT12", cardNumber="EX01"
-  //   DZ-BT12/SECV02EN  → setCode="DZ-BT12", cardNumber="SECV02"
-  //   D-PR/1285EN       → setCode="D-PR",    cardNumber="1285"
-  const codeMatch = enCardNo.match(/^([A-Z0-9-]+)\/([A-Z]*\d+)[A-Z]*$/i);
-  const setCode   = codeMatch ? codeMatch[1] : enCardNo;
-  const cardNum   = codeMatch ? codeMatch[2] : "";
+  const { setCode, cardNumber: cardNum } = parseCardCode(enCardNo);
 
   return {
     // Identifikasi

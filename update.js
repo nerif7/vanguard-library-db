@@ -39,7 +39,11 @@ const args            = process.argv.slice(2);
 const ARG_FORCE_EXP   = getArg("--force-expansion");
 const ARG_DRY_RUN     = args.includes("--dry-run");
 const ARG_CHECK_ONLY  = args.includes("--check-only");
-const ARG_DELAY       = getArg("--delay") || "350";
+const ARG_DELAY       = getArg("--delay") || "500";  // 500ms default (was 350) for safety
+const ARG_MAX_EXP     = Number(getArg("--max-expansions") || "5"); // Max per run untuk avoid timeout
+
+// Minimum cards count untuk dianggap valid cards.json (anti-corrupt safeguard)
+const MIN_VALID_CARD_COUNT = 20000;
 
 function getArg(flag) {
   const i = args.indexOf(flag);
@@ -47,6 +51,78 @@ function getArg(flag) {
 }
 
 // ── Utilities ─────────────────────────────────────────────────────────────────
+
+/**
+ * Backup cards.json to cards.json.backup before risky operations.
+ * Returns true if backup created successfully.
+ */
+function backupCardsJson() {
+  if (!fs.existsSync(CARDS_PATH)) return false;
+  const backupPath = CARDS_PATH + ".backup";
+  try {
+    fs.copyFileSync(CARDS_PATH, backupPath);
+    return true;
+  } catch (err) {
+    console.warn(`  ⚠️  Gagal buat backup: ${err.message}`);
+    return false;
+  }
+}
+
+/**
+ * Validate cards.json: parse OK, is array, minimum N cards.
+ * Returns { valid: boolean, count: number, reason: string }.
+ */
+function validateCardsJson(minCount = 1000) {
+  if (!fs.existsSync(CARDS_PATH)) {
+    return { valid: false, count: 0, reason: "file tidak ada" };
+  }
+  try {
+    const text = fs.readFileSync(CARDS_PATH, "utf-8");
+    const data = JSON.parse(text);
+    if (!Array.isArray(data)) {
+      return { valid: false, count: 0, reason: "bukan array" };
+    }
+    if (data.length < minCount) {
+      return { valid: false, count: data.length, reason: `kurang dari ${minCount} kartu (mencurigakan)` };
+    }
+    // Sample check: ensure required fields exist on a few cards
+    const sample = data.slice(0, 10);
+    for (const card of sample) {
+      if (!card.enCardNo || !card.name) {
+        return { valid: false, count: data.length, reason: "ada kartu tanpa enCardNo atau name" };
+      }
+    }
+    return { valid: true, count: data.length, reason: "OK" };
+  } catch (err) {
+    return { valid: false, count: 0, reason: `parse error: ${err.message}` };
+  }
+}
+
+/**
+ * Restore cards.json from backup. Used when scrape fails or validation fails.
+ */
+function restoreBackup() {
+  const backupPath = CARDS_PATH + ".backup";
+  if (!fs.existsSync(backupPath)) return false;
+  try {
+    fs.copyFileSync(backupPath, CARDS_PATH);
+    fs.unlinkSync(backupPath);
+    return true;
+  } catch (err) {
+    console.error(`  ❌ Gagal restore backup: ${err.message}`);
+    return false;
+  }
+}
+
+/**
+ * Clean up backup file after successful operation.
+ */
+function cleanupBackup() {
+  const backupPath = CARDS_PATH + ".backup";
+  if (fs.existsSync(backupPath)) {
+    try { fs.unlinkSync(backupPath); } catch {}
+  }
+}
 
 function fetchUrl(url, retries = 3) {
   return new Promise((resolve, reject) => {
@@ -123,8 +199,20 @@ async function fetchExpansionList() {
  * new promos were added since the setCode never changes.
  */
 async function countGalleryCards(expansionId) {
-  let total = 0;
-  let page  = 1;
+  let page = 1;
+  // Track unique base enCardNos across all pages (skip _N suffix duplicates)
+  const seenBaseEnCardNos = new Set();
+
+  /** Extract base enCardNos from gallery page HTML, strip _N suffix. */
+  const extractBaseEnCardNos = (html) => {
+    const codes = [];
+    for (const m of html.matchAll(/<li class="ex-item">[\s\S]*?cardno=([^"&]+)/g)) {
+      const enCardNo = decodeURIComponent(m[1]);
+      const base     = enCardNo.replace(/_\d+$/, ""); // strip TD copy suffix
+      codes.push(base);
+    }
+    return codes;
+  };
 
   while (true) {
     let url = `${BASE_URL}/cardlist/cardsearch_ex/?expansion=${expansionId}&view=image&page=${page}`;
@@ -135,25 +223,25 @@ async function countGalleryCards(expansionId) {
       break;
     }
 
-    // Count <li class="ex-item"> in this page
-    const items = (html.match(/<li class="ex-item">/g) || []).length;
+    // Get this page's unique base cardCodes
+    let pageCodes = extractBaseEnCardNos(html);
 
     // Fallback to non-ex endpoint if first page returned 0 (D-PR sometimes needs this)
-    if (items === 0 && page === 1) {
+    if (pageCodes.length === 0 && page === 1) {
       try {
         url  = `${BASE_URL}/cardlist/cardsearch/?expansion=${expansionId}&view=image&page=${page}`;
         html = await fetchUrl(url);
-        const fallback = (html.match(/<li class="ex-item">/g) || []).length;
-        if (fallback === 0) break;
-        total += fallback;
+        pageCodes = extractBaseEnCardNos(html);
+        if (pageCodes.length === 0) break;
       } catch {
         break;
       }
-    } else if (items === 0) {
+    } else if (pageCodes.length === 0) {
       break;
-    } else {
-      total += items;
     }
+
+    // Add to set (dedup happens automatically)
+    for (const code of pageCodes) seenBaseEnCardNos.add(code);
 
     page++;
     // Safety cap: 50 pages × ~40 cards = 2000 max (D-PR fits within this)
@@ -162,17 +250,28 @@ async function countGalleryCards(expansionId) {
     await new Promise((r) => setTimeout(r, 250));
   }
 
-  return total;
+  return seenBaseEnCardNos.size;
 }
 
 /**
- * Count cards in local cards.json matching a setCode prefix.
- * For D-PR detection: count cards with setCode === "D-PR".
+ * Count cards in local cards.json matching a setCode.
+ *
+ * Special case: for "D-PR" (expansion=0 = all PR promo era cards),
+ * EN site bundles D-PR + V-PR + G-PR + PR (legacy) under expansion=0.
+ * So we count all promo setCodes for accurate comparison.
  */
 function countLocalCardsForSet(setCode) {
   if (!fs.existsSync(CARDS_PATH)) return 0;
   try {
     const cards = JSON.parse(fs.readFileSync(CARDS_PATH, "utf-8"));
+
+    // Special case: D-PR detection should compare against all promo era cards
+    // (EN site lumps them all under expansion=0)
+    if (setCode === "D-PR") {
+      const PROMO_SETCODES = new Set(["D-PR", "V-PR", "G-PR", "PR"]);
+      return cards.filter((c) => PROMO_SETCODES.has(c.setCode)).length;
+    }
+
     return cards.filter((c) => c.setCode === setCode).length;
   } catch {
     return 0;
@@ -220,6 +319,13 @@ function countCardsByExpansion() {
  * For each expansion ID from EN site, fetch its gallery page to determine setCode.
  * Returns Map<expansionId, setCode>.
  * Slow (1 fetch per expansion), so called only when needed.
+ *
+ * Validation strategy:
+ * 1. Fetch gallery page expansion=N
+ * 2. Check page is valid (has ex-item OR similar gallery markers)
+ * 3. If no items → expansion is empty/invalid, skip
+ * 4. Extract setCode from ALL cardno links, pick MOST FREQUENT one (not first)
+ *    (avoids picking up sidebar/related card links)
  */
 async function mapExpansionsToSetCodes(expansionIds) {
   const map = new Map();
@@ -237,13 +343,45 @@ async function mapExpansionsToSetCodes(expansionIds) {
       const url  = `${BASE_URL}/cardlist/cardsearch_ex/?expansion=${id}&view=image&page=1`;
       const html = await fetchUrl(url);
 
-      // Find any card code in gallery and extract setCode prefix
-      // Pattern: cardno=DZ-BT12%2F001EN or cardno=DZ-BT12/001EN
-      const match = html.match(/cardno=([A-Z0-9-]+)(?:%2F|\/)/);
-      const setCode = match ? match[1] : "(unknown)";
+      // Validation: check if page actually has gallery items
+      // EN site uses <li class="ex-item"> for each card in gallery
+      const exItemCount = (html.match(/<li class="ex-item">/g) || []).length;
+      if (exItemCount === 0) {
+        // No gallery items — expansion invalid/empty, mark and skip
+        map.set(id, "(empty)");
+        process.stdout.write(`\r  [${i + 1}/${expansionIds.length}] expansion=${id} → (empty)                  `);
+        await new Promise((r) => setTimeout(r, 200));
+        continue;
+      }
 
-      map.set(id, setCode);
-      process.stdout.write(`\r  [${i + 1}/${expansionIds.length}] expansion=${id} → ${setCode}                  `);
+      // Extract ALL cardno occurrences and pick the most frequent setCode
+      // This avoids grabbing the first non-card link (sidebar nav, related cards)
+      const allMatches = [...html.matchAll(/cardno=([A-Z0-9-]+)(?:%2F|\/)/g)];
+      const setCodeCounts = {};
+      for (const m of allMatches) {
+        const sc = m[1];
+        setCodeCounts[sc] = (setCodeCounts[sc] || 0) + 1;
+      }
+
+      // Pick the setCode with most occurrences (will be the actual set of this gallery)
+      let bestSetCode = "(unknown)";
+      let bestCount = 0;
+      for (const [sc, count] of Object.entries(setCodeCounts)) {
+        if (count > bestCount) {
+          bestSetCode = sc;
+          bestCount   = count;
+        }
+      }
+
+      // Sanity check: best setCode must appear at least ~50% of ex-items
+      // (Otherwise it's noise/sidebar)
+      if (bestCount < Math.max(2, Math.floor(exItemCount * 0.5))) {
+        map.set(id, "(ambiguous)");
+        process.stdout.write(`\r  [${i + 1}/${expansionIds.length}] expansion=${id} → (ambiguous: ${bestSetCode}×${bestCount}/${exItemCount} items)  `);
+      } else {
+        map.set(id, bestSetCode);
+        process.stdout.write(`\r  [${i + 1}/${expansionIds.length}] expansion=${id} → ${bestSetCode} (${bestCount}/${exItemCount} items)            `);
+      }
     } catch (err) {
       map.set(id, "(error)");
     }
@@ -330,38 +468,40 @@ async function main() {
   // - Untuk D-PR (expansion=0): JUMLAH kartu di EN > lokal (promo terus bertambah)
   const newExpansions = [];
 
-  // Step 2a: Cek D-PR via count comparison
+  // Step 2a: Cek promo cards (expansion=0 = D-PR + V-PR + G-PR + PR) via count
   if (expansionToSetCode.has(0)) {
-    console.log("\n  Cek D-PR (promo) via count comparison...");
+    console.log("\n  Cek Promo cards (expansion=0) via count comparison...");
+    console.log("    (EN site bundle D-PR + V-PR + G-PR + PR di expansion=0)");
     const localPRCount = countLocalCardsForSet("D-PR");
-    console.log(`    Lokal: ${localPRCount} kartu D-PR`);
+    console.log(`    Lokal: ${localPRCount} kartu promo (semua era)`);
 
     try {
       const remotePRCount = await countGalleryCards(0);
-      console.log(`    EN site: ${remotePRCount} kartu D-PR`);
+      console.log(`    EN site: ${remotePRCount} kartu promo`);
 
       if (remotePRCount > localPRCount) {
         const diff = remotePRCount - localPRCount;
-        console.log(`    📦 +${diff} kartu D-PR baru terdeteksi`);
+        console.log(`    📦 +${diff} kartu promo baru terdeteksi`);
         newExpansions.push({
           expId: 0,
           setCode: "D-PR",
           reason: `${diff} kartu baru (${localPRCount} → ${remotePRCount})`,
         });
       } else if (remotePRCount < localPRCount) {
-        console.log(`    ⚠️  EN site punya LEBIH SEDIKIT kartu dari lokal (mungkin ada yang ditarik). Skip.`);
+        console.log(`    ✅ Lokal lebih banyak dari EN site (${localPRCount - remotePRCount} kartu lama yang sudah di-archive). Tidak ada update.`);
       } else {
-        console.log(`    ✅ D-PR up-to-date`);
+        console.log(`    ✅ Promo cards up-to-date`);
       }
     } catch (err) {
-      console.warn(`    ⚠️  Gagal hitung D-PR di EN site: ${err.message}. Skip detection D-PR.`);
+      console.warn(`    ⚠️  Gagal hitung promo di EN site: ${err.message}. Skip detection.`);
     }
   }
 
   // Step 2b: Cek expansion biasa via setCode comparison
   for (const [expId, setCode] of expansionToSetCode) {
     if (expId === 0) continue; // sudah di-handle di Step 2a
-    if (setCode === "(unknown)" || setCode === "(error)") continue;
+    // Skip invalid/ambiguous setCodes (avoid false positives)
+    if (["(unknown)", "(error)", "(empty)", "(ambiguous)"].includes(setCode)) continue;
     if (!existingSets.has(setCode)) {
       newExpansions.push({ expId, setCode, reason: "setCode baru" });
     }
@@ -389,11 +529,23 @@ async function main() {
     process.exit(0);
   }
 
-  // Step 4: Scrape each new expansion
-  console.log("\nStep 3: Scrape expansion baru");
+  // Step 3a: Apply max-expansions limit (avoid GitHub Actions timeout)
+  const expansionsToScrape = newExpansions.slice(0, ARG_MAX_EXP);
+  const deferred = newExpansions.length - expansionsToScrape.length;
+  if (deferred > 0) {
+    console.log(`\n  ⏸️  Limit ${ARG_MAX_EXP} expansion per run. ${deferred} expansion ditunda ke run berikutnya.`);
+  }
+
+  // Step 3b: Backup cards.json sebelum scrape (untuk rollback)
+  console.log("\nStep 3: Backup cards.json sebelum scrape...");
+  const hasBackup = backupCardsJson();
+  console.log(hasBackup ? "  ✅ Backup dibuat" : "  ⚠️  Tidak ada backup (cards.json belum ada)");
+
+  // Step 4: Scrape each expansion
+  console.log("\nStep 4: Scrape expansion baru");
   let succeeded = 0;
   let failed    = 0;
-  for (const { expId, setCode } of newExpansions) {
+  for (const { expId, setCode } of expansionsToScrape) {
     const ok = runScraper(expId, ARG_DELAY);
     if (ok) {
       succeeded++;
@@ -404,15 +556,37 @@ async function main() {
     }
   }
 
-  // Step 5: Diagnose
-  console.log("\nStep 4: Verify hasil dengan diagnose.js");
+  // Step 5: Validate hasil sebelum commit
+  console.log("\nStep 5: Validate cards.json hasil scrape...");
+  const validation = validateCardsJson(MIN_VALID_CARD_COUNT);
+  if (!validation.valid) {
+    console.error(`  ❌ cards.json TIDAK VALID: ${validation.reason}`);
+    console.error(`     (${validation.count} kartu — minimum ${MIN_VALID_CARD_COUNT})`);
+    console.log("\n  🔄 Rollback dari backup...");
+    if (restoreBackup()) {
+      console.log("  ✅ cards.json dikembalikan ke versi sebelum scrape");
+    } else {
+      console.error("  ❌ Rollback GAGAL — cards.json mungkin korup!");
+    }
+    process.exit(2);
+  }
+  console.log(`  ✅ Valid (${validation.count} kartu)`);
+
+  // Step 6: Diagnose
+  console.log("\nStep 6: Verify hasil dengan diagnose.js");
   runDiagnose();
 
-  // Step 6: Summary
+  // Cleanup backup setelah sukses
+  cleanupBackup();
+
+  // Step 7: Summary
   console.log("\n═══════════════════════════════════════════════════");
   console.log(`  Selesai. ${succeeded} sukses, ${failed} gagal.`);
   if (failed > 0) {
     console.log("  ⚠️  Ada expansion yang gagal — cek log di atas.");
+  }
+  if (deferred > 0) {
+    console.log(`  ⏸️  ${deferred} expansion akan di-scrape di run berikutnya.`);
   }
 
   // Print machine-readable summary for GitHub Actions
