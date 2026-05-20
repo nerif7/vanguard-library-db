@@ -31,8 +31,9 @@ const { spawnSync } = require("child_process");
 // ── Config ────────────────────────────────────────────────────────────────────
 
 const BASE_URL    = "https://en.cf-vanguard.com";
-const CARDS_PATH  = path.join(__dirname, "cards.json");
-const SCRAPE_PATH = path.join(__dirname, "scrape_en.js");
+const CARDS_PATH   = path.join(__dirname, "cards.json");
+const VERSION_PATH = path.join(__dirname, "version.json");
+const SCRAPE_PATH  = path.join(__dirname, "scrape_en.js");
 const DIAGNOSE_PATH = path.join(__dirname, "diagnose.js");
 
 const args            = process.argv.slice(2);
@@ -111,6 +112,26 @@ function restoreBackup() {
   } catch (err) {
     console.error(`  ❌ Gagal restore backup: ${err.message}`);
     return false;
+  }
+}
+
+/**
+ * Generate version.json — metadata file for app clients to check for updates
+ * without needing to download the full 11 MB cards.json.
+ * @param {string[]} newSets - setCodes scraped in this run
+ */
+function generateVersionJson(newSets) {
+  try {
+    const cards = JSON.parse(fs.readFileSync(CARDS_PATH, "utf-8"));
+    const version = {
+      lastUpdate: new Date().toISOString(),
+      cardCount:  cards.length,
+      newSets,
+    };
+    fs.writeFileSync(VERSION_PATH, JSON.stringify(version, null, 2) + "\n");
+    console.log(`  ✅ version.json diperbarui (${cards.length} kartu, sets baru: ${newSets.join(", ") || "tidak ada"})`);
+  } catch (err) {
+    console.warn(`  ⚠️  Gagal generate version.json: ${err.message}`);
   }
 }
 
@@ -449,6 +470,7 @@ async function main() {
       process.exit(2);
     }
     runDiagnose();
+    generateVersionJson([]);
     console.log("\n═══════════════════════════════════════════════════");
     console.log("  ✅ Force-update selesai");
     console.log("═══════════════════════════════════════════════════");
@@ -545,10 +567,12 @@ async function main() {
   console.log("\nStep 4: Scrape expansion baru");
   let succeeded = 0;
   let failed    = 0;
+  const succeededSets = [];
   for (const { expId, setCode } of expansionsToScrape) {
     const ok = runScraper(expId, ARG_DELAY);
     if (ok) {
       succeeded++;
+      succeededSets.push(setCode);
       console.log(`  ✅ expansion=${expId} (${setCode}) selesai`);
     } else {
       failed++;
@@ -579,7 +603,11 @@ async function main() {
   // Cleanup backup setelah sukses
   cleanupBackup();
 
-  // Step 7: Summary
+  // Step 7: Generate version.json untuk app clients
+  console.log("\nStep 7: Generate version.json");
+  generateVersionJson(succeededSets);
+
+  // Step 8: Summary
   console.log("\n═══════════════════════════════════════════════════");
   console.log(`  Selesai. ${succeeded} sukses, ${failed} gagal.`);
   if (failed > 0) {
