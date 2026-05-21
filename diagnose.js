@@ -1,13 +1,15 @@
 #!/usr/bin/env node
 /**
- * diagnose.js — Cek kualitas output cards.json
+ * diagnose.js — Cek kualitas output cards.json / cards_jp.json
  *
  * Usage:
- *   node diagnose.js                       # diagnose semua kartu
- *   node diagnose.js --set DZ-BT12         # filter satu set
- *   node diagnose.js --set DZ-BT12,D-BT08  # filter beberapa set (comma-separated)
- *   node diagnose.js --set DZ-BT           # prefix matching: semua DZ-BT01..DZ-BTxx
- *   node diagnose.js --list                # list semua setCode yang ada di DB
+ *   node diagnose.js                          # diagnose EN (cards.json)
+ *   node diagnose.js --region jp              # diagnose JP (cards_jp.json)
+ *   node diagnose.js --set DZ-BT12            # filter satu set
+ *   node diagnose.js --set DZ-BT12,D-BT08    # filter beberapa set (comma-separated)
+ *   node diagnose.js --set DZ-BT              # prefix matching: semua DZ-BT01..DZ-BTxx
+ *   node diagnose.js --list                   # list semua setCode yang ada di DB
+ *   node diagnose.js --region jp --list       # list JP sets
  *
  * Filter --set memakai prefix matching:
  *   --set DZ-BT  → match DZ-BT01, DZ-BT02, ..., DZ-BT12
@@ -18,8 +20,6 @@
 const fs = require("fs");
 const path = require("path");
 
-const CARDS_PATH = path.join(__dirname, "cards.json");
-
 // ── Argument parsing ─────────────────────────────────────────────────────────
 
 const args = process.argv.slice(2);
@@ -28,13 +28,48 @@ function getArg(flag) {
   return i !== -1 ? args[i + 1] : null;
 }
 
-const ARG_LIST = args.includes("--list");
-const ARG_SET  = getArg("--set");
+const ARG_LIST   = args.includes("--list");
+const ARG_SET    = getArg("--set");
+const ARG_REGION = (getArg("--region") ?? "en").toLowerCase();
+
+if (ARG_REGION !== "en" && ARG_REGION !== "jp") {
+  console.error("--region harus 'en' atau 'jp'");
+  process.exit(1);
+}
+
+// ── Region config ─────────────────────────────────────────────────────────────
+
+const REGION_CONFIG = {
+  en: {
+    label:          "EN",
+    cardsFile:      "cards.json",
+    primaryKey:     "enCardNo",
+    nameField:      "name",
+    imageField:     "imageUrlEn",
+    unitTypeNormal: "Normal Unit",
+    unitTypeG:      "G Unit",
+    sampleTypes:    ["G Unit", "Normal Order", "Set Order", "Blitz Order", "Token", null],
+  },
+  jp: {
+    label:          "JP",
+    cardsFile:      "cards_jp.json",
+    primaryKey:     "jpCardNo",
+    nameField:      "nameJp",
+    imageField:     "imageUrlJp",
+    unitTypeNormal: "ノーマルユニット",
+    unitTypeG:      "Gユニット",
+    sampleTypes:    ["Gユニット", "ノーマルオーダー", "セットオーダー", "ブレイズオーダー", "トークン", null],
+  },
+};
+
+const cfg = REGION_CONFIG[ARG_REGION];
+const CARDS_PATH = path.join(__dirname, cfg.cardsFile);
 
 // ── Load data ────────────────────────────────────────────────────────────────
 
 if (!fs.existsSync(CARDS_PATH)) {
-  console.error("File tidak ditemukan:", CARDS_PATH);
+  console.error(`File tidak ditemukan: ${CARDS_PATH}`);
+  console.error(ARG_REGION === "jp" ? "Jalankan 'node scrape_jp.js' untuk membuat cards_jp.json" : "");
   process.exit(1);
 }
 const allCards = JSON.parse(fs.readFileSync(CARDS_PATH, "utf-8"));
@@ -50,7 +85,7 @@ if (ARG_LIST) {
   const sorted = Object.entries(bySet).sort((a, b) => a[0].localeCompare(b[0]));
 
   console.log("═══════════════════════════════════════════════════");
-  console.log(`  Sets in cards.json (${sorted.length} unique sets)`);
+  console.log(`  Sets in ${cfg.cardsFile} (${sorted.length} unique sets)`);
   console.log("═══════════════════════════════════════════════════");
   for (const [setCode, count] of sorted) {
     console.log(`  ${setCode.padEnd(15)} ${String(count).padStart(4)} kartu`);
@@ -83,7 +118,7 @@ if (ARG_SET) {
 }
 
 console.log("═══════════════════════════════════════════════════");
-console.log(`  Diagnose: ${filterLabel}`);
+console.log(`  Diagnose ${cfg.label}: ${filterLabel}`);
 console.log(`  ${en.length} kartu dari total ${allCards.length}`);
 console.log("═══════════════════════════════════════════════════\n");
 
@@ -93,7 +128,7 @@ console.log("══════════════════════�
 console.log("  1. Field coverage");
 console.log("═══════════════════════════════════════════════════");
 
-const fields = ["unitType", "nations", "clan", "races", "grade", "trigger", "imageUrlEn"];
+const fields = ["unitType", "nations", "clan", "races", "grade", "trigger", cfg.imageField];
 for (const f of fields) {
   const filled = en.filter((c) => {
     const v = c[f];
@@ -112,7 +147,7 @@ console.log("\n═════════════════════�
 console.log("  2. Kartu dengan field kosong (kemungkinan fetch gagal)");
 console.log("═══════════════════════════════════════════════════");
 
-const isUnitCard = (c) => c.unitType === "Normal Unit" || c.unitType === "G Unit";
+const isUnitCard = (c) => c.unitType === cfg.unitTypeNormal || c.unitType === cfg.unitTypeG;
 const incomplete = en.filter((c) => {
   // Card definitely needs investigation if unitType is null
   if (!c.unitType) return true;
@@ -125,7 +160,8 @@ console.log(`  (Order/Token/Others dengan nations kosong tidak dihitung — mere
 
 const byPrefix = {};
 for (const c of incomplete) {
-  const prefix = c.enCardNo?.split("/")[1]?.replace(/\d+EN?$/, "") || "NUM";
+  const rawNum = (c[cfg.primaryKey] ?? "").split("/")[1] ?? "";
+  const prefix = rawNum.replace(/\d+[A-Z\s]*$/, "") || "NUM";
   byPrefix[prefix] = (byPrefix[prefix] || 0) + 1;
 }
 console.log("  Breakdown by card number prefix:");
@@ -135,7 +171,7 @@ for (const [pfx, count] of Object.entries(byPrefix).sort((a, b) => b[1] - a[1]))
 
 console.log("\n  Sample 10:");
 for (const c of incomplete.slice(0, 10)) {
-  console.log(`    ${c.enCardNo.padEnd(22)} "${c.name}"`);
+  console.log(`    ${(c[cfg.primaryKey] ?? "").padEnd(22)} "${c[cfg.nameField] ?? ""}"`);
 }
 
 // ── 3. unitType distribution ─────────────────────────────────────────────────
@@ -218,19 +254,18 @@ console.log("\n═════════════════════�
 console.log("  7. Sample per unitType");
 console.log("═══════════════════════════════════════════════════");
 
-const unitTypeSamples = ["G Unit", "Normal Order", "Set Order", "Blitz Order", "Token", "Others", null];
-for (const ut of unitTypeSamples) {
+for (const ut of cfg.sampleTypes) {
   const sample = en.find((c) => c.unitType === ut);
   if (!sample) { console.log(`\n  [${ut ?? "null"}] — tidak ada`); continue; }
   console.log(`\n  [${ut ?? "null unitType"}]`);
-  console.log(`    enCardNo  : ${sample.enCardNo}`);
-  console.log(`    name      : ${sample.name}`);
-  console.log(`    nations   : ${JSON.stringify(sample.nations)}`);
-  console.log(`    clan      : ${JSON.stringify(sample.clan)}`);
-  console.log(`    races     : ${JSON.stringify(sample.races)}`);
-  console.log(`    grade     : ${sample.grade}`);
-  console.log(`    trigger   : ${sample.trigger}`);
-  console.log(`    imageUrlEn: ${sample.imageUrlEn ? "✓ ada" : "✗ null"}`);
+  console.log(`    ${cfg.primaryKey.padEnd(12)}: ${sample[cfg.primaryKey]}`);
+  console.log(`    ${cfg.nameField.padEnd(12)}: ${sample[cfg.nameField]}`);
+  console.log(`    nations     : ${JSON.stringify(sample.nations)}`);
+  console.log(`    clan        : ${JSON.stringify(sample.clan)}`);
+  console.log(`    races       : ${JSON.stringify(sample.races)}`);
+  console.log(`    grade       : ${sample.grade}`);
+  console.log(`    trigger     : ${sample.trigger}`);
+  console.log(`    ${cfg.imageField.padEnd(12)}: ${sample[cfg.imageField] ? "✓ ada" : "✗ null"}`);
 }
 
 // ── 8. Dual-nation cards ─────────────────────────────────────────────────────
@@ -245,7 +280,7 @@ if (dualNation.length === 0) {
 } else {
   console.log(`  ${dualNation.length} kartu dual-nation:`);
   for (const c of dualNation.slice(0, 8)) {
-    console.log(`    ${c.enCardNo.padEnd(22)} ${JSON.stringify(c.nations)}`);
+    console.log(`    ${(c[cfg.primaryKey] ?? "").padEnd(22)} ${JSON.stringify(c.nations)}`);
   }
   if (dualNation.length > 8) console.log(`    ... dan ${dualNation.length - 8} lagi`);
 }
@@ -265,8 +300,8 @@ if (nullUnitType > 0) issues.push(`⚠️  ${nullUnitType} kartu tanpa unitType`
 const incompleteUnits = en.filter((c) => isUnitCard(c) && (c.nations ?? []).length === 0).length;
 if (incompleteUnits > 0) issues.push(`⚠️  ${incompleteUnits} unit cards tanpa nations (kemungkinan fetch gagal)`);
 
-const nullImage = en.filter((c) => !c.imageUrlEn).length;
-if (nullImage > 0) issues.push(`⚠️  ${nullImage} kartu tanpa imageUrlEn`);
+const nullImage = en.filter((c) => !c[cfg.imageField]).length;
+if (nullImage > 0) issues.push(`⚠️  ${nullImage} kartu tanpa ${cfg.imageField}`);
 
 const nullGrade = en.filter((c) => c.grade === null).length;
 if (nullGrade > 0) issues.push(`ℹ️  ${nullGrade} kartu tanpa grade (normal untuk Order/Token)`);
