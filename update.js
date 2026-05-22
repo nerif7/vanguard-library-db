@@ -118,15 +118,25 @@ function restoreBackup() {
 /**
  * Generate version.json — metadata file for app clients to check for updates
  * without needing to download the full 11 MB cards.json.
+ * Uses read-modify-write to preserve JP fields written by update_jp.js.
  * @param {string[]} newSets - setCodes scraped in this run
  */
 function generateVersionJson(newSets) {
   try {
     const cards = JSON.parse(fs.readFileSync(CARDS_PATH, "utf-8"));
+
+    // Read-modify-write: preserve any existing JP fields
+    let existing = {};
+    if (fs.existsSync(VERSION_PATH)) {
+      try { existing = JSON.parse(fs.readFileSync(VERSION_PATH, "utf-8")); } catch {}
+    }
+
     const version = {
-      lastUpdate: new Date().toISOString(),
-      cardCount:  cards.length,
+      lastUpdate:   new Date().toISOString(),
+      cardCount:    cards.length,
       newSets,
+      cardCountJp:  existing.cardCountJp  ?? 0,
+      newSetsJp:    existing.newSetsJp    ?? [],
     };
     fs.writeFileSync(VERSION_PATH, JSON.stringify(version, null, 2) + "\n");
     console.log(`  ✅ version.json diperbarui (${cards.length} kartu, sets baru: ${newSets.join(", ") || "tidak ada"})`);
