@@ -1,26 +1,59 @@
 #!/usr/bin/env node
 /**
- * fix_data.js — Perbaiki data di cards.json tanpa perlu scrape ulang
+ * fix_data.js — Perbaiki data di cards.json / cards_jp.json tanpa perlu scrape ulang
  *
  * Memperbaiki:
  *   1. Bug clan duplikat: hapus entry di clan[] yang sudah ada di nations[]
  *      (kasus G era / BCS dimana div.group berisi nama nation, bukan clan)
- *   2. Bug setCode/cardNumber untuk kartu dengan variant suffix (-B/-W)
- *      (kasus EB10/001EN-B yang sebelumnya setCode-nya jadi "EB10/001EN-B"
- *      dan cardNumber-nya kosong)
+ *   2. Bug setCode/cardNumber untuk kartu dengan variant suffix
+ *   3. Hapus duplikat _N suffix (TD copies bug)
  *
  * Usage:
- *   node fix_data.js              # perbaiki cards.json
- *   node fix_data.js --dry-run    # preview saja, tidak menulis file
+ *   node fix_data.js                        # perbaiki cards.json (EN)
+ *   node fix_data.js --region jp            # perbaiki cards_jp.json (JP)
+ *   node fix_data.js --dry-run              # preview saja, tidak menulis file
+ *   node fix_data.js --region jp --dry-run  # preview JP
  */
 
-const fs = require("fs");
+const fs   = require("fs");
 const path = require("path");
 
-const CARDS_PATH = path.join(__dirname, "cards.json");
+// ── Argument parsing ─────────────────────────────────────────────────────────
 
 const args     = process.argv.slice(2);
 const DRY_RUN  = args.includes("--dry-run");
+
+function getArg(flag) {
+  const i = args.indexOf(flag);
+  return i !== -1 ? args[i + 1] : null;
+}
+
+const ARG_REGION = (getArg("--region") ?? "en").toLowerCase();
+
+if (ARG_REGION !== "en" && ARG_REGION !== "jp") {
+  console.error("--region harus 'en' atau 'jp'");
+  process.exit(1);
+}
+
+// ── Region config ─────────────────────────────────────────────────────────────
+
+const REGION_CONFIG = {
+  en: {
+    label:      "EN",
+    cardsFile:  "cards.json",
+    primaryKey: "enCardNo",
+    nameField:  "name",
+  },
+  jp: {
+    label:      "JP",
+    cardsFile:  "cards_jp.json",
+    primaryKey: "jpCardNo",
+    nameField:  "nameJp",
+  },
+};
+
+const cfg        = REGION_CONFIG[ARG_REGION];
+const CARDS_PATH = path.join(__dirname, cfg.cardsFile);
 
 // ── Load ─────────────────────────────────────────────────────────────────────
 
@@ -30,10 +63,70 @@ if (!fs.existsSync(CARDS_PATH)) {
 }
 
 const cards = JSON.parse(fs.readFileSync(CARDS_PATH, "utf-8"));
-console.log(`Loaded ${cards.length} cards from cards.json`);
+console.log(`Loaded ${cards.length} cards from ${cfg.cardsFile} [${cfg.label}]`);
 console.log(DRY_RUN ? "Mode: DRY RUN (preview saja)\n" : "Mode: WRITE (akan menulis file)\n");
 
-// ── Fix 1: Remove duplicate clan entries that match nation ──────────────────
+// ── Card code parsers ────────────────────────────────────────────────────────
+
+/**
+ * EN: parse enCardNo → { setCode, cardNumber, normalizedPrimaryKey }
+ * Handles all known EN format variants.
+ */
+function parseCardCodeEn(enCardNo) {
+  if (!enCardNo || typeof enCardNo !== "string") {
+    return { setCode: "", cardNumber: "", normalizedPrimaryKey: enCardNo };
+  }
+
+  let normalized = enCardNo.trim();
+  normalized = normalized.replace(/\s*\(Hot-stamped ver\.\)\s*$/i, "-HS");
+  normalized = normalized.replace(/\s+with serial number\s*$/i, "-SN");
+  normalized = normalized.replace(/\s+Neon Gyze side\s*$/i, "-NGS");
+  normalized = normalized.replace(/\s+([A-Z][A-Za-z]+)\s*$/, "-$1");
+
+  const parts = normalized.split("/");
+  if (parts.length !== 2) return { setCode: normalized, cardNumber: "", normalizedPrimaryKey: normalized };
+
+  const setCode = parts[0];
+  let cardId = parts[1];
+
+  cardId = cardId.replace(/^\d+th/, "");
+  cardId = cardId.replace(/^Re:/, "");
+  cardId = cardId.replace(/^V-GM-/, "");
+  cardId = cardId.replace(/＋/, "");
+
+  const numMatch = cardId.match(/^([A-Z]*\d+)/i);
+  const cardNumber = numMatch ? numMatch[1] : "";
+
+  return { setCode, cardNumber, normalizedPrimaryKey: normalized };
+}
+
+/**
+ * JP: parse jpCardNo → { setCode, cardNumber, normalizedPrimaryKey }
+ * Handles JP format variants including " PR" suffix and "_N" copy index.
+ */
+function parseCardCodeJp(jpCardNo) {
+  if (!jpCardNo || typeof jpCardNo !== "string") {
+    return { setCode: "", cardNumber: "", normalizedPrimaryKey: jpCardNo };
+  }
+
+  const normalized = jpCardNo.trim();
+  const parts = normalized.split("/");
+  if (parts.length < 2) return { setCode: normalized, cardNumber: "", normalizedPrimaryKey: normalized };
+
+  const setCode = parts[0];
+  let cardId = parts.slice(1).join("/");
+
+  cardId = cardId.replace(/\s+PR$/i, "").replace(/_\d+$/, "");
+
+  const numMatch = cardId.match(/^([A-Z]*\d+)/i);
+  const cardNumber = numMatch ? numMatch[1] : "";
+
+  return { setCode, cardNumber, normalizedPrimaryKey: normalized };
+}
+
+const parseCardCode = ARG_REGION === "jp" ? parseCardCodeJp : parseCardCodeEn;
+
+// ── Fix 1: Remove duplicate clan entries that match nation ───────────────────
 
 console.log("═══════════════════════════════════════════════════");
 console.log("  Fix 1: Hapus clan duplikat dari nations");
@@ -53,9 +146,9 @@ for (const c of cards) {
     fixed1++;
     if (samples1.length < 5) {
       samples1.push({
-        enCardNo: c.enCardNo,
-        name:     c.name,
-        nations:  c.nations,
+        id:         c[cfg.primaryKey],
+        name:       c[cfg.nameField],
+        nations:    c.nations,
         clanBefore: before,
         clanAfter:  c.clan,
       });
@@ -68,91 +161,49 @@ console.log(`  Total: ${fixed1} kartu diperbaiki\n`);
 if (samples1.length > 0) {
   console.log("  Sample 5 kartu yang diperbaiki:");
   for (const s of samples1) {
-    console.log(`    ${s.enCardNo.padEnd(22)} "${s.name}"`);
+    console.log(`    ${(s.id ?? "").padEnd(22)} "${s.name}"`);
     console.log(`      nations    : ${JSON.stringify(s.nations)}`);
     console.log(`      clan before: ${JSON.stringify(s.clanBefore)}`);
     console.log(`      clan after : ${JSON.stringify(s.clanAfter)}`);
   }
 }
 
-// ── Fix 2: Re-parse setCode + cardNumber dengan parser baru ────────────────
+// ── Fix 2: Re-parse setCode + cardNumber ────────────────────────────────────
 
 console.log("\n═══════════════════════════════════════════════════");
 console.log("  Fix 2: Re-parse setCode + cardNumber (robust parser)");
 console.log("═══════════════════════════════════════════════════");
 
-/**
- * Robust parser — handles all known card code format variants:
- *   Regular, EX cards, B/W variant (EB10), Special (-S),
- *   BCS Imaginary Gift (V-GM-), Anniversary (10th), Sneak preview (-SEN),
- *   DZ Special (SER＋), TD copies (_N), G Reborn (Re:), G Special (S01),
- *   Alt rarity (PR suffix), Parallel, Hot-stamped, etc.
- */
-function parseCardCode(enCardNo) {
-  if (!enCardNo || typeof enCardNo !== "string") {
-    return { setCode: "", cardNumber: "" };
-  }
-
-  // Step 1: Normalize trailing description/tag into dash suffix
-  let normalized = enCardNo.trim();
-  normalized = normalized.replace(/\s*\(Hot-stamped ver\.\)\s*$/i, "-HS");
-  normalized = normalized.replace(/\s+with serial number\s*$/i, "-SN");
-  normalized = normalized.replace(/\s+Neon Gyze side\s*$/i, "-NGS");
-  normalized = normalized.replace(/\s+([A-Z][A-Za-z]+)\s*$/, "-$1");
-
-  // Step 2: Split on "/"
-  const parts = normalized.split("/");
-  if (parts.length !== 2) return { setCode: normalized, cardNumber: "" };
-
-  const setCode = parts[0];
-  let cardId = parts[1];
-
-  // Step 3: Strip metadata prefixes
-  cardId = cardId.replace(/^\d+th/, "");
-  cardId = cardId.replace(/^Re:/, "");
-  cardId = cardId.replace(/^V-GM-/, "");
-  cardId = cardId.replace(/＋/, "");
-
-  // Step 4: Extract cardNumber
-  const numMatch = cardId.match(/^([A-Z]*\d+)/i);
-  const cardNumber = numMatch ? numMatch[1] : "";
-
-  // Step 5: Compute normalized enCardNo (dengan suffix replace)
-  const normalizedEnCardNo = normalized;
-
-  return { setCode, cardNumber, normalizedEnCardNo };
-}
-
 let fixed2 = 0;
 const samples2 = [];
 
 for (const c of cards) {
-  if (!c.enCardNo) continue;
+  const primaryVal = c[cfg.primaryKey];
+  if (!primaryVal) continue;
 
-  const { setCode: newSetCode, cardNumber: newCardNum, normalizedEnCardNo } = parseCardCode(c.enCardNo);
+  const { setCode: newSetCode, cardNumber: newCardNum, normalizedPrimaryKey } = parseCardCode(primaryVal);
 
-  // Skip jika parse gagal
   if (!newSetCode || !newCardNum) continue;
 
-  const enCardNoNeedsNormalize = c.enCardNo !== normalizedEnCardNo;
-  const setCodeWrong   = c.setCode !== newSetCode;
-  const cardNumberWrong = (c.cardNumber || "") !== newCardNum;
+  const primaryNeedsNormalize = primaryVal !== normalizedPrimaryKey;
+  const setCodeWrong          = c.setCode !== newSetCode;
+  const cardNumberWrong       = (c.cardNumber || "") !== newCardNum;
 
-  if (setCodeWrong || cardNumberWrong || enCardNoNeedsNormalize) {
+  if (setCodeWrong || cardNumberWrong || primaryNeedsNormalize) {
     if (samples2.length < 8) {
       samples2.push({
-        oldEnCardNo:     c.enCardNo,
-        newEnCardNo:     normalizedEnCardNo,
-        name:            c.name,
-        oldSetCode:      c.setCode,
+        oldId:         primaryVal,
+        newId:         normalizedPrimaryKey,
+        name:          c[cfg.nameField],
+        oldSetCode:    c.setCode,
         newSetCode,
-        oldCardNumber:   c.cardNumber,
-        newCardNumber:   newCardNum,
+        oldCardNumber: c.cardNumber,
+        newCardNumber: newCardNum,
       });
     }
-    c.enCardNo   = normalizedEnCardNo;
-    c.setCode    = newSetCode;
-    c.cardNumber = newCardNum;
+    c[cfg.primaryKey] = normalizedPrimaryKey;
+    c.setCode         = newSetCode;
+    c.cardNumber      = newCardNum;
     fixed2++;
   }
 }
@@ -163,10 +214,10 @@ if (samples2.length > 0) {
   console.log("  Sample 8 kartu yang diperbaiki:");
   for (const s of samples2) {
     console.log(`    "${s.name}"`);
-    if (s.oldEnCardNo !== s.newEnCardNo) {
-      console.log(`      enCardNo    : "${s.oldEnCardNo}" → "${s.newEnCardNo}"`);
+    if (s.oldId !== s.newId) {
+      console.log(`      ${cfg.primaryKey.padEnd(12)}: "${s.oldId}" → "${s.newId}"`);
     } else {
-      console.log(`      enCardNo    : "${s.oldEnCardNo}"`);
+      console.log(`      ${cfg.primaryKey.padEnd(12)}: "${s.oldId}"`);
     }
     console.log(`      setCode     : "${s.oldSetCode}" → "${s.newSetCode}"`);
     console.log(`      cardNumber  : "${s.oldCardNumber || ""}" → "${s.newCardNumber}"`);
@@ -179,37 +230,31 @@ console.log("\n═════════════════════�
 console.log("  Fix 3: Hapus duplikat dengan suffix _N (TD copies bug)");
 console.log("═══════════════════════════════════════════════════");
 
-// Group by base enCardNo (strip _N suffix). If multiple records exist for same base,
-// keep one (prefer the one without _N if exists, else the first one with smallest N).
 const byBase = new Map();
 for (let i = 0; i < cards.length; i++) {
   const c = cards[i];
-  if (!c.enCardNo) continue;
-  const base = c.enCardNo.replace(/_\d+$/, "");
+  const pk = c[cfg.primaryKey];
+  if (!pk) continue;
+  const base = pk.replace(/_\d+$/, "");
   if (!byBase.has(base)) byBase.set(base, []);
-  byBase.get(base).push({ index: i, enCardNo: c.enCardNo });
+  byBase.get(base).push({ index: i, pk });
 }
 
-// Find which records to remove
 const toRemove = new Set();
 const samples3 = [];
 
 for (const [base, records] of byBase) {
-  if (records.length <= 1) continue;  // No duplicate
+  if (records.length <= 1) continue;
 
-  // Prefer record without _N suffix (= base itself)
-  // Otherwise prefer record with smallest _N
   records.sort((a, b) => {
-    const aHasSuffix = /_\d+$/.test(a.enCardNo);
-    const bHasSuffix = /_\d+$/.test(b.enCardNo);
-    if (aHasSuffix !== bHasSuffix) return aHasSuffix ? 1 : -1;  // No suffix wins
-    // Both have suffix: smaller N wins
-    const aN = Number((a.enCardNo.match(/_(\d+)$/) ?? [0, 0])[1]);
-    const bN = Number((b.enCardNo.match(/_(\d+)$/) ?? [0, 0])[1]);
+    const aHasSuffix = /_\d+$/.test(a.pk);
+    const bHasSuffix = /_\d+$/.test(b.pk);
+    if (aHasSuffix !== bHasSuffix) return aHasSuffix ? 1 : -1;
+    const aN = Number((a.pk.match(/_(\d+)$/) ?? [0, 0])[1]);
+    const bN = Number((b.pk.match(/_(\d+)$/) ?? [0, 0])[1]);
     return aN - bN;
   });
 
-  // Keep first (records[0]), mark rest for removal
   for (let i = 1; i < records.length; i++) {
     toRemove.add(records[i].index);
     if (samples3.length < 5) {
@@ -217,9 +262,9 @@ for (const [base, records] of byBase) {
       const kept    = cards[records[0].index];
       samples3.push({
         base,
-        keptEnCardNo:    kept.enCardNo,
-        removedEnCardNo: removed.enCardNo,
-        name:            removed.name,
+        keptId:    kept[cfg.primaryKey],
+        removedId: removed[cfg.primaryKey],
+        name:      removed[cfg.nameField],
       });
     }
   }
@@ -232,20 +277,19 @@ if (samples3.length > 0) {
   console.log("  Sample 5 kartu yang dihapus:");
   for (const s of samples3) {
     console.log(`    "${s.name}"`);
-    console.log(`      kept    : ${s.keptEnCardNo}`);
-    console.log(`      removed : ${s.removedEnCardNo}`);
+    console.log(`      kept    : ${s.keptId}`);
+    console.log(`      removed : ${s.removedId}`);
   }
 }
 
-// Apply removal (filter out indices in toRemove)
 if (fixed3 > 0) {
   for (let i = cards.length - 1; i >= 0; i--) {
     if (toRemove.has(i)) cards.splice(i, 1);
   }
-  console.log(`\n  cards.json sekarang: ${cards.length} kartu`);
+  console.log(`\n  ${cfg.cardsFile} sekarang: ${cards.length} kartu`);
 }
 
-// ── Write ───────────────────────────────────────────────────────────────────
+// ── Write ────────────────────────────────────────────────────────────────────
 
 const totalFixed = fixed1 + fixed2 + fixed3;
 
@@ -259,14 +303,12 @@ if (totalFixed === 0) {
   process.exit(0);
 }
 
-// Backup file lama dulu, just in case
 const backupPath = CARDS_PATH + ".backup-" + Date.now();
 fs.copyFileSync(CARDS_PATH, backupPath);
 console.log(`\n  Backup dibuat: ${path.basename(backupPath)}`);
 
-// Write cards.json
 fs.writeFileSync(CARDS_PATH, JSON.stringify(cards, null, 2));
-console.log(`  ✅ ${CARDS_PATH} ditulis ulang`);
+console.log(`  ✅ ${cfg.cardsFile} ditulis ulang`);
 
 console.log("\n═══════════════════════════════════════════════════");
 console.log(`  Selesai. ${totalFixed} perubahan (${fixed1} clan, ${fixed2} setCode, ${fixed3} duplikat).`);
