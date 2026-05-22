@@ -350,6 +350,7 @@ async function main() {
     }
     const ok = runScraper(forced);
     if (!ok) { console.error("  ❌ Scraper gagal"); process.exit(2); }
+    runFixData();
     runDiagnose();
     generateVersionJson([]);
     console.log("\n═══════════════════════════════════════════════════");

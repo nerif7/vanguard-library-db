@@ -121,15 +121,21 @@ jobs:
           }
 
           # Retry push dengan max 3 attempts (handle race condition)
+          PUSHED=false
           for i in 1 2 3; do
             if git push; then
               echo "✅ Push berhasil di attempt $i"
+              PUSHED=true
               break
             fi
             echo "⚠️  Push attempt $i gagal, retry..."
             git pull --rebase origin ${{ github.ref_name }}
             sleep 2
           done
+          if [ "$PUSHED" = "false" ]; then
+            echo "❌ Push gagal setelah 3 attempts"
+            exit 1
+          fi
 
       # ─────────────────────────────────────────────────────────
       # 6. Summary di Actions UI
@@ -257,15 +263,21 @@ jobs:
             git pull --no-rebase origin ${{ github.ref_name }}
           }
 
+          PUSHED=false
           for i in 1 2 3; do
             if git push; then
               echo "✅ Push JP berhasil di attempt $i"
+              PUSHED=true
               break
             fi
             echo "⚠️  Push JP attempt $i gagal, retry..."
             git pull --rebase origin ${{ github.ref_name }}
             sleep 2
           done
+          if [ "$PUSHED" = "false" ]; then
+            echo "❌ Push JP gagal setelah 3 attempts"
+            exit 1
+          fi
 
       # ─────────────────────────────────────────────────────────
       # 7. Summary di Actions UI
