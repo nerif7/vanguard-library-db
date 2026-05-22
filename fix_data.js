@@ -289,9 +289,41 @@ if (fixed3 > 0) {
   console.log(`\n  ${cfg.cardsFile} sekarang: ${cards.length} kartu`);
 }
 
+// ── Fix 3b: Rename single _N suffix cards that have no base in DB ────────────
+
+console.log("\n═══════════════════════════════════════════════════");
+console.log("  Fix 3b: Rename _N suffix cards tanpa base (strip copy index)");
+console.log("═══════════════════════════════════════════════════");
+
+const pkSet3b = new Set(cards.map(c => c[cfg.primaryKey]));
+let fixed3b = 0;
+const samples3b = [];
+
+for (const card of cards) {
+  const pk = card[cfg.primaryKey];
+  if (!pk || !/_\d+$/.test(pk)) continue;
+  const base = pk.replace(/_\d+$/, "");
+  if (pkSet3b.has(base)) continue;
+  if (samples3b.length < 5) samples3b.push({ oldId: pk, newId: base, name: card[cfg.nameField] });
+  card[cfg.primaryKey] = base;
+  const parsed = parseCardCode(base);
+  if (parsed.cardNumber) card.cardNumber = parsed.cardNumber;
+  fixed3b++;
+}
+
+console.log(`  Total: ${fixed3b} kartu di-rename (suffix dihapus)\n`);
+if (samples3b.length > 0) {
+  console.log("  Sample kartu yang di-rename:");
+  for (const s of samples3b) {
+    console.log(`    "${s.name}"`);
+    console.log(`      old: ${s.oldId}`);
+    console.log(`      new: ${s.newId}`);
+  }
+}
+
 // ── Write ────────────────────────────────────────────────────────────────────
 
-const totalFixed = fixed1 + fixed2 + fixed3;
+const totalFixed = fixed1 + fixed2 + fixed3 + fixed3b;
 
 if (DRY_RUN) {
   console.log("\n[DRY RUN] Tidak ada file yang ditulis.");
@@ -311,5 +343,5 @@ fs.writeFileSync(CARDS_PATH, JSON.stringify(cards, null, 2));
 console.log(`  ✅ ${cfg.cardsFile} ditulis ulang`);
 
 console.log("\n═══════════════════════════════════════════════════");
-console.log(`  Selesai. ${totalFixed} perubahan (${fixed1} clan, ${fixed2} setCode, ${fixed3} duplikat).`);
+console.log(`  Selesai. ${totalFixed} perubahan (${fixed1} clan, ${fixed2} setCode, ${fixed3} duplikat, ${fixed3b} rename suffix).`);
 console.log("═══════════════════════════════════════════════════");
