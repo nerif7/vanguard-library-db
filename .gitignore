@@ -1,2 +1,6 @@
+cards.json.backup
 cards.json.backup-*
+cards_jp.json.backup
+cards_jp.json.backup-*
 .scrape_progress.json
+.scrape_jp_progress.json

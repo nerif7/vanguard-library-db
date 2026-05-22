@@ -10,7 +10,11 @@ on:
   workflow_dispatch:
     inputs:
       force_expansion:
-        description: 'Force scrape expansion tertentu (opsional, masukkan ID number)'
+        description: 'Force scrape expansion EN (opsional, masukkan ID number)'
+        required: false
+        default: ''
+      force_expansion_jp:
+        description: 'Force scrape expansion JP (opsional, masukkan ID number)'
         required: false
         default: ''
       dry_run:
@@ -101,7 +105,7 @@ jobs:
             MSG="Auto-update: refresh cards.json"
           fi
 
-          git add cards.json
+          git add cards.json version.json
           git commit -m "$MSG
 
           Total: ${{ steps.git_check.outputs.card_count }} kartu
@@ -117,15 +121,21 @@ jobs:
           }
 
           # Retry push dengan max 3 attempts (handle race condition)
+          PUSHED=false
           for i in 1 2 3; do
             if git push; then
               echo "✅ Push berhasil di attempt $i"
+              PUSHED=true
               break
             fi
             echo "⚠️  Push attempt $i gagal, retry..."
             git pull --rebase origin ${{ github.ref_name }}
             sleep 2
           done
+          if [ "$PUSHED" = "false" ]; then
+            echo "❌ Push gagal setelah 3 attempts"
+            exit 1
+          fi
 
       # ─────────────────────────────────────────────────────────
       # 6. Summary di Actions UI
@@ -149,6 +159,148 @@ jobs:
             fi
           else
             echo "ℹ️  Database sudah up-to-date. Tidak ada perubahan." >> $GITHUB_STEP_SUMMARY
+          fi
+
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Trigger:** \`${{ github.event_name }}\`" >> $GITHUB_STEP_SUMMARY
+          echo "**Branch:** \`${{ github.ref_name }}\`" >> $GITHUB_STEP_SUMMARY
+
+  # ─────────────────────────────────────────────────────────────────────────────
+  # JP job — runs after EN job regardless of EN outcome
+  # ─────────────────────────────────────────────────────────────────────────────
+  update-db-jp:
+    runs-on: ubuntu-latest
+    needs: update-db
+    if: always()  # Run even if EN job fails/skips
+    timeout-minutes: 120
+
+    steps:
+      # ─────────────────────────────────────────────────────────
+      # 1. Checkout repo
+      # ─────────────────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+
+      # ─────────────────────────────────────────────────────────
+      # 2. Setup Node.js
+      # ─────────────────────────────────────────────────────────
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: '20'
+
+      # ─────────────────────────────────────────────────────────
+      # 3. Pull latest (EN job may have pushed cards.json)
+      # ─────────────────────────────────────────────────────────
+      - name: Pull latest from remote
+        run: |
+          git pull --ff-only origin ${{ github.ref_name }} || \
+          git pull --no-rebase origin ${{ github.ref_name }}
+
+      # ─────────────────────────────────────────────────────────
+      # 4. Run JP auto-updater
+      # ─────────────────────────────────────────────────────────
+      - name: Run JP update orchestrator
+        id: update_jp
+        run: |
+          if [ -n "${{ github.event.inputs.force_expansion_jp }}" ]; then
+            echo "🎯 Force mode JP: expansion=${{ github.event.inputs.force_expansion_jp }}"
+            node update_jp.js --force-expansion ${{ github.event.inputs.force_expansion_jp }} --delay 500 --no-pull
+          elif [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            echo "👀 Dry-run mode JP"
+            node update_jp.js --dry-run --no-pull
+          else
+            echo "🔄 Auto-detect mode JP"
+            node update_jp.js --delay 500 --no-pull
+          fi
+
+      # ─────────────────────────────────────────────────────────
+      # 5. Check git status — apakah cards_jp.json berubah?
+      # ─────────────────────────────────────────────────────────
+      - name: Check for JP changes
+        id: git_check_jp
+        run: |
+          if git diff --quiet cards_jp.json; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "📊 Tidak ada perubahan di cards_jp.json"
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            CARD_COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('cards_jp.json')).length)")
+            echo "card_count=$CARD_COUNT" >> $GITHUB_OUTPUT
+            echo "📊 cards_jp.json berubah — total: $CARD_COUNT kartu"
+          fi
+
+      # ─────────────────────────────────────────────────────────
+      # 6. Commit + push perubahan (kalau ada)
+      # ─────────────────────────────────────────────────────────
+      - name: Commit and push JP changes
+        if: steps.git_check_jp.outputs.has_changes == 'true' && github.event.inputs.dry_run != 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name  "github-actions[bot]"
+
+          NEW_SETS="${{ steps.update_jp.outputs.new_set_codes_jp }}"
+          NEW_COUNT="${{ steps.update_jp.outputs.new_expansions_jp }}"
+
+          if [ -n "$NEW_SETS" ]; then
+            MSG="Auto-update JP: $NEW_COUNT expansion baru ($NEW_SETS)"
+          else
+            MSG="Auto-update JP: refresh cards_jp.json"
+          fi
+
+          git add cards_jp.json version.json
+          git commit -m "$MSG
+
+          Total: ${{ steps.git_check_jp.outputs.card_count }} kartu JP
+          Triggered by: ${{ github.event_name }}
+
+          [skip ci]"
+
+          git pull --rebase origin ${{ github.ref_name }} || {
+            echo "⚠️  Rebase gagal — coba git pull biasa"
+            git pull --no-rebase origin ${{ github.ref_name }}
+          }
+
+          PUSHED=false
+          for i in 1 2 3; do
+            if git push; then
+              echo "✅ Push JP berhasil di attempt $i"
+              PUSHED=true
+              break
+            fi
+            echo "⚠️  Push JP attempt $i gagal, retry..."
+            git pull --rebase origin ${{ github.ref_name }}
+            sleep 2
+          done
+          if [ "$PUSHED" = "false" ]; then
+            echo "❌ Push JP gagal setelah 3 attempts"
+            exit 1
+          fi
+
+      # ─────────────────────────────────────────────────────────
+      # 7. Summary di Actions UI
+      # ─────────────────────────────────────────────────────────
+      - name: Generate JP summary
+        if: always()
+        run: |
+          echo "## 🃏 Vanguard Library JP Auto-Update" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          if [ "${{ steps.git_check_jp.outputs.has_changes }}" = "true" ]; then
+            echo "✅ **cards_jp.json di-update**" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "- Total kartu JP: \`${{ steps.git_check_jp.outputs.card_count }}\`" >> $GITHUB_STEP_SUMMARY
+            echo "- Expansion baru: \`${{ steps.update_jp.outputs.new_expansions_jp || 0 }}\`" >> $GITHUB_STEP_SUMMARY
+            if [ -n "${{ steps.update_jp.outputs.new_set_codes_jp }}" ]; then
+              echo "- Set codes: \`${{ steps.update_jp.outputs.new_set_codes_jp }}\`" >> $GITHUB_STEP_SUMMARY
+            fi
+            if [ "${{ steps.update_jp.outputs.failed_jp }}" != "0" ] && [ -n "${{ steps.update_jp.outputs.failed_jp }}" ]; then
+              echo "- ⚠️  Failed scrape: \`${{ steps.update_jp.outputs.failed_jp }}\`" >> $GITHUB_STEP_SUMMARY
+            fi
+          else
+            echo "ℹ️  Database JP sudah up-to-date. Tidak ada perubahan." >> $GITHUB_STEP_SUMMARY
           fi
 
           echo "" >> $GITHUB_STEP_SUMMARY

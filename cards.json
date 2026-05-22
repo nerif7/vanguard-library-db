@@ -284689,26 +284689,6 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/s/pr_gbt01_088.jpg"
   },
   {
-    "enCardNo": "G-BT01/088EN PR",
-    "setCode": "G-BT01",
-    "cardNumber": "088",
-    "name": "Beast Deity, Frog Master",
-    "unitType": "Normal Unit",
-    "nations": [
-      "Star Gate"
-    ],
-    "clan": [
-      "Nova Grappler"
-    ],
-    "races": [
-      "Battleroid"
-    ],
-    "grade": 1,
-    "trigger": null,
-    "rarity": "PR",
-    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/s/pr_gbt01_088.jpg"
-  },
-  {
     "enCardNo": "G-BT01/089EN",
     "setCode": "G-BT01",
     "cardNumber": "089",
@@ -285570,26 +285550,6 @@
   },
   {
     "enCardNo": "G-BT02/016EN-PR",
-    "setCode": "G-BT02",
-    "cardNumber": "016",
-    "name": "Heart Thump Worker",
-    "unitType": "Normal Unit",
-    "nations": [
-      "Dark Zone"
-    ],
-    "clan": [
-      "Gear Chronicle"
-    ],
-    "races": [
-      "Workeroid"
-    ],
-    "grade": 0,
-    "trigger": "Critical",
-    "rarity": "PR",
-    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/s/gbt02_016.jpg"
-  },
-  {
-    "enCardNo": "G-BT02/016EN PR",
     "setCode": "G-BT02",
     "cardNumber": "016",
     "name": "Heart Thump Worker",
