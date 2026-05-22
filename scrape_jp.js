@@ -452,7 +452,33 @@ async function fetchExpansionList() {
   const hrefMatches = html.matchAll(/expansion=(\d+)/g);
   for (const m of hrefMatches) ids.add(Number(m[1]));
 
-  return [...ids].sort((a, b) => a - b);
+  const maxKnown = ids.size > 0 ? Math.max(...ids) : 200;
+  console.log(`  Found ${ids.size} expansion IDs in navigation (max=${maxKnown})`);
+
+  // Probe IDs above the known max — the site navigation may not list recent expansions.
+  // Stop after 5 consecutive empty galleries or 50 probes, whichever comes first.
+  let consecutiveEmpty = 0;
+  for (let id = maxKnown + 1; consecutiveEmpty < 5 && id <= maxKnown + 50; id++) {
+    const url = `${BASE_URL}/cardlist/cardsearch/?expansion=${id}&page=1`;
+    try {
+      const testHtml = await fetchUrl(url);
+      const cards = parseGalleryHtml(testHtml);
+      if (cards.length > 0) {
+        ids.add(id);
+        consecutiveEmpty = 0;
+        console.log(`  Probed expansion ${id}: ${cards.length} cards`);
+      } else {
+        consecutiveEmpty++;
+      }
+    } catch {
+      consecutiveEmpty++;
+    }
+    await sleep(DELAY_MS);
+  }
+
+  const sorted = [...ids].sort((a, b) => a - b);
+  console.log(`  Total after probing: ${sorted.length} expansions (max=${sorted[sorted.length - 1] ?? 0})`);
+  return sorted;
 }
 
 // ── Gallery scraper ───────────────────────────────────────────────────────────
