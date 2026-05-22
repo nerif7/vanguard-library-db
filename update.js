@@ -633,7 +633,7 @@ async function main() {
     fs.appendFileSync(
       process.env.GITHUB_OUTPUT,
       `new_expansions=${newCount}\n` +
-      `new_set_codes=${newExpansions.map((e) => e.setCode).join(",")}\n` +
+      `new_set_codes=${succeededSets.join(",")}\n` +
       `failed=${failed}\n`
     );
   }

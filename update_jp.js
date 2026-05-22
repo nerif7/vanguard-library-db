@@ -452,7 +452,7 @@ async function main() {
   console.log("\nStep 9: Update version.json (JP fields)");
   generateVersionJson(succeededSets);
 
-  // Step 9: Summary
+  // Step 10: Summary
   console.log("\n═══════════════════════════════════════════════════");
   console.log(`  Selesai. ${succeeded} sukses, ${failed} gagal.`);
   if (failed > 0) console.log("  ⚠️  Ada expansion yang gagal — cek log di atas.");
