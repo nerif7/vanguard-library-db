@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>[DEV-JP] Vanguard Library DB Viewer — feature/jp-integration</title>
+  <link rel="stylesheet" href="../viewer/viewer.css">
+  <style>
+    .dev-banner {
+      background: #1d4ed8;
+      color: #fff;
+      text-align: center;
+      padding: 6px 12px;
+      font-size: 13px;
+      font-family: monospace;
+      letter-spacing: 0.02em;
+    }
+  </style>
+</head>
+<body>
+
+<div class="dev-banner">DEV JP — branch: feature/jp-integration — cards_jp.json — hapus viewer_dev/ setelah merge ke main</div>
+
+<header class="topbar">
+  <div class="topbar-inner">
+    <div class="brand">
+      <h1>Vanguard Library DB</h1>
+      <p class="subtitle">Browser untuk verifikasi <code>cards_jp.json</code></p>
+    </div>
+    <div class="db-info" id="dbInfo">
+      <div class="db-info-row">
+        <span class="db-info-label">Total kartu</span>
+        <span class="db-info-value" id="totalCards">—</span>
+      </div>
+      <div class="db-info-row">
+        <span class="db-info-label">Last update</span>
+        <span class="db-info-value" id="lastUpdate">—</span>
+      </div>
+      <div class="db-info-row">
+        <a href="index.html" class="db-info-link">← Switch to EN</a>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main class="layout">
+
+  <!-- TABS -->
+  <div class="tabs" role="tablist">
+    <button class="tab active" data-tab="browse" role="tab">Browse</button>
+    <button class="tab" data-tab="stats" role="tab">Stats per Set</button>
+  </div>
+
+  <!-- ───────── BROWSE TAB ───────── -->
+  <section class="tab-panel active" data-panel="browse">
+
+    <div class="filter-bar">
+      <input type="search" id="searchInput" placeholder="カード名、カード番号、種族、クランを検索...">
+
+      <select id="setFilter">
+        <option value="all">全セット</option>
+      </select>
+
+      <select id="nationFilter">
+        <option value="all">全ネイション</option>
+      </select>
+
+      <select id="unitTypeFilter">
+        <option value="all">全タイプ</option>
+        <option value="ノーマルユニット">ノーマルユニット</option>
+        <option value="Gユニット">Gユニット</option>
+        <option value="ノーマルオーダー">ノーマルオーダー</option>
+        <option value="セットオーダー">セットオーダー</option>
+        <option value="ブリッツオーダー">ブリッツオーダー</option>
+        <option value="トリガーオーダー">トリガーオーダー</option>
+        <option value="トークン">トークン</option>
+        <option value="ライドデッキクレスト">ライドデッキクレスト</option>
+        <option value="その他">その他</option>
+      </select>
+
+      <select id="triggerFilter">
+        <option value="all">全トリガー</option>
+        <option value="__none__">— なし</option>
+        <option value="クリティカルトリガー">クリティカル</option>
+        <option value="ドロートリガー">ドロー</option>
+        <option value="ヒールトリガー">ヒール</option>
+        <option value="フロントトリガー">フロント</option>
+        <option value="オーバートリガー">オーバー</option>
+        <option value="センチネル">センチネル</option>
+      </select>
+
+      <span class="result-count" id="resultCount">— カード</span>
+    </div>
+
+    <div class="browse-layout">
+      <div class="card-list" id="cardList" tabindex="0"></div>
+      <aside class="card-preview" id="cardPreview">
+        <div class="preview-empty"><p>カードをクリックして詳細を表示。</p></div>
+      </aside>
+    </div>
+
+  </section>
+
+  <!-- ───────── STATS TAB ───────── -->
+  <section class="tab-panel" data-panel="stats">
+    <div class="stats-info">
+      <p>合計 <strong id="statsTotal">—</strong> カード、<strong id="statsSetCount">—</strong> セット。setCodeでソート済み。</p>
+    </div>
+    <div class="stats-grid" id="statsGrid"></div>
+  </section>
+
+</main>
+
+<div class="loading" id="loading">
+  <div class="loading-spinner"></div>
+  <p>Memuat <code>cards_jp.json</code>...</p>
+  <p class="loading-hint" id="loadingHint">~10 MB, harap tunggu</p>
+</div>
+
+<script src="viewer_jp.js"></script>
+</body>
+</html>
