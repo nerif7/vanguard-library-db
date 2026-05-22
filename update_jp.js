@@ -31,10 +31,11 @@ const { spawnSync } = require("child_process");
 // ── Config ────────────────────────────────────────────────────────────────────
 
 const BASE_URL     = "https://cf-vanguard.com";
-const CARDS_PATH   = path.join(__dirname, "cards_jp.json");
-const VERSION_PATH = path.join(__dirname, "version.json");
-const SCRAPE_PATH  = path.join(__dirname, "scrape_jp.js");
+const CARDS_PATH    = path.join(__dirname, "cards_jp.json");
+const VERSION_PATH  = path.join(__dirname, "version.json");
+const SCRAPE_PATH   = path.join(__dirname, "scrape_jp.js");
 const DIAGNOSE_PATH = path.join(__dirname, "diagnose.js");
+const FIX_DATA_PATH = path.join(__dirname, "fix_data.js");
 
 const args           = process.argv.slice(2);
 const ARG_FORCE_EXP  = getArg("--force-expansion");
@@ -285,6 +286,15 @@ function runScraper(expansionId) {
   return result.status === 0;
 }
 
+function runFixData() {
+  console.log("\n  ▶ Run fix_data.js --region jp ...");
+  const result = spawnSync(
+    "node", [FIX_DATA_PATH, "--region", "jp"],
+    { stdio: "inherit", encoding: "utf-8" }
+  );
+  return result.status === 0;
+}
+
 function runDiagnose() {
   console.log("\n  ▶ Run diagnose.js --region jp ...");
   const result = spawnSync(
@@ -428,13 +438,17 @@ async function main() {
   }
   console.log(`  ✅ Valid (${validation.count} kartu)`);
 
-  // Step 7: Diagnose
-  console.log("\nStep 7: Verify dengan diagnose.js --region jp");
+  // Step 7: fix_data cleanup (_N suffix, clan dedup, etc.)
+  console.log("\nStep 7: Cleanup data (fix_data.js --region jp)");
+  runFixData();
+
+  // Step 8: Diagnose final state
+  console.log("\nStep 8: Verify dengan diagnose.js --region jp");
   runDiagnose();
   cleanupBackup();
 
-  // Step 8: version.json
-  console.log("\nStep 8: Update version.json (JP fields)");
+  // Step 9: version.json
+  console.log("\nStep 9: Update version.json (JP fields)");
   generateVersionJson(succeededSets);
 
   // Step 9: Summary
@@ -447,7 +461,7 @@ async function main() {
     fs.appendFileSync(
       process.env.GITHUB_OUTPUT,
       `new_expansions_jp=${succeeded}\n` +
-      `new_set_codes_jp=${newExpansions.map((e) => e.setCode).join(",")}\n` +
+      `new_set_codes_jp=${succeededSets.join(",")}\n` +
       `failed_jp=${failed}\n`
     );
   }
