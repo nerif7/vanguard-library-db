@@ -258783,6 +258783,1542 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss12/dzss12_019_r.png"
   },
   {
+    "enCardNo": "DZ-SS13/001EN",
+    "setCode": "DZ-SS13",
+    "cardNumber": "001",
+    "name": "King of Knights, Alfred",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "Human"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_001.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/001EN-R",
+    "setCode": "DZ-SS13",
+    "cardNumber": "001",
+    "name": "King of Knights, Alfred",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "Human"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_TDR_001.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/002EN",
+    "setCode": "DZ-SS13",
+    "cardNumber": "002",
+    "name": "Blaster Blade",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_002.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/002EN-R",
+    "setCode": "DZ-SS13",
+    "cardNumber": "002",
+    "name": "Blaster Blade",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_TDR_002.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/003EN",
+    "setCode": "DZ-SS13",
+    "cardNumber": "003",
+    "name": "Wingal",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_003.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/003EN-R",
+    "setCode": "DZ-SS13",
+    "cardNumber": "003",
+    "name": "Wingal",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_TDR_003.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/004EN",
+    "setCode": "DZ-SS13",
+    "cardNumber": "004",
+    "name": "Barcgal",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_004.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/004EN-R",
+    "setCode": "DZ-SS13",
+    "cardNumber": "004",
+    "name": "Barcgal",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_TDR_004.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/005EN",
+    "setCode": "DZ-SS13",
+    "cardNumber": "005",
+    "name": "Energy Generator",
+    "unitType": "Others",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": null,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_005_h.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/005EN-R",
+    "setCode": "DZ-SS13",
+    "cardNumber": "005",
+    "name": "Energy Generator",
+    "unitType": "Others",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": null,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_TDR_005_h.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/006EN",
+    "setCode": "DZ-SS13",
+    "cardNumber": "006",
+    "name": "Soul Saver Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "Cosmo Dragon"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_006.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/006EN-R",
+    "setCode": "DZ-SS13",
+    "cardNumber": "006",
+    "name": "Soul Saver Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "Cosmo Dragon"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_TDR_006.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/007EN",
+    "setCode": "DZ-SS13",
+    "cardNumber": "007",
+    "name": "Knight of Truth, Gordon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_007.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/007EN-R",
+    "setCode": "DZ-SS13",
+    "cardNumber": "007",
+    "name": "Knight of Truth, Gordon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_TDR_007.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/008EN",
+    "setCode": "DZ-SS13",
+    "cardNumber": "008",
+    "name": "Knight of Silence, Gallatin",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_008.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/008EN-R",
+    "setCode": "DZ-SS13",
+    "cardNumber": "008",
+    "name": "Knight of Silence, Gallatin",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_TDR_008.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/009EN",
+    "setCode": "DZ-SS13",
+    "cardNumber": "009",
+    "name": "Cerrgaon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_009.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/009EN-R",
+    "setCode": "DZ-SS13",
+    "cardNumber": "009",
+    "name": "Cerrgaon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_TDR_009.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/010EN",
+    "setCode": "DZ-SS13",
+    "cardNumber": "010",
+    "name": "Little Sage, Marron",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "Giant"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_010.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/010EN-R",
+    "setCode": "DZ-SS13",
+    "cardNumber": "010",
+    "name": "Little Sage, Marron",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "Giant"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_TDR_010.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/011EN",
+    "setCode": "DZ-SS13",
+    "cardNumber": "011",
+    "name": "Lake Maiden, Lien",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "Elf"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_011.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/011EN-R",
+    "setCode": "DZ-SS13",
+    "cardNumber": "011",
+    "name": "Lake Maiden, Lien",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "Elf"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_TDR_011.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/012EN",
+    "setCode": "DZ-SS13",
+    "cardNumber": "012",
+    "name": "Flash Shield, Iseult",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "Human"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_012.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/012EN-R",
+    "setCode": "DZ-SS13",
+    "cardNumber": "012",
+    "name": "Flash Shield, Iseult",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "Human"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_TDR_012.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/013EN",
+    "setCode": "DZ-SS13",
+    "cardNumber": "013",
+    "name": "Light Dragon Deity of Honors, Amartinoa",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Cosmo Dragon"
+    ],
+    "grade": 0,
+    "trigger": "Over",
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_013.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/013EN-R",
+    "setCode": "DZ-SS13",
+    "cardNumber": "013",
+    "name": "Light Dragon Deity of Honors, Amartinoa",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Cosmo Dragon"
+    ],
+    "grade": 0,
+    "trigger": "Over",
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_TDR_013.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/014EN",
+    "setCode": "DZ-SS13",
+    "cardNumber": "014",
+    "name": "Bringer of Good Luck, Epona",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "Sylph"
+    ],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_014.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/014EN-R",
+    "setCode": "DZ-SS13",
+    "cardNumber": "014",
+    "name": "Bringer of Good Luck, Epona",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "Sylph"
+    ],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_TDR_014.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/015EN",
+    "setCode": "DZ-SS13",
+    "cardNumber": "015",
+    "name": "Flogal",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_015.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/015EN-R",
+    "setCode": "DZ-SS13",
+    "cardNumber": "015",
+    "name": "Flogal",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_TDR_015.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/016EN",
+    "setCode": "DZ-SS13",
+    "cardNumber": "016",
+    "name": "Margal",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_016.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/016EN-R",
+    "setCode": "DZ-SS13",
+    "cardNumber": "016",
+    "name": "Margal",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_TDR_016.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/017EN",
+    "setCode": "DZ-SS13",
+    "cardNumber": "017",
+    "name": "Yggdrasil Maiden, Elaine",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "Elf"
+    ],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_017.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/017EN-R",
+    "setCode": "DZ-SS13",
+    "cardNumber": "017",
+    "name": "Yggdrasil Maiden, Elaine",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "Elf"
+    ],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_TDR_017.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/018EN",
+    "setCode": "DZ-SS13",
+    "cardNumber": "018",
+    "name": "Protection: Twincast",
+    "unitType": "Blitz Order",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_018.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/018EN-R",
+    "setCode": "DZ-SS13",
+    "cardNumber": "018",
+    "name": "Protection: Twincast",
+    "unitType": "Blitz Order",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_TDR_018.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/15thSP01EN",
+    "setCode": "DZ-SS13",
+    "cardNumber": "SP01",
+    "name": "King of Knights, Alfred",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "Human"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "15thSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_15thSP01.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/15thSP02EN",
+    "setCode": "DZ-SS13",
+    "cardNumber": "SP02",
+    "name": "Blaster Blade",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "15thSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_15thSP02.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/15thSP03EN",
+    "setCode": "DZ-SS13",
+    "cardNumber": "SP03",
+    "name": "Wingal",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "15thSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_15thSP03.png"
+  },
+  {
+    "enCardNo": "DZ-SS13/15thSP04EN",
+    "setCode": "DZ-SS13",
+    "cardNumber": "SP04",
+    "name": "Barcgal",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "15thSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss13/dzss13_15thSP04.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/001EN",
+    "setCode": "DZ-SS14",
+    "cardNumber": "001",
+    "name": "Dragonic Overlord",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Flame Dragon"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_001.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/001EN-R",
+    "setCode": "DZ-SS14",
+    "cardNumber": "001",
+    "name": "Dragonic Overlord",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Flame Dragon"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_TDR_001.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/002EN",
+    "setCode": "DZ-SS14",
+    "cardNumber": "002",
+    "name": "Dragon Knight, Nehalem",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_002.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/002EN-R",
+    "setCode": "DZ-SS14",
+    "cardNumber": "002",
+    "name": "Dragon Knight, Nehalem",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_TDR_002.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/003EN",
+    "setCode": "DZ-SS14",
+    "cardNumber": "003",
+    "name": "Embodiment of Armor, Bahr",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Demon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_003.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/003EN-R",
+    "setCode": "DZ-SS14",
+    "cardNumber": "003",
+    "name": "Embodiment of Armor, Bahr",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Demon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_TDR_003.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/004EN",
+    "setCode": "DZ-SS14",
+    "cardNumber": "004",
+    "name": "Lizard Soldier, Conroe",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Dragonman"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_004.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/004EN-R",
+    "setCode": "DZ-SS14",
+    "cardNumber": "004",
+    "name": "Lizard Soldier, Conroe",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Dragonman"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_TDR_004.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/005EN",
+    "setCode": "DZ-SS14",
+    "cardNumber": "005",
+    "name": "Energy Generator",
+    "unitType": "Others",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": null,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_005_h.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/005EN-R",
+    "setCode": "DZ-SS14",
+    "cardNumber": "005",
+    "name": "Energy Generator",
+    "unitType": "Others",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": null,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_TDR_005_h.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/006EN",
+    "setCode": "DZ-SS14",
+    "cardNumber": "006",
+    "name": "Vortex Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Flame Dragon"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_006.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/006EN-R",
+    "setCode": "DZ-SS14",
+    "cardNumber": "006",
+    "name": "Vortex Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Flame Dragon"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_TDR_006.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/007EN",
+    "setCode": "DZ-SS14",
+    "cardNumber": "007",
+    "name": "Great Flame Axe of Ambitious Scales, Colgaflan",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Dragoroid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_007.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/007EN-R",
+    "setCode": "DZ-SS14",
+    "cardNumber": "007",
+    "name": "Great Flame Axe of Ambitious Scales, Colgaflan",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Dragoroid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_TDR_007.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/008EN",
+    "setCode": "DZ-SS14",
+    "cardNumber": "008",
+    "name": "Berserk Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Flame Dragon"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_008.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/008EN-R",
+    "setCode": "DZ-SS14",
+    "cardNumber": "008",
+    "name": "Berserk Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Flame Dragon"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_TDR_008.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/009EN",
+    "setCode": "DZ-SS14",
+    "cardNumber": "009",
+    "name": "Wyvern Strike, Tejas",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Winged Dragon"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_009.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/009EN-R",
+    "setCode": "DZ-SS14",
+    "cardNumber": "009",
+    "name": "Wyvern Strike, Tejas",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Winged Dragon"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_TDR_009.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/010EN",
+    "setCode": "DZ-SS14",
+    "cardNumber": "010",
+    "name": "Dragon Monk, Gojo",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Gillman"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_010.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/010EN-R",
+    "setCode": "DZ-SS14",
+    "cardNumber": "010",
+    "name": "Dragon Monk, Gojo",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Gillman"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_TDR_010.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/011EN",
+    "setCode": "DZ-SS14",
+    "cardNumber": "011",
+    "name": "Wyvern Strike, Jarran",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Winged Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_011.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/011EN-R",
+    "setCode": "DZ-SS14",
+    "cardNumber": "011",
+    "name": "Wyvern Strike, Jarran",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Winged Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_TDR_011.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/012EN",
+    "setCode": "DZ-SS14",
+    "cardNumber": "012",
+    "name": "Wyvern Guard, Barri",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Dragonman"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_012.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/012EN-R",
+    "setCode": "DZ-SS14",
+    "cardNumber": "012",
+    "name": "Wyvern Guard, Barri",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Dragonman"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_TDR_012.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/013EN",
+    "setCode": "DZ-SS14",
+    "cardNumber": "013",
+    "name": "Dragon Deity King of Resurgence, Dragveda",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Plasma Dragon"
+    ],
+    "grade": 0,
+    "trigger": "Over",
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_013.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/013EN-R",
+    "setCode": "DZ-SS14",
+    "cardNumber": "013",
+    "name": "Dragon Deity King of Resurgence, Dragveda",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Plasma Dragon"
+    ],
+    "grade": 0,
+    "trigger": "Over",
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_TDR_013.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/014EN",
+    "setCode": "DZ-SS14",
+    "cardNumber": "014",
+    "name": "Demonic Dragon Mage, Rakshasa",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Dragonman"
+    ],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_014.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/014EN-R",
+    "setCode": "DZ-SS14",
+    "cardNumber": "014",
+    "name": "Demonic Dragon Mage, Rakshasa",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Dragonman"
+    ],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_TDR_014.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/015EN",
+    "setCode": "DZ-SS14",
+    "cardNumber": "015",
+    "name": "Embodiment of Spear, Tahr",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Demon"
+    ],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_015.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/015EN-R",
+    "setCode": "DZ-SS14",
+    "cardNumber": "015",
+    "name": "Embodiment of Spear, Tahr",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Demon"
+    ],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_TDR_015.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/016EN",
+    "setCode": "DZ-SS14",
+    "cardNumber": "016",
+    "name": "Dragon Dancer, Monica",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Human"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_016.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/016EN-R",
+    "setCode": "DZ-SS14",
+    "cardNumber": "016",
+    "name": "Dragon Dancer, Monica",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Human"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_TDR_016.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/017EN",
+    "setCode": "DZ-SS14",
+    "cardNumber": "017",
+    "name": "Dragon Monk, Genjo",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Human"
+    ],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_017.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/017EN-R",
+    "setCode": "DZ-SS14",
+    "cardNumber": "017",
+    "name": "Dragon Monk, Genjo",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Human"
+    ],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_TDR_017.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/018EN",
+    "setCode": "DZ-SS14",
+    "cardNumber": "018",
+    "name": "Forbidoll Surrogate",
+    "unitType": "Normal Order",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_018.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/018EN-R",
+    "setCode": "DZ-SS14",
+    "cardNumber": "018",
+    "name": "Forbidoll Surrogate",
+    "unitType": "Normal Order",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_TDR_018.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/15thSP01EN",
+    "setCode": "DZ-SS14",
+    "cardNumber": "SP01",
+    "name": "Dragonic Overlord",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Flame Dragon"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "15thSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_15thSP01.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/15thSP02EN",
+    "setCode": "DZ-SS14",
+    "cardNumber": "SP02",
+    "name": "Dragon Knight, Nehalem",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "15thSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_15thSP02_errata.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/15thSP03EN",
+    "setCode": "DZ-SS14",
+    "cardNumber": "SP03",
+    "name": "Embodiment of Armor, Bahr",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Demon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "15thSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_15thSP03.png"
+  },
+  {
+    "enCardNo": "DZ-SS14/15thSP04EN",
+    "setCode": "DZ-SS14",
+    "cardNumber": "SP04",
+    "name": "Lizard Soldier, Conroe",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Dragonman"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "15thSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_15thSP04.png"
+  },
+  {
     "enCardNo": "DZ-TB01/001EN",
     "setCode": "DZ-TB01",
     "cardNumber": "001",
