@@ -334,7 +334,7 @@ function parseDetailHtml(html, jpCardNo) {
   // ── nations (div.nation) ──────────────────────────────────────────────────
   const nationDivs = extractByClass("nation");
   for (const n of nationDivs) {
-    if (n === "-" || n === "") continue;
+    if (n === "" || /^[\-\‐\–\—\−]+$/.test(n)) continue;
     if (!result.nations.includes(n)) result.nations.push(n);
   }
 

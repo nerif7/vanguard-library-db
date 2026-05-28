@@ -321,9 +321,51 @@ if (samples3b.length > 0) {
   }
 }
 
+// ── Fix 4: Normalize Unicode dash entries in nations[] → nations: [] ─────────
+
+console.log("\n═══════════════════════════════════════════════════");
+console.log("  Fix 4: Hapus dash Unicode dari nations[] (nationless cards)");
+console.log("═══════════════════════════════════════════════════");
+
+// Matches: ASCII hyphen, U+2010 hyphen, en dash, em dash, minus sign
+const DASH_RE = /^[\-‐–—−]+$/;
+
+let fixed4 = 0;
+const samples4 = [];
+
+for (const c of cards) {
+  if (!Array.isArray(c.nations) || c.nations.length === 0) continue;
+
+  const before = [...c.nations];
+  c.nations = c.nations.filter((n) => !DASH_RE.test(n));
+
+  if (c.nations.length !== before.length) {
+    fixed4++;
+    if (samples4.length < 5) {
+      samples4.push({
+        id:      c[cfg.primaryKey],
+        name:    c[cfg.nameField],
+        before,
+        after:   c.nations,
+      });
+    }
+  }
+}
+
+console.log(`  Total: ${fixed4} kartu diperbaiki\n`);
+
+if (samples4.length > 0) {
+  console.log("  Sample 5 kartu yang diperbaiki:");
+  for (const s of samples4) {
+    console.log(`    ${(s.id ?? "").padEnd(22)} "${s.name}"`);
+    console.log(`      nations before: ${JSON.stringify(s.before)}`);
+    console.log(`      nations after : ${JSON.stringify(s.after)}`);
+  }
+}
+
 // ── Write ────────────────────────────────────────────────────────────────────
 
-const totalFixed = fixed1 + fixed2 + fixed3 + fixed3b;
+const totalFixed = fixed1 + fixed2 + fixed3 + fixed3b + fixed4;
 
 if (DRY_RUN) {
   console.log("\n[DRY RUN] Tidak ada file yang ditulis.");
@@ -343,5 +385,5 @@ fs.writeFileSync(CARDS_PATH, JSON.stringify(cards, null, 2));
 console.log(`  ✅ ${cfg.cardsFile} ditulis ulang`);
 
 console.log("\n═══════════════════════════════════════════════════");
-console.log(`  Selesai. ${totalFixed} perubahan (${fixed1} clan, ${fixed2} setCode, ${fixed3} duplikat, ${fixed3b} rename suffix).`);
+console.log(`  Selesai. ${totalFixed} perubahan (${fixed1} clan, ${fixed2} setCode, ${fixed3} duplikat, ${fixed3b} rename suffix, ${fixed4} nations dash).`);
 console.log("═══════════════════════════════════════════════════");
