@@ -170,13 +170,13 @@ Auto-deploy via GitHub Actions setiap push ke `viewer/`.
 | [`scrape_jp.js`](scrape_jp.js) | JP scraper — parser dari cf-vanguard.com (JP site) |
 | [`update.js`](update.js) | EN auto-update orchestrator — detect + scrape incremental |
 | [`update_jp.js`](update_jp.js) | JP auto-update orchestrator — detect + scrape incremental |
-| [`diagnose.js`](diagnose.js) | Quality checker — coverage report per field, per set |
-| [`fix_data.js`](fix_data.js) | In-place fixer untuk data yang sudah ada (no re-scrape) |
-| [`reset_cards.js`](reset_cards.js) | Reset field tertentu untuk re-fetch dengan `--retry-failed` |
-| [`inspect_card.js`](inspect_card.js) | Debug single card — lihat HTML mentah dari EN site |
-| [`debug_expansion.js`](debug_expansion.js) | Investigate gallery page expansion tertentu |
-| [`rescrape_triggers.js`](rescrape_triggers.js) | *(one-off)* Targeted re-scrape untuk fix trigger field Bug A/B/C |
-| [`verify-viewer.js`](verify-viewer.js) | *(one-off)* Local HTTP server untuk audit & compare before/after trigger data |
+| [`tools/diagnose.js`](tools/diagnose.js) | Quality checker — coverage report per field, per set |
+| [`tools/fix_data.js`](tools/fix_data.js) | In-place fixer untuk data yang sudah ada (no re-scrape) |
+| [`tools/reset_cards.js`](tools/reset_cards.js) | Reset field tertentu untuk re-fetch dengan `--retry-failed` |
+| [`tools/inspect_card.js`](tools/inspect_card.js) | Debug single card — lihat HTML mentah dari EN site |
+| [`tools/debug_expansion.js`](tools/debug_expansion.js) | Investigate gallery page expansion tertentu |
+| [`tools/rescrape_triggers.js`](tools/rescrape_triggers.js) | *(one-off)* Targeted re-scrape untuk fix trigger field Bug A/B/C |
+| [`tools/verify-viewer.js`](tools/verify-viewer.js) | *(one-off)* Local HTTP server untuk audit & compare before/after trigger data |
 
 ### Usage
 
@@ -224,17 +224,17 @@ node scrape_jp.js --delay 400          # delay ms (default 350)
 
 ```bash
 # Diagnose
-node diagnose.js                          # coverage seluruh EN DB
-node diagnose.js --region jp              # coverage seluruh JP DB
-node diagnose.js --set DZ-BT12            # filter per set (EN)
-node diagnose.js --region jp --set DZ-BT12
-node diagnose.js --list                   # list semua setCode
+node tools/diagnose.js                          # coverage seluruh EN DB
+node tools/diagnose.js --region jp              # coverage seluruh JP DB
+node tools/diagnose.js --set DZ-BT12            # filter per set (EN)
+node tools/diagnose.js --region jp --set DZ-BT12
+node tools/diagnose.js --list                   # list semua setCode
 
 # Fix data in-place
-node fix_data.js --dry-run                # preview EN (tanpa write)
-node fix_data.js                          # apply fix EN
-node fix_data.js --region jp --dry-run    # preview JP
-node fix_data.js --region jp              # apply fix JP
+node tools/fix_data.js --dry-run                # preview EN (tanpa write)
+node tools/fix_data.js                          # apply fix EN
+node tools/fix_data.js --region jp --dry-run    # preview JP
+node tools/fix_data.js --region jp              # apply fix JP
 
 # Fix 1: hapus duplikat clan dari nations[]
 # Fix 2: re-parse setCode + cardNumber
@@ -242,11 +242,11 @@ node fix_data.js --region jp              # apply fix JP
 # Fix 4: strip Unicode-dash entries dari nations[] (nationless normalization)
 
 # Reset & inspect
-node reset_cards.js --card "DZ-BT12/001EN"  # reset 1 kartu untuk re-fetch
-node reset_cards.js --set DZ-BT12           # reset 1 set
-node reset_cards.js --suspect               # reset kartu suspect (field kosong)
-node inspect_card.js "DZ-BT12/001EN"        # debug HTML parsing EN
-node debug_expansion.js 248                 # debug gallery expansion EN
+node tools/reset_cards.js --card "DZ-BT12/001EN"  # reset 1 kartu untuk re-fetch
+node tools/reset_cards.js --set DZ-BT12           # reset 1 set
+node tools/reset_cards.js --suspect               # reset kartu suspect (field kosong)
+node tools/inspect_card.js "DZ-BT12/001EN"        # debug HTML parsing EN
+node tools/debug_expansion.js 248                 # debug gallery expansion EN
 ```
 
 ---

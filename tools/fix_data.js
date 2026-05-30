@@ -53,7 +53,7 @@ const REGION_CONFIG = {
 };
 
 const cfg        = REGION_CONFIG[ARG_REGION];
-const CARDS_PATH = path.join(__dirname, cfg.cardsFile);
+const CARDS_PATH = path.join(__dirname, '..', cfg.cardsFile);
 
 // ── Load ─────────────────────────────────────────────────────────────────────
 

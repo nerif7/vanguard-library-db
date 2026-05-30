@@ -10,8 +10,8 @@ const fs   = require('fs');
 const path = require('path');
 
 const PORT        = 3334;
-const CARDS_FILE  = path.join(__dirname, 'cards.json');
-const BACKUP_FILE = path.join(__dirname, 'cards.json.trigger-before');
+const CARDS_FILE  = path.join(__dirname, '../cards.json');
+const BACKUP_FILE = path.join(__dirname, '../cards.json.trigger-before');
 
 const HTML = `<!DOCTYPE html>
 <html lang="en">

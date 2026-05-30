@@ -23,7 +23,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const CARDS_PATH = path.join(__dirname, "cards.json");
+const CARDS_PATH = path.join(__dirname, "../cards.json");
 
 // ── Argument parsing ─────────────────────────────────────────────────────────
 

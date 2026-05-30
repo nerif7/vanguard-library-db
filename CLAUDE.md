@@ -28,15 +28,16 @@ A self-maintaining **Cardfight!! Vanguard card database** that scrapes the offic
 ```
 vanguard-library-db/
 ├── cards.json              # Main database (DO NOT manually edit)
-├── scrape_en.js            # Core scraper (895 lines) — fetches en.cf-vanguard.com
-├── update.js               # Orchestrator (610 lines) — detects new expansions, validates, commits
-├── diagnose.js             # Data quality checker — field coverage report
-├── fix_data.js             # In-place data fixer — no re-scrape needed
-├── reset_cards.js          # Reset specific cards/sets for retry
-├── inspect_card.js         # Debug single card HTML parsing
-├── debug_expansion.js      # Debug expansion gallery pages
-├── rescrape_triggers.js    # One-off: targeted trigger field re-scrape (Bug A/B/C fix 2026-05)
-├── verify-viewer.js        # One-off: local audit viewer for trigger data verification
+├── scrape_en.js            # Core scraper — fetches en.cf-vanguard.com
+├── update.js               # Orchestrator — detects new expansions, validates, commits
+├── tools/
+│   ├── diagnose.js         # Data quality checker — field coverage report
+│   ├── fix_data.js         # In-place data fixer — no re-scrape needed
+│   ├── reset_cards.js      # Reset specific cards/sets for retry
+│   ├── inspect_card.js     # Debug single card HTML parsing
+│   ├── debug_expansion.js  # Debug expansion gallery pages
+│   ├── rescrape_triggers.js # One-off: targeted trigger field re-scrape (Bug A/B/C fix 2026-05)
+│   └── verify-viewer.js    # One-off: local audit viewer for trigger data verification
 ├── bug-audit.md            # Catalog of known data bugs (A–F) with root causes + status
 ├── viewer/
 │   ├── index.html          # Entry point
@@ -98,16 +99,16 @@ node scrape_en.js --resume                # Continue interrupted scrape
 node scrape_en.js --retry-failed          # Re-fetch empty-field cards
 
 # Data quality
-node diagnose.js                          # Coverage report for all sets
-node diagnose.js --set DZ-BT12            # Filter by set
-node diagnose.js --list                   # List all setCode values
-node fix_data.js --dry-run                # Preview fixes
-node fix_data.js                          # Apply fixes in-place
+node tools/diagnose.js                          # Coverage report for all sets
+node tools/diagnose.js --set DZ-BT12            # Filter by set
+node tools/diagnose.js --list                   # List all setCode values
+node tools/fix_data.js --dry-run                # Preview fixes
+node tools/fix_data.js                          # Apply fixes in-place
 
 # Debugging
-node inspect_card.js "DZ-BT12/001EN"      # Debug single card parsing
-node debug_expansion.js 248               # Debug expansion gallery
-node reset_cards.js --set DZ-BT12         # Reset set for re-fetch
+node tools/inspect_card.js "DZ-BT12/001EN"      # Debug single card parsing
+node tools/debug_expansion.js 248               # Debug expansion gallery
+node tools/reset_cards.js --set DZ-BT12         # Reset set for re-fetch
 ```
 
 ---

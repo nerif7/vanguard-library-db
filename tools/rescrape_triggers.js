@@ -19,8 +19,8 @@ const https = require('https');
 const fs    = require('fs');
 const path  = require('path');
 
-const CARDS_FILE   = path.join(__dirname, 'cards.json');
-const BACKUP_FILE  = path.join(__dirname, 'cards.json.trigger-before');
+const CARDS_FILE   = path.join(__dirname, '../cards.json');
+const BACKUP_FILE  = path.join(__dirname, '../cards.json.trigger-before');
 const DRY_RUN      = process.argv.includes('--dry-run');
 const BUG_AB_ONLY  = process.argv.includes('--bug-ab-only');
 const BUG_C_ONLY   = process.argv.includes('--bug-c-only');

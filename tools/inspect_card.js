@@ -24,7 +24,7 @@ if (!cardNo) {
 
 // ── Load cards.json ───────────────────────────────────────────────────────────
 
-const CARDS_PATH = path.join(__dirname, "cards.json");
+const CARDS_PATH = path.join(__dirname, "../cards.json");
 if (!fs.existsSync(CARDS_PATH)) {
   console.error("cards.json not found");
   process.exit(1);
