@@ -35,6 +35,9 @@ vanguard-library-db/
 ├── reset_cards.js          # Reset specific cards/sets for retry
 ├── inspect_card.js         # Debug single card HTML parsing
 ├── debug_expansion.js      # Debug expansion gallery pages
+├── rescrape_triggers.js    # One-off: targeted trigger field re-scrape (Bug A/B/C fix 2026-05)
+├── verify-viewer.js        # One-off: local audit viewer for trigger data verification
+├── bug-audit.md            # Catalog of known data bugs (A–F) with root causes + status
 ├── viewer/
 │   ├── index.html          # Entry point
 │   ├── viewer.js           # Browse + filter logic (virtualized, 17 KB)

@@ -1,13 +1,16 @@
 # Trigger Data Bug Audit
-Branch: `fix/trigger-data-bugs`
+
+> **Status: SELESAI** — Fix di-merge ke `main` pada 2026-05-30.
+> Rescrape dilakukan via `rescrape_triggers.js`: **96 kartu difix** (48 Bug A/B → null, 48 Bug C → Heal).
 
 ---
 
 ## Kategori Bug
 
 ### Bug A — False positive: Normal Unit Grade 1-3 dapat trigger dari `div.gift` (DZ era)
+**Status: ✅ FIXED** — `scrape_en.js` dan `cards.json` sudah dikoreksi via rescrape.
 **Penyebab:** Scraper membaca `div.gift` (contoh: `"Over Trigger +100,000,000"`, `"Draw Trigger +10000"`, `"Critical Trigger +5000"`) pada Normal Unit non-trigger dan assign trigger. Gift parser tidak cek apakah kartu memang Trigger Unit.  
-**Fix:** Gift parser hanya boleh jalan jika `grade === 0` ATAU `isTriggerUnit === true`.  
+**Fix:** Tambah flag `isTriggerUnit` dan guard `canHaveTrigger` di `scrape_en.js` — trigger hanya di-assign jika `grade === 0 || grade === null || isTriggerUnit`.  
 **Catatan:** Ini mencakup semua tipe trigger, bukan hanya Over.
 
 Kartu yang teridentifikasi:
@@ -26,8 +29,9 @@ Kartu yang teridentifikasi:
 ---
 
 ### Bug B — False positive: Fallback scanner scan seluruh halaman HTML
+**Status: ✅ FIXED** — `scrape_en.js` dan `cards.json` sudah dikoreksi via rescrape.
 **Penyebab:** Fallback di `scrape_en.js:370-378` scan `stripTags(html)` dari seluruh halaman, bukan hanya `div.effect`. Teks "Heal Trigger"/"Critical Trigger"/"Draw Trigger" dari section lain (product listing, tabel kartu terkait) ikut ter-pick up.  
-**Fix:** Hapus fallback atau batasi scan ke `div.effect` saja.
+**Fix:** Full-page fallback scanner dihapus sepenuhnya dari `scrape_en.js`. Trigger hanya dibaca dari `div.gift`.
 
 Kartu yang teridentifikasi (non-Grade-0 dengan trigger salah dari fallback):
 | enCardNo | Nama | Grade | Trigger salah | Keterangan |
@@ -90,29 +94,43 @@ Kartu yang teridentifikasi (non-Grade-0 dengan trigger salah dari fallback):
 ---
 
 ### Bug C — False negative: Trigger Unit Grade 3 tidak terdeteksi
-**Penyebab:** Format gift lama `"Heal +10000"` tidak match pattern `"heal trigger"` di gift parser. Kartu dengan `div.type = "Trigger Unit"` tapi grade 3 kehilangan trigger-nya.  
-**Fix:** Tambah pattern `startsWith(kw)` di gift parser, aktifkan jika `isTriggerUnit === true`.
+**Status: ✅ FIXED** — 48 kartu dikoreksi via rescrape dari set D-VS dan V-era.
+**Penyebab:** Format gift V-era `"Heal +10000"` tidak mengandung kata "Trigger", sehingga pattern lama `"heal trigger"` tidak match. Kartu dengan `div.type = "Trigger Unit"` tapi grade 2-3 kehilangan trigger-nya.  
+**Fix:** Tambah pattern `giftLower.startsWith(kw)` di gift parser (di samping pattern `kw + " trigger"` yang sudah ada). Dikombinasikan dengan flag `isTriggerUnit` sehingga guard `canHaveTrigger` lolos untuk Grade 3 Trigger Units.
 
-| enCardNo | Nama | Grade | Trigger seharusnya | Trigger sekarang |
-|---|---|---|---|---|
-| D-VS01/074EN | Escutcheo Bubble Dragon | 3 | Heal | null |
+Contoh kartu yang terdeteksi:
 
-> Perlu audit lebih lanjut — kemungkinan ada kartu serupa di set V-era lain.
+| enCardNo | Nama | Set |
+|---|---|---|
+| D-VS01/074EN | Escutcheo Bubble Dragon | D-VS01 |
+| D-VS01/018EN | Aias the Fortress | D-VS01 |
+| D-VS01/032EN | Covert Demonic Dragon, Kumadori Dope | D-VS01 |
+| D-VS02/011EN | Astral Chain Dragon | D-VS02 |
+| ... | 44 kartu lainnya dari D-VS dan V-era | |
+
+> Total 48 kartu difix. Set D-VS03 dan D-VS04 tidak menghasilkan perubahan (tidak ada Grade 3 Trigger Unit di set tersebut — clan-dependent).
 
 ---
 
 ### Bug D — Data error di sumber (Bushiroad site salah)
-**Penyebab:** Scraper membaca data yang benar dari situs, tapi situs itu sendiri punya data yang salah. Tidak bisa difix dengan perbaikan scraper — perlu manual override di `fix_data.js`.
+**Status: ⚠️ DIBIARKAN** — Tidak bisa difix via re-scrape karena data di sumber memang salah.
+**Penyebab:** Scraper membaca data yang benar dari situs, tapi situs Bushiroad sendiri punya data yang salah. Re-scrape hanya akan menghasilkan data yang sama.
 
-| enCardNo | Nama | Trigger di situs | Trigger seharusnya |
-|---|---|---|---|
-| V-EB06/045EN | Beloved Child of Superstring Theory | Critical | Draw |
+| enCardNo | Nama | Field bermasalah | Data di situs | Seharusnya |
+|---|---|---|---|---|
+| V-EB06/045EN | Beloved Child of Superstring Theory | trigger | Critical | Draw |
+| D-PR/741EN | Yumenokessho PASTEL | grade | 1 | 0 |
+| D-PR/742EN | Yumenokessho HALO | grade | 1 | 0 |
+
+> Keputusan: dibiarkan sesuai data sumber. Kalau Bushiroad mengkoreksi situs mereka di masa depan, re-scrape kartu ini akan otomatis fix.
 
 ---
 
 ### Bug E — Schema limitation: Sentinel tidak tersimpan sama sekali
+**Status: ⏸️ DEFERRED** — Keputusan: dibiarkan untuk sekarang.
 **Penyebab:** Field `trigger` hanya menyimpan satu nilai. Kartu yang sekaligus Draw Trigger + Sentinel hanya tersimpan sebagai "Draw", Sentinel hilang. Total **0 kartu Sentinel** di seluruh database padahal ada 629+ Grade 0 Draw trigger yang berpotensi Sentinel.  
-**Status:** Perlu keputusan desain dulu — `isSentinel: boolean` vs `trigger: string[]`.
+**Opsi yang ada:** `isSentinel: boolean` (field baru) vs `trigger: string[]` (schema breaking change) vs dibiarkan.  
+**Alasan defer:** Cost implementasi tidak sebanding dengan frekuensi kebutuhan filter Sentinel. Bisa di-revisit kalau ada consumer yang butuh.
 
 Contoh:
 | enCardNo | Nama | Trigger sekarang | Seharusnya |
@@ -122,20 +140,27 @@ Contoh:
 ---
 
 ### Bug F — Image URL mismatch pada S-variant
-**Penyebab:** Kartu variant `-S` punya image URL yang menunjuk ke nomor kartu berbeda. Kemungkinan data entry error di situs Bushiroad.
+**Status: ✅ FIXED** — `cards.json` sudah dikoreksi langsung (tidak perlu re-scrape).
+**Penyebab:** Kartu variant `-S` punya image URL yang menunjuk ke nomor kartu berbeda. Kemungkinan data entry error saat scrape pertama.
 
-| enCardNo | imageUrlEn | Seharusnya |
+| enCardNo | imageUrlEn lama | imageUrlEn baru |
 |---|---|---|
-| D-PR/797EN-S | `dpr_796_S.png` | `dpr_797_S.png` (?) |
+| D-PR/797EN-S | `dpr_796_S.png` | `dpr_797_S.png` |
 
-> Perlu verifikasi apakah URL `dpr_796_S.png` valid atau broken. Juga perlu cek apakah ada S-variant lain dengan masalah serupa.
+Audit 132 S-variant lainnya: hanya 1 mismatch ditemukan. Semua S-variant lain URL-nya sudah benar.
 
 ---
 
 ## Status Audit
-- [ ] Bug A: 5 kartu teridentifikasi — mungkin lebih di set DZ lain
-- [ ] Bug B: ~52 kartu teridentifikasi — mungkin lebih
-- [ ] Bug C: 1 kartu teridentifikasi — perlu audit V-era
-- [ ] Bug D: 1 kartu teridentifikasi — perlu audit manual lebih lanjut
-- [ ] Bug E: Belum diputuskan desain schema
-- [ ] Bug F: 1 kartu teridentifikasi — perlu audit S-variant lain
+
+| Bug | Status | Jumlah Kartu | Keterangan |
+|---|---|---|---|
+| A — DZ Normal Unit false trigger | ✅ FIXED | ~7 kartu | Tercover oleh rescrape Bug A/B |
+| B — Fallback full-page false trigger | ✅ FIXED | ~41 kartu | Fallback dihapus dari scraper |
+| C — V-era Trigger Unit missing trigger | ✅ FIXED | 48 kartu | D-VS + V-BT/EB/SS/TD/PR |
+| D — Bushiroad source error | ⚠️ DIBIARKAN | 3 kartu | V-EB06/045, D-PR/741, D-PR/742 |
+| E — Sentinel schema limitation | ⏸️ DEFERRED | — | Keputusan: skip untuk sekarang |
+| F — S-variant image URL mismatch | ✅ FIXED | 1 kartu | D-PR/797EN-S |
+
+**Total kartu difix di `cards.json`:** 96 (via `rescrape_triggers.js`) + 1 (manual fix Bug F)  
+**Commit:** `8bd5ae5` → merged ke `main` 2026-05-30

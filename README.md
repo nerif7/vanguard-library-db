@@ -175,6 +175,8 @@ Auto-deploy via GitHub Actions setiap push ke `viewer/`.
 | [`reset_cards.js`](reset_cards.js) | Reset field tertentu untuk re-fetch dengan `--retry-failed` |
 | [`inspect_card.js`](inspect_card.js) | Debug single card — lihat HTML mentah dari EN site |
 | [`debug_expansion.js`](debug_expansion.js) | Investigate gallery page expansion tertentu |
+| [`rescrape_triggers.js`](rescrape_triggers.js) | *(one-off)* Targeted re-scrape untuk fix trigger field Bug A/B/C |
+| [`verify-viewer.js`](verify-viewer.js) | *(one-off)* Local HTTP server untuk audit & compare before/after trigger data |
 
 ### Usage
 
