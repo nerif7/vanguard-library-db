@@ -299,10 +299,12 @@ function parseDetailHtml(html, enCardNo) {
 
   // ── unitType (div.type) ───────────────────────────────────────────────────
   const types = extractByClass("type");
+  let isTriggerUnit = false;
   if (types.length > 0) {
     let raw = types[0];
-    // Normalize: "Trigger Unit" is just a Normal Unit with a trigger ability
-    if (raw === "Trigger Unit") raw = "Normal Unit";
+    // Normalize: "Trigger Unit" is just a Normal Unit with a trigger ability.
+    // Track this before normalization so trigger detection can use it later.
+    if (raw === "Trigger Unit") { isTriggerUnit = true; raw = "Normal Unit"; }
     result.unitType = raw;
   }
 
@@ -354,23 +356,24 @@ function parseDetailHtml(html, enCardNo) {
   const rarities = extractByClass("rarity");
   if (rarities.length > 0) result.rarity = rarities[0];
 
-  // ── trigger (div.gift OR effect text containing "[X Trigger]") ────────────
-  // Format B: <div class="gift">Heal Trigger +10000</div>
+  // ── trigger (div.gift) ───────────────────────────────────────────────────
+  // Only assign trigger if the card is genuinely a trigger unit:
+  //   - Grade 0 (all standard trigger units), OR
+  //   - div.type was "Trigger Unit" (e.g. V-era Grade 3 triggers like Escutcheo Bubble Dragon)
+  //   - Grade null (edge cases: Orders/Tokens that may carry trigger info)
+  // This prevents DZ-era non-trigger Normal Units that carry a trigger bonus
+  // in div.gift (e.g. "Draw Trigger +10000" on a Grade 1) from being
+  // misclassified, and avoids false positives from old-era full-page HTML.
   const gifts = extractByClass("gift");
-  if (gifts.length > 0) {
+  const canHaveTrigger = result.grade === null || result.grade === 0 || isTriggerUnit;
+  if (gifts.length > 0 && gifts[0] !== "-" && canHaveTrigger) {
+    const giftLower = gifts[0].toLowerCase();
     for (const kw of TRIGGER_KEYWORDS) {
-      if (gifts[0].toLowerCase().includes(kw.toLowerCase() + " trigger")) {
-        result.trigger = kw;
-        break;
-      }
-    }
-  }
-
-  // Fallback: scan full body for trigger marker (some cards put it in effect)
-  if (!result.trigger) {
-    const fullText = stripTags(html).toLowerCase();
-    for (const kw of TRIGGER_KEYWORDS) {
-      if (fullText.includes(kw.toLowerCase() + " trigger")) {
+      const kwLower = kw.toLowerCase();
+      // Match both formats:
+      //   "Heal Trigger +10000" (standard/DZ era — includes the word "Trigger")
+      //   "Heal +10000"         (V era — no "Trigger" word in gift text)
+      if (giftLower.includes(kwLower + " trigger") || giftLower.startsWith(kwLower)) {
         result.trigger = kw;
         break;
       }
