@@ -2356,6 +2356,136 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/bsf2025/bsf2025_05.png"
   },
   {
+    "enCardNo": "BSF2026/VGS01a",
+    "setCode": "BSF2026",
+    "cardNumber": "VGS01",
+    "name": "Elementaria Sanctitude",
+    "unitType": "Blitz Order",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/bsf2026/BSF2026_VGS01a.png"
+  },
+  {
+    "enCardNo": "BSF2026/VGS01b",
+    "setCode": "BSF2026",
+    "cardNumber": "VGS01",
+    "name": "Elementaria Sanctitude",
+    "unitType": "Blitz Order",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/bsf2026/BSF2026_VGS01b.png"
+  },
+  {
+    "enCardNo": "BSF2026/VGS02a",
+    "setCode": "BSF2026",
+    "cardNumber": "VGS02",
+    "name": "Elementaria Sanctitude",
+    "unitType": "Blitz Order",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/bsf2026/BSF2026_VGS02a.png"
+  },
+  {
+    "enCardNo": "BSF2026/VGS02b",
+    "setCode": "BSF2026",
+    "cardNumber": "VGS02",
+    "name": "Elementaria Sanctitude",
+    "unitType": "Blitz Order",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/bsf2026/BSF2026_VGS02b.png"
+  },
+  {
+    "enCardNo": "BSF2026/VGS03a",
+    "setCode": "BSF2026",
+    "cardNumber": "VGS03",
+    "name": "Energy Generator",
+    "unitType": "Ride Deck Crest",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": null,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/bsf2026/BSF2026_VGS03a.png"
+  },
+  {
+    "enCardNo": "BSF2026/VGS03b",
+    "setCode": "BSF2026",
+    "cardNumber": "VGS03",
+    "name": "Energy Generator",
+    "unitType": "Ride Deck Crest",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": null,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/bsf2026/BSF2026_VGS03b.png"
+  },
+  {
+    "enCardNo": "BSF2026/VGS04a",
+    "setCode": "BSF2026",
+    "cardNumber": "VGS04",
+    "name": "Energy Generator",
+    "unitType": "Ride Deck Crest",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": null,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/bsf2026/BSF2026_VGS04a.png"
+  },
+  {
+    "enCardNo": "BSF2026/VGS04b",
+    "setCode": "BSF2026",
+    "cardNumber": "VGS04",
+    "name": "Energy Generator",
+    "unitType": "Ride Deck Crest",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": null,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/bsf2026/BSF2026_VGS04b.png"
+  },
+  {
+    "enCardNo": "BSF2026/VGS05",
+    "setCode": "BSF2026",
+    "cardNumber": "VGS05",
+    "name": "Ridicule Disrupter",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Demon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/bsf2026/BSF2026_VGS05.png"
+  },
+  {
     "enCardNo": "BSFo2021/VGD01",
     "setCode": "BSFo2021",
     "cardNumber": "VGD01",
@@ -16811,7 +16941,7 @@
       "Battleroid"
     ],
     "grade": 3,
-    "trigger": "Heal",
+    "trigger": null,
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/bt08/BT08_001EN.png"
   },
@@ -16851,7 +16981,7 @@
       "Forest Dragon"
     ],
     "grade": 3,
-    "trigger": "Heal",
+    "trigger": null,
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/bt08/BT08_003EN.png"
   },
@@ -18851,7 +18981,7 @@
       "Battleroid"
     ],
     "grade": 3,
-    "trigger": "Heal",
+    "trigger": null,
     "rarity": "SP",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/bt08/BT08_S01EN.png"
   },
@@ -18891,7 +19021,7 @@
       "Forest Dragon"
     ],
     "grade": 3,
-    "trigger": "Heal",
+    "trigger": null,
     "rarity": "SP",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/bt08/BT08_S03EN.png"
   },
@@ -113119,7 +113249,7 @@
     "grade": 0,
     "trigger": "Draw",
     "rarity": "PR",
-    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_796_S.png"
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_797_S.png"
   },
   {
     "enCardNo": "D-PR/798EN",
@@ -115370,6 +115500,922 @@
     "trigger": null,
     "rarity": "PR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztb01/DPR_924.png"
+  },
+  {
+    "enCardNo": "D-PR/930EN",
+    "setCode": "D-PR",
+    "cardNumber": "930",
+    "name": "Sealed Blaze Dragon, Halibadra Balaht",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_930.png"
+  },
+  {
+    "enCardNo": "D-PR/931EN",
+    "setCode": "D-PR",
+    "cardNumber": "931",
+    "name": "Sealed Blaze Dragon, Namorkahr Anui",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_931.png"
+  },
+  {
+    "enCardNo": "D-PR/932EN",
+    "setCode": "D-PR",
+    "cardNumber": "932",
+    "name": "Sealed Blaze Dragon, Arhinsa Svr",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_932.png"
+  },
+  {
+    "enCardNo": "D-PR/933EN",
+    "setCode": "D-PR",
+    "cardNumber": "933",
+    "name": "Dragritter, Azhaar",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Dragoroid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_933.png"
+  },
+  {
+    "enCardNo": "D-PR/934EN",
+    "setCode": "D-PR",
+    "cardNumber": "934",
+    "name": "Demonic Dragon Mage, Jyokou",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Dragonman"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_934.png"
+  },
+  {
+    "enCardNo": "D-PR/935EN",
+    "setCode": "D-PR",
+    "cardNumber": "935",
+    "name": "Lizard Soldier, Jisen",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Dragonman"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_935.png"
+  },
+  {
+    "enCardNo": "D-PR/936EN",
+    "setCode": "D-PR",
+    "cardNumber": "936",
+    "name": "Distorted Heart, Sperod",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_936.png"
+  },
+  {
+    "enCardNo": "D-PR/937EN",
+    "setCode": "D-PR",
+    "cardNumber": "937",
+    "name": "Boy Aspiring to Join the Protectors, Sperod",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_937.png"
+  },
+  {
+    "enCardNo": "D-PR/938EN",
+    "setCode": "D-PR",
+    "cardNumber": "938",
+    "name": "Unison Dragon, Sybilt",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Unison Dragon"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_938.png"
+  },
+  {
+    "enCardNo": "D-PR/939EN",
+    "setCode": "D-PR",
+    "cardNumber": "939",
+    "name": "Coaster Shark",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Workeroid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_939.png"
+  },
+  {
+    "enCardNo": "D-PR/940EN",
+    "setCode": "D-PR",
+    "cardNumber": "940",
+    "name": "Nutcracker Soldier, Nutcrumbs",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Workeroid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_940.png"
+  },
+  {
+    "enCardNo": "D-PR/941EN",
+    "setCode": "D-PR",
+    "cardNumber": "941",
+    "name": "Cute Teddy Bear, Titi",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Workeroid"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_941.png"
+  },
+  {
+    "enCardNo": "D-PR/942EN",
+    "setCode": "D-PR",
+    "cardNumber": "942",
+    "name": "Vassal of the Moon, Ramsden",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Moonkeeper"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_942.png"
+  },
+  {
+    "enCardNo": "D-PR/943EN",
+    "setCode": "D-PR",
+    "cardNumber": "943",
+    "name": "Follower of the Moon, Fresnel",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Moonkeeper"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_943.png"
+  },
+  {
+    "enCardNo": "D-PR/944EN",
+    "setCode": "D-PR",
+    "cardNumber": "944",
+    "name": "Envoy of the Moon, Repsold",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Moonkeeper"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_944.png"
+  },
+  {
+    "enCardNo": "D-PR/945EN",
+    "setCode": "D-PR",
+    "cardNumber": "945",
+    "name": "Dimensional Robo, Kaisergrader",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [
+      "Dimension Police"
+    ],
+    "races": [
+      "Battleroid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_945.png"
+  },
+  {
+    "enCardNo": "D-PR/946EN",
+    "setCode": "D-PR",
+    "cardNumber": "946",
+    "name": "Dimensional Robo, Corekaiser",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [
+      "Dimension Police"
+    ],
+    "races": [
+      "Battleroid"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_946.png"
+  },
+  {
+    "enCardNo": "D-PR/947EN",
+    "setCode": "D-PR",
+    "cardNumber": "947",
+    "name": "Hound Raiser, Hakuren",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_947.png"
+  },
+  {
+    "enCardNo": "D-PR/948EN",
+    "setCode": "D-PR",
+    "cardNumber": "948",
+    "name": "Hound Raiser, Isumi",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_948.png"
+  },
+  {
+    "enCardNo": "D-PR/949EN",
+    "setCode": "D-PR",
+    "cardNumber": "949",
+    "name": "Hound Raiser, Kiika",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_949.png"
+  },
+  {
+    "enCardNo": "D-PR/950EN",
+    "setCode": "D-PR",
+    "cardNumber": "950",
+    "name": "Sorrowful Ardent Light, Youth",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_950.png"
+  },
+  {
+    "enCardNo": "D-PR/951EN",
+    "setCode": "D-PR",
+    "cardNumber": "951",
+    "name": "Squire of Spear Streaks, Youth",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_951.png"
+  },
+  {
+    "enCardNo": "D-PR/952EN",
+    "setCode": "D-PR",
+    "cardNumber": "952",
+    "name": "Unsullied Eyes, Youth",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_952.png"
+  },
+  {
+    "enCardNo": "D-PR/953EN",
+    "setCode": "D-PR",
+    "cardNumber": "953",
+    "name": "Nebula Knight of Glory, Serius",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_953.png"
+  },
+  {
+    "enCardNo": "D-PR/954EN",
+    "setCode": "D-PR",
+    "cardNumber": "954",
+    "name": "Guided Nebula Knight, Serius",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_954.png"
+  },
+  {
+    "enCardNo": "D-PR/955EN",
+    "setCode": "D-PR",
+    "cardNumber": "955",
+    "name": "Nebula Knight of Succession, Serius",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_955.png"
+  },
+  {
+    "enCardNo": "D-PR/956EN",
+    "setCode": "D-PR",
+    "cardNumber": "956",
+    "name": "Argo Siren, Refsy",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Mermaid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_956.png"
+  },
+  {
+    "enCardNo": "D-PR/957EN",
+    "setCode": "D-PR",
+    "cardNumber": "957",
+    "name": "Argo Siren, Iremia",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Mermaid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_957.png"
+  },
+  {
+    "enCardNo": "D-PR/958EN",
+    "setCode": "D-PR",
+    "cardNumber": "958",
+    "name": "Argo Siren, Rotolis",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Mermaid"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_958.png"
+  },
+  {
+    "enCardNo": "D-PR/959EN",
+    "setCode": "D-PR",
+    "cardNumber": "959",
+    "name": "Elcour the Smasher",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_959.png"
+  },
+  {
+    "enCardNo": "D-PR/960EN",
+    "setCode": "D-PR",
+    "cardNumber": "960",
+    "name": "Jaagra the Fighter",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_960.png"
+  },
+  {
+    "enCardNo": "D-PR/961EN",
+    "setCode": "D-PR",
+    "cardNumber": "961",
+    "name": "Inos the Bouncer",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_961.png"
+  },
+  {
+    "enCardNo": "D-PR/962EN",
+    "setCode": "D-PR",
+    "cardNumber": "962",
+    "name": "WitchingVibrato, Lifel",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Elf"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_962.png"
+  },
+  {
+    "enCardNo": "D-PR/963EN",
+    "setCode": "D-PR",
+    "cardNumber": "963",
+    "name": "DynamicExciter, Eastiera",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_963.png"
+  },
+  {
+    "enCardNo": "D-PR/964EN",
+    "setCode": "D-PR",
+    "cardNumber": "964",
+    "name": "HeapUpOctaver, Proutta",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_964.png"
+  },
+  {
+    "enCardNo": "D-PR/965EN",
+    "setCode": "D-PR",
+    "cardNumber": "965",
+    "name": "Coming of Origin",
+    "unitType": "Normal Order",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_965.png"
+  },
+  {
+    "enCardNo": "D-PR/966EN",
+    "setCode": "D-PR",
+    "cardNumber": "966",
+    "name": "Auspicious Transmogrification",
+    "unitType": "Normal Order",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_966.png"
+  },
+  {
+    "enCardNo": "D-PR/967EN",
+    "setCode": "D-PR",
+    "cardNumber": "967",
+    "name": "A New Beginning",
+    "unitType": "Normal Order",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_967.png"
+  },
+  {
+    "enCardNo": "D-PR/968EN",
+    "setCode": "D-PR",
+    "cardNumber": "968",
+    "name": "Sephirosid",
+    "unitType": "Normal Unit",
+    "nations": [],
+    "clan": [],
+    "races": [
+      "Hydragrum"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_968.png"
+  },
+  {
+    "enCardNo": "D-PR/969EN",
+    "setCode": "D-PR",
+    "cardNumber": "969",
+    "name": "Mini-chara, Nao Inabe",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_969.png"
+  },
+  {
+    "enCardNo": "D-PR/970EN",
+    "setCode": "D-PR",
+    "cardNumber": "970",
+    "name": "Mini-chara, Mirei Minae",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_970.png"
+  },
+  {
+    "enCardNo": "D-PR/971EN",
+    "setCode": "D-PR",
+    "cardNumber": "971",
+    "name": "Mini-chara, Suo Yobitsugi",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_971.png"
+  },
+  {
+    "enCardNo": "D-PR/972EN",
+    "setCode": "D-PR",
+    "cardNumber": "972",
+    "name": "Mini-chara, Michiru Hazama",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_972.png"
+  },
+  {
+    "enCardNo": "D-PR/973EN",
+    "setCode": "D-PR",
+    "cardNumber": "973",
+    "name": "Mini-chara, Senka Kanae",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_973.png"
+  },
+  {
+    "enCardNo": "D-PR/974EN",
+    "setCode": "D-PR",
+    "cardNumber": "974",
+    "name": "Mini-chara, Kagetsu Yakumo",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_974.png"
+  },
+  {
+    "enCardNo": "D-PR/975EN",
+    "setCode": "D-PR",
+    "cardNumber": "975",
+    "name": "Mini-chara, Akina Myodo",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_975.png"
+  },
+  {
+    "enCardNo": "D-PR/976EN",
+    "setCode": "D-PR",
+    "cardNumber": "976",
+    "name": "Mini-chara, Erika Myojo",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_976.png"
+  },
+  {
+    "enCardNo": "D-PR/977EN",
+    "setCode": "D-PR",
+    "cardNumber": "977",
+    "name": "Mini-chara, Raika Koshiba",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_977.png"
+  },
+  {
+    "enCardNo": "D-PR/978EN",
+    "setCode": "D-PR",
+    "cardNumber": "978",
+    "name": "Mini-chara, Kuon Aikawa",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_978.png"
+  },
+  {
+    "enCardNo": "D-PR/979EN",
+    "setCode": "D-PR",
+    "cardNumber": "979",
+    "name": "Mini-chara, Megumi Okura",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_979.png"
+  },
+  {
+    "enCardNo": "D-PR/980EN",
+    "setCode": "D-PR",
+    "cardNumber": "980",
+    "name": "Mini-chara, Ruka Miyako",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_980.png"
+  },
+  {
+    "enCardNo": "D-PR/981EN",
+    "setCode": "D-PR",
+    "cardNumber": "981",
+    "name": "Mini-chara, Suzune Rokuoin",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_981.png"
+  },
+  {
+    "enCardNo": "D-PR/982EN",
+    "setCode": "D-PR",
+    "cardNumber": "982",
+    "name": "Mini-chara, Suzune Rokuoin Angsty",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_982.png"
   },
   {
     "enCardNo": "D-PR/983EN",
@@ -159857,7 +160903,7 @@
       "Cosmo Dragon"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs01/dvs01_004.png"
   },
@@ -159997,7 +161043,7 @@
       "Noble"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs01/dvs01_011.png"
   },
@@ -160137,7 +161183,7 @@
       "Noble"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs01/dvs01_018.png"
   },
@@ -160277,7 +161323,7 @@
       "Human"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs01/dvs01_025.png"
   },
@@ -160417,7 +161463,7 @@
       "Abyss Dragon"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs01/dvs01_032.png"
   },
@@ -160557,7 +161603,7 @@
       "Thunder Dragon"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs01/dvs01_039.png"
   },
@@ -160697,7 +161743,7 @@
       "Battleroid"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs01/dvs01_046.png"
   },
@@ -160837,7 +161883,7 @@
       "Demon"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs01/dvs01_053.png"
   },
@@ -160977,7 +162023,7 @@
       "Workeroid"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs01/dvs01_060.png"
   },
@@ -161117,7 +162163,7 @@
       "Mermaid"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs01/dvs01_067.png"
   },
@@ -161257,7 +162303,7 @@
       "Tear Dragon"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs01/dvs01_074.png"
   },
@@ -161397,7 +162443,7 @@
       "Insect"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs01/dvs01_081.png"
   },
@@ -161857,7 +162903,7 @@
       "Angel"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs02/dvs02_004.png"
   },
@@ -161997,7 +163043,7 @@
       "Abyss Dragon"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs02/dvs02_011.png"
   },
@@ -162137,7 +163183,7 @@
       "Cosmo Dragon"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs02/dvs02_018.png"
   },
@@ -162277,7 +163323,7 @@
       "Abyss Dragon"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs02/dvs02_025.png"
   },
@@ -162417,7 +163463,7 @@
       "Dinodragon"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs02/dvs02_032.png"
   },
@@ -162557,7 +163603,7 @@
       "Space Dragon"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs02/dvs02_039.png"
   },
@@ -162697,7 +163743,7 @@
       "Cyber Dragon"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs02/dvs02_046.png"
   },
@@ -162837,7 +163883,7 @@
       "Human"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs02/dvs02_053.png"
   },
@@ -162977,7 +164023,7 @@
       "Gear Dragon"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs02/dvs02_060.png"
   },
@@ -163117,7 +164163,7 @@
       "Ghost"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs02/dvs02_067.png"
   },
@@ -163257,7 +164303,7 @@
       "Wild Dragon"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs02/dvs02_074.png"
   },
@@ -163397,7 +164443,7 @@
       "Bioroid"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs02/dvs02_081.png"
   },
@@ -167877,7 +168923,7 @@
       "Cosmo Dragon"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs05/dvs05_007.png"
   },
@@ -168017,7 +169063,7 @@
       "Noble"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs05/dvs05_014.png"
   },
@@ -168157,7 +169203,7 @@
       "Noble"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs05/dvs05_021.png"
   },
@@ -168297,7 +169343,7 @@
       "Human"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs05/dvs05_028.png"
   },
@@ -168437,7 +169483,7 @@
       "Abyss Dragon"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs05/dvs05_035.png"
   },
@@ -168577,7 +169623,7 @@
       "Thunder Dragon"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs05/dvs05_042.png"
   },
@@ -168717,7 +169763,7 @@
       "Battleroid"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs05/dvs05_049.png"
   },
@@ -168857,7 +169903,7 @@
       "Demon"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs05/dvs05_056.png"
   },
@@ -168997,7 +170043,7 @@
       "Workeroid"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs05/dvs05_063.png"
   },
@@ -169137,7 +170183,7 @@
       "Mermaid"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs05/dvs05_070.png"
   },
@@ -169277,7 +170323,7 @@
       "Tear Dragon"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs05/dvs05_077.png"
   },
@@ -169417,7 +170463,7 @@
       "Insect"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs05/dvs05_084.png"
   },
@@ -169857,7 +170903,7 @@
       "Angel"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs06/dvs06_007.png"
   },
@@ -169997,7 +171043,7 @@
       "Abyss Dragon"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs06/dvs06_014.png"
   },
@@ -170137,7 +171183,7 @@
       "Cosmo Dragon"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs06/dvs06_021.png"
   },
@@ -170257,7 +171303,7 @@
       "Abyss Dragon"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs06/dvs06_027.png"
   },
@@ -170397,7 +171443,7 @@
       "Dinodragon"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs06/dvs06_034.png"
   },
@@ -170537,7 +171583,7 @@
       "Space Dragon"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs06/dvs06_041.png"
   },
@@ -170677,7 +171723,7 @@
       "Cyber Dragon"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs06/dvs06_048.png"
   },
@@ -170817,7 +171863,7 @@
       "Human"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs06/dvs06_055.png"
   },
@@ -170957,7 +172003,7 @@
       "Gear Dragon"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs06/dvs06_062.png"
   },
@@ -171077,7 +172123,7 @@
       "Ghost"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs06/dvs06_068.png"
   },
@@ -171217,7 +172263,7 @@
       "Wild Dragon"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs06/dvs06_075.png"
   },
@@ -171337,7 +172383,7 @@
       "Bioroid"
     ],
     "grade": 3,
-    "trigger": null,
+    "trigger": "Heal",
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dvs06/dvs06_081.png"
   },
@@ -171857,7 +172903,7 @@
       "Angel"
     ],
     "grade": 3,
-    "trigger": "Critical",
+    "trigger": null,
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt01/dzbt01_010.png"
   },
@@ -201292,7 +202338,7 @@
       "Human"
     ],
     "grade": 3,
-    "trigger": "Critical",
+    "trigger": null,
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt07/dzbt07_004.png"
   },
@@ -203400,7 +204446,7 @@
     "clan": [],
     "races": [],
     "grade": 2,
-    "trigger": "Critical",
+    "trigger": null,
     "rarity": "C",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt07/dzbt07_123.png"
   },
@@ -206770,7 +207816,7 @@
       "Human"
     ],
     "grade": 2,
-    "trigger": "Critical",
+    "trigger": null,
     "rarity": "RR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_033.png"
   },
@@ -206788,7 +207834,7 @@
       "Human"
     ],
     "grade": 2,
-    "trigger": "Critical",
+    "trigger": null,
     "rarity": "RR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_034.png"
   },
@@ -206806,7 +207852,7 @@
       "Wild Dragon"
     ],
     "grade": 2,
-    "trigger": "Draw",
+    "trigger": null,
     "rarity": "RR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_035.png"
   },
@@ -206842,7 +207888,7 @@
       "High Beast"
     ],
     "grade": 2,
-    "trigger": "Heal",
+    "trigger": null,
     "rarity": "RR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_037.png"
   },
@@ -207020,7 +208066,7 @@
       "Demon"
     ],
     "grade": 2,
-    "trigger": "Critical",
+    "trigger": null,
     "rarity": "R",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_047.png"
   },
@@ -207038,7 +208084,7 @@
       "Workeroid"
     ],
     "grade": 1,
-    "trigger": "Critical",
+    "trigger": null,
     "rarity": "R",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_048.png"
   },
@@ -207056,7 +208102,7 @@
       "Chimera"
     ],
     "grade": 1,
-    "trigger": "Draw",
+    "trigger": null,
     "rarity": "R",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_049.png"
   },
@@ -207090,7 +208136,7 @@
       "Cyber Beast"
     ],
     "grade": 3,
-    "trigger": "Heal",
+    "trigger": null,
     "rarity": "R",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_051.png"
   },
@@ -207280,7 +208326,7 @@
     "clan": [],
     "races": [],
     "grade": 1,
-    "trigger": "Critical",
+    "trigger": null,
     "rarity": "R",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_062.png"
   },
@@ -207298,7 +208344,7 @@
       "Dragoroid"
     ],
     "grade": 2,
-    "trigger": "Critical",
+    "trigger": null,
     "rarity": "R",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_063.png"
   },
@@ -207316,7 +208362,7 @@
       "Warbeast"
     ],
     "grade": 1,
-    "trigger": "Draw",
+    "trigger": null,
     "rarity": "R",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_064.png"
   },
@@ -207350,7 +208396,7 @@
     "clan": [],
     "races": [],
     "grade": 3,
-    "trigger": "Heal",
+    "trigger": null,
     "rarity": "R",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_066.png"
   },
@@ -207566,7 +208612,7 @@
       "Gearoid"
     ],
     "grade": 2,
-    "trigger": "Critical",
+    "trigger": null,
     "rarity": "C",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_078.png"
   },
@@ -207584,7 +208630,7 @@
       "Gearoid"
     ],
     "grade": 2,
-    "trigger": "Critical",
+    "trigger": null,
     "rarity": "C",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_079.png"
   },
@@ -207602,7 +208648,7 @@
       "Elf"
     ],
     "grade": 1,
-    "trigger": "Draw",
+    "trigger": null,
     "rarity": "C",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_080.png"
   },
@@ -207638,7 +208684,7 @@
       "Demon"
     ],
     "grade": 1,
-    "trigger": "Heal",
+    "trigger": null,
     "rarity": "C",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_082.png"
   },
@@ -207818,7 +208864,7 @@
       "Human"
     ],
     "grade": 2,
-    "trigger": "Critical",
+    "trigger": null,
     "rarity": "C",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_092.png"
   },
@@ -207836,7 +208882,7 @@
       "Elf"
     ],
     "grade": 2,
-    "trigger": "Critical",
+    "trigger": null,
     "rarity": "C",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_093.png"
   },
@@ -207854,7 +208900,7 @@
       "High Beast"
     ],
     "grade": 1,
-    "trigger": "Draw",
+    "trigger": null,
     "rarity": "C",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_094.png"
   },
@@ -207890,7 +208936,7 @@
       "Human"
     ],
     "grade": 1,
-    "trigger": "Heal",
+    "trigger": null,
     "rarity": "C",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_096.png"
   },
@@ -208016,7 +209062,7 @@
       "Aquaroid"
     ],
     "grade": 1,
-    "trigger": "Over",
+    "trigger": null,
     "rarity": "C",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_103.png"
   },
@@ -208034,7 +209080,7 @@
       "Bioroid"
     ],
     "grade": 1,
-    "trigger": "Critical",
+    "trigger": null,
     "rarity": "C",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_104.png"
   },
@@ -208052,7 +209098,7 @@
       "High Beast"
     ],
     "grade": 1,
-    "trigger": "Critical",
+    "trigger": null,
     "rarity": "C",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_105.png"
   },
@@ -208088,7 +209134,7 @@
       "Elf"
     ],
     "grade": 3,
-    "trigger": "Critical",
+    "trigger": null,
     "rarity": "C",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_107.png"
   },
@@ -208106,7 +209152,7 @@
       "Human"
     ],
     "grade": 2,
-    "trigger": "Critical",
+    "trigger": null,
     "rarity": "C",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_108.png"
   },
@@ -208124,7 +209170,7 @@
       "Warbeast"
     ],
     "grade": 2,
-    "trigger": "Draw",
+    "trigger": null,
     "rarity": "C",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_109.png"
   },
@@ -208142,7 +209188,7 @@
       "Warbeast"
     ],
     "grade": 2,
-    "trigger": "Draw",
+    "trigger": null,
     "rarity": "C",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_110.png"
   },
@@ -208160,7 +209206,7 @@
       "Dragoroid"
     ],
     "grade": 2,
-    "trigger": "Draw",
+    "trigger": null,
     "rarity": "C",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_111.png"
   },
@@ -208178,7 +209224,7 @@
       "Elf"
     ],
     "grade": 1,
-    "trigger": "Draw",
+    "trigger": null,
     "rarity": "C",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_112.png"
   },
@@ -208196,7 +209242,7 @@
       "Human"
     ],
     "grade": 1,
-    "trigger": "Draw",
+    "trigger": null,
     "rarity": "C",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_113.png"
   },
@@ -209258,7 +210304,7 @@
       "Human"
     ],
     "grade": 1,
-    "trigger": "Over",
+    "trigger": null,
     "rarity": "FR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_fr03.png"
   },
@@ -209276,7 +210322,7 @@
       "Demon"
     ],
     "grade": 1,
-    "trigger": "Over",
+    "trigger": null,
     "rarity": "FR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_fr04.png"
   },
@@ -209788,7 +210834,7 @@
       "Wild Dragon"
     ],
     "grade": 2,
-    "trigger": "Over",
+    "trigger": null,
     "rarity": "FR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_fr33.png"
   },
@@ -209806,7 +210852,7 @@
       "Aquaroid"
     ],
     "grade": 2,
-    "trigger": "Over",
+    "trigger": null,
     "rarity": "FR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt08/dzbt08_fr34.png"
   },
@@ -216226,7 +217272,7 @@
       "Bioroid"
     ],
     "grade": 3,
-    "trigger": "Heal",
+    "trigger": null,
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt10/dzbt10_016.png"
   },
@@ -261958,7 +263004,7 @@
       "Duel Dragon/Hundred Demons"
     ],
     "grade": 2,
-    "trigger": "Heal",
+    "trigger": null,
     "rarity": "C",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztb01/dztb01_096.png"
   },
@@ -263284,7 +264330,7 @@
       "Duel Dragon/Hundred Demons"
     ],
     "grade": 2,
-    "trigger": "Heal",
+    "trigger": null,
     "rarity": "H",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztb01/dztb01_H28.png"
   },
@@ -279502,7 +280548,7 @@
       "Flame Dragon"
     ],
     "grade": 4,
-    "trigger": "Heal",
+    "trigger": null,
     "rarity": "RRR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/eb09/EB09_001EN.jpg"
   },
@@ -279542,7 +280588,7 @@
       "Flame Dragon"
     ],
     "grade": 3,
-    "trigger": "Critical",
+    "trigger": null,
     "rarity": "RR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/eb09/EB09_003EN.jpg"
   },
@@ -280202,7 +281248,7 @@
       "Flame Dragon"
     ],
     "grade": 4,
-    "trigger": "Heal",
+    "trigger": null,
     "rarity": "SP",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/eb09/EB09_S01EN.jpg"
   },
@@ -280242,7 +281288,7 @@
       "Flame Dragon"
     ],
     "grade": 3,
-    "trigger": "Critical",
+    "trigger": null,
     "rarity": "SP",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/eb09/EB09_S03EN.jpg"
   },
@@ -286225,6 +287271,26 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/s/pr_gbt01_088.jpg"
   },
   {
+    "enCardNo": "G-BT01/088EN PR",
+    "setCode": "G-BT01",
+    "cardNumber": "088",
+    "name": "Beast Deity, Frog Master",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Star Gate"
+    ],
+    "clan": [
+      "Nova Grappler"
+    ],
+    "races": [
+      "Battleroid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/s/pr_gbt01_088.jpg"
+  },
+  {
     "enCardNo": "G-BT01/089EN",
     "setCode": "G-BT01",
     "cardNumber": "089",
@@ -287086,6 +288152,26 @@
   },
   {
     "enCardNo": "G-BT02/016EN-PR",
+    "setCode": "G-BT02",
+    "cardNumber": "016",
+    "name": "Heart Thump Worker",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark Zone"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Workeroid"
+    ],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/s/gbt02_016.jpg"
+  },
+  {
+    "enCardNo": "G-BT02/016EN PR",
     "setCode": "G-BT02",
     "cardNumber": "016",
     "name": "Heart Thump Worker",
@@ -298707,6 +299793,26 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gbt07/GBT07_001EN.jpg"
   },
   {
+    "enCardNo": "G-BT07/001EN SGR",
+    "setCode": "G-BT07",
+    "cardNumber": "001",
+    "name": "Sunrise Ray Radiant Sword, Gurguit",
+    "unitType": "G Unit",
+    "nations": [
+      "United Sanctuary"
+    ],
+    "clan": [
+      "Gold Paladin"
+    ],
+    "races": [
+      "Human"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gbt07/GBT07_001EN.jpg"
+  },
+  {
     "enCardNo": "G-BT07/002EN",
     "setCode": "G-BT07",
     "cardNumber": "002",
@@ -298728,6 +299834,26 @@
   },
   {
     "enCardNo": "G-BT07/002EN-SGR",
+    "setCode": "G-BT07",
+    "cardNumber": "002",
+    "name": "Supreme Heavenly Emperor Dragon, Defeat Flare Dragon",
+    "unitType": "G Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Flame Dragon"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gbt07/GBT07_002EN.jpg"
+  },
+  {
+    "enCardNo": "G-BT07/002EN SGR",
     "setCode": "G-BT07",
     "cardNumber": "002",
     "name": "Supreme Heavenly Emperor Dragon, Defeat Flare Dragon",
@@ -301545,6 +302671,26 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gbt08/GBT08_re01EN.jpg"
   },
   {
+    "enCardNo": "G-BT08/001EN SGR",
+    "setCode": "G-BT08",
+    "cardNumber": "001",
+    "name": "Mythical Hellsky Beast, Fenrir",
+    "unitType": "G Unit",
+    "nations": [
+      "United Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Noble"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "GR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gbt08/GBT08_001_SGREN.jpg"
+  },
+  {
     "enCardNo": "G-BT08/002EN",
     "setCode": "G-BT08",
     "cardNumber": "002",
@@ -301566,6 +302712,26 @@
   },
   {
     "enCardNo": "G-BT08/002EN-SGR",
+    "setCode": "G-BT08",
+    "cardNumber": "002",
+    "name": "One Steeped in Sin, Scharhrot",
+    "unitType": "G Unit",
+    "nations": [
+      "Dark Zone"
+    ],
+    "clan": [
+      "Dark Irregulars"
+    ],
+    "races": [
+      "Vampire"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "GR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gbt08/GBT08_002_SGREN.jpg"
+  },
+  {
+    "enCardNo": "G-BT08/002EN SGR",
     "setCode": "G-BT08",
     "cardNumber": "002",
     "name": "One Steeped in Sin, Scharhrot",
@@ -304406,6 +305572,26 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gbt09/GBT09_re01EN.jpg"
   },
   {
+    "enCardNo": "G-BT09/001EN SGR",
+    "setCode": "G-BT09",
+    "cardNumber": "001",
+    "name": "Conquering Supreme Dragon, Dragonic Vanquisher \"VMAX\"",
+    "unitType": "G Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Narukami"
+    ],
+    "races": [
+      "Thunder Dragon"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gbt09/GBT09_SGR_001EN.jpg"
+  },
+  {
     "enCardNo": "G-BT09/002EN",
     "setCode": "G-BT09",
     "cardNumber": "002",
@@ -304464,6 +305650,26 @@
     "trigger": null,
     "rarity": "Re",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gbt09/GBT09_re02EN.jpg"
+  },
+  {
+    "enCardNo": "G-BT09/002EN SGR",
+    "setCode": "G-BT09",
+    "cardNumber": "002",
+    "name": "Storm of Lament, Wailing Thavas",
+    "unitType": "G Unit",
+    "nations": [
+      "Magallanica"
+    ],
+    "clan": [
+      "Aqua Force"
+    ],
+    "races": [
+      "Aquaroid"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gbt09/GBT09_SGR_002EN.jpg"
   },
   {
     "enCardNo": "G-BT09/003EN",
@@ -307145,6 +308351,26 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gbt10/GBT10_re01EN.jpg"
   },
   {
+    "enCardNo": "G-BT10/001EN SGR",
+    "setCode": "G-BT10",
+    "cardNumber": "001",
+    "name": "Draganger, Ogma",
+    "unitType": "G Unit",
+    "nations": [
+      "United Sanctuary"
+    ],
+    "clan": [
+      "Shadow Paladin"
+    ],
+    "races": [
+      "Elf"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gbt10/GBT10_SGR_001EN.jpg"
+  },
+  {
     "enCardNo": "G-BT10/002EN",
     "setCode": "G-BT10",
     "cardNumber": "002",
@@ -307203,6 +308429,26 @@
     "trigger": null,
     "rarity": "Re",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gbt10/GBT10_re02EN.jpg"
+  },
+  {
+    "enCardNo": "G-BT10/002EN SGR",
+    "setCode": "G-BT10",
+    "cardNumber": "002",
+    "name": "Favorite Champ, Victor",
+    "unitType": "G Unit",
+    "nations": [
+      "Star Gate"
+    ],
+    "clan": [
+      "Nova Grappler"
+    ],
+    "races": [
+      "Battleroid"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gbt10/GBT10_SGR_002EN.jpg"
   },
   {
     "enCardNo": "G-BT10/003EN",
@@ -309763,6 +311009,26 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gbt11/GBT11_re01EN.jpg"
   },
   {
+    "enCardNo": "G-BT11/001EN SGR",
+    "setCode": "G-BT11",
+    "cardNumber": "001",
+    "name": "Holy Divine Knight, Gancelot Peace Saver",
+    "unitType": "G Unit",
+    "nations": [
+      "United Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "Elf"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gbt11/GBT11_SGR_001EN.jpg"
+  },
+  {
     "enCardNo": "G-BT11/002EN",
     "setCode": "G-BT11",
     "cardNumber": "002",
@@ -309821,6 +311087,26 @@
     "trigger": null,
     "rarity": "Re",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gbt11/GBT11_re02EN.jpg"
+  },
+  {
+    "enCardNo": "G-BT11/002EN SGR",
+    "setCode": "G-BT11",
+    "cardNumber": "002",
+    "name": "Metapulsar, Mystery-freeze Dragon",
+    "unitType": "G Unit",
+    "nations": [
+      "Dark Zone"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Dragon/Zodiac Time Beast"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gbt11/GBT11_SGR_002EN.jpg"
   },
   {
     "enCardNo": "G-BT11/003EN",
@@ -312661,6 +313947,26 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gbt12/GBT12_re01EN.jpg"
   },
   {
+    "enCardNo": "G-BT12/001EN SGR",
+    "setCode": "G-BT12",
+    "cardNumber": "001",
+    "name": "Dragstrider, Luard",
+    "unitType": "G Unit",
+    "nations": [
+      "United Sanctuary"
+    ],
+    "clan": [
+      "Shadow Paladin"
+    ],
+    "races": [
+      "Abyss Dragon"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gbt12/GBT12_SGR_001EN.jpg"
+  },
+  {
     "enCardNo": "G-BT12/002EN",
     "setCode": "G-BT12",
     "cardNumber": "002",
@@ -312719,6 +314025,26 @@
     "trigger": null,
     "rarity": "Re",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gbt12/GBT12_re02EN.jpg"
+  },
+  {
+    "enCardNo": "G-BT12/002EN SGR",
+    "setCode": "G-BT12",
+    "cardNumber": "002",
+    "name": "Evil-eye Hades Emperor, Shiranui \"Mukuro\"",
+    "unitType": "G Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Nubatama"
+    ],
+    "races": [
+      "Abyss Dragon"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gbt12/GBT12_SGR_002EN.jpg"
   },
   {
     "enCardNo": "G-BT12/003EN",
@@ -317589,6 +318915,24 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gbt14/GBT14_re01EN.jpg"
   },
   {
+    "enCardNo": "G-BT14/001EN Neon Gyze side",
+    "setCode": "G-BT14",
+    "cardNumber": "001",
+    "name": "Neon Gyze",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Cray Elemental"
+    ],
+    "clan": [],
+    "races": [
+      "Gyze"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "ZR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gbt14/GBT14_001bEN.jpg"
+  },
+  {
     "enCardNo": "G-BT14/002EN",
     "setCode": "G-BT14",
     "cardNumber": "002",
@@ -322131,6 +323475,26 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gcb03/GCB03_RE01EN.jpg"
   },
   {
+    "enCardNo": "G-CB03/001EN SGR",
+    "setCode": "G-CB03",
+    "cardNumber": "001",
+    "name": "Celebrate Voice, Lauris",
+    "unitType": "G Unit",
+    "nations": [
+      "Magallanica"
+    ],
+    "clan": [
+      "Bermuda Triangle"
+    ],
+    "races": [
+      "Mermaid"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gcb03/GCB03_001EN-SGR.jpg"
+  },
+  {
     "enCardNo": "G-CB03/002EN",
     "setCode": "G-CB03",
     "cardNumber": "002",
@@ -323131,6 +324495,26 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gcb03/GCB03_S01EN-WSP.jpg"
   },
   {
+    "enCardNo": "G-CB03/S01EN WSP",
+    "setCode": "G-CB03",
+    "cardNumber": "S01",
+    "name": "Celebrate Voice, Lauris",
+    "unitType": "G Unit",
+    "nations": [
+      "Magallanica"
+    ],
+    "clan": [
+      "Bermuda Triangle"
+    ],
+    "races": [
+      "Mermaid"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "WSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gcb03/GCB03_S01EN-WSP.jpg"
+  },
+  {
     "enCardNo": "G-CB03/S02EN",
     "setCode": "G-CB03",
     "cardNumber": "S02",
@@ -323152,6 +324536,26 @@
   },
   {
     "enCardNo": "G-CB03/S02EN-WSP",
+    "setCode": "G-CB03",
+    "cardNumber": "S02",
+    "name": "PR&hearts;ISM-Image, Sunshine Vert",
+    "unitType": "G Unit",
+    "nations": [
+      "Magallanica"
+    ],
+    "clan": [
+      "Bermuda Triangle"
+    ],
+    "races": [
+      "Mermaid"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "WSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gcb03/GCB03_S02EN-WSP.jpg"
+  },
+  {
+    "enCardNo": "G-CB03/S02EN WSP",
     "setCode": "G-CB03",
     "cardNumber": "S02",
     "name": "PR&hearts;ISM-Image, Sunshine Vert",
@@ -323211,6 +324615,26 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gcb03/GCB03_S03EN-WSP.jpg"
   },
   {
+    "enCardNo": "G-CB03/S03EN WSP",
+    "setCode": "G-CB03",
+    "cardNumber": "S03",
+    "name": "Frontier Star, Coral",
+    "unitType": "G Unit",
+    "nations": [
+      "Magallanica"
+    ],
+    "clan": [
+      "Bermuda Triangle"
+    ],
+    "races": [
+      "Mermaid"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "WSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gcb03/GCB03_S03EN-WSP.jpg"
+  },
+  {
     "enCardNo": "G-CB03/S04EN",
     "setCode": "G-CB03",
     "cardNumber": "S04",
@@ -323232,6 +324656,26 @@
   },
   {
     "enCardNo": "G-CB03/S04EN-WSP",
+    "setCode": "G-CB03",
+    "cardNumber": "S04",
+    "name": "Peaceful Voice, Raindear",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Magallanica"
+    ],
+    "clan": [
+      "Bermuda Triangle"
+    ],
+    "races": [
+      "Mermaid"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "WSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gcb03/GCB03_S04EN-WSP.jpg"
+  },
+  {
+    "enCardNo": "G-CB03/S04EN WSP",
     "setCode": "G-CB03",
     "cardNumber": "S04",
     "name": "Peaceful Voice, Raindear",
@@ -323291,6 +324735,26 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gcb03/GCB03_S05EN-WSP.jpg"
   },
   {
+    "enCardNo": "G-CB03/S05EN WSP",
+    "setCode": "G-CB03",
+    "cardNumber": "S05",
+    "name": "Sparkle in Her Heart, Spica",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Magallanica"
+    ],
+    "clan": [
+      "Bermuda Triangle"
+    ],
+    "races": [
+      "Mermaid"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "WSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gcb03/GCB03_S05EN-WSP.jpg"
+  },
+  {
     "enCardNo": "G-CB03/S06EN",
     "setCode": "G-CB03",
     "cardNumber": "S06",
@@ -323312,6 +324776,26 @@
   },
   {
     "enCardNo": "G-CB03/S06EN-WSP",
+    "setCode": "G-CB03",
+    "cardNumber": "S06",
+    "name": "Prestige, Cetia",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Magallanica"
+    ],
+    "clan": [
+      "Bermuda Triangle"
+    ],
+    "races": [
+      "Mermaid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "WSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gcb03/GCB03_S06EN-WSP.jpg"
+  },
+  {
+    "enCardNo": "G-CB03/S06EN WSP",
     "setCode": "G-CB03",
     "cardNumber": "S06",
     "name": "Prestige, Cetia",
@@ -323371,6 +324855,26 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gcb03/GCB03_S07EN-WSP.jpg"
   },
   {
+    "enCardNo": "G-CB03/S07EN WSP",
+    "setCode": "G-CB03",
+    "cardNumber": "S07",
+    "name": "Hand in Hand, Leona",
+    "unitType": "G Unit",
+    "nations": [
+      "Magallanica"
+    ],
+    "clan": [
+      "Bermuda Triangle"
+    ],
+    "races": [
+      "Mermaid"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "WSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gcb03/GCB03_S07EN-WSP.jpg"
+  },
+  {
     "enCardNo": "G-CB03/S08EN",
     "setCode": "G-CB03",
     "cardNumber": "S08",
@@ -323392,6 +324896,26 @@
   },
   {
     "enCardNo": "G-CB03/S08EN-WSP",
+    "setCode": "G-CB03",
+    "cardNumber": "S08",
+    "name": "Great Ascent, Liddy",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Magallanica"
+    ],
+    "clan": [
+      "Bermuda Triangle"
+    ],
+    "races": [
+      "Mermaid"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "WSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gcb03/GCB03_S08EN-WSP.jpg"
+  },
+  {
+    "enCardNo": "G-CB03/S08EN WSP",
     "setCode": "G-CB03",
     "cardNumber": "S08",
     "name": "Great Ascent, Liddy",
@@ -323451,6 +324975,26 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gcb03/GCB03_S09EN-WSP.jpg"
   },
   {
+    "enCardNo": "G-CB03/S09EN WSP",
+    "setCode": "G-CB03",
+    "cardNumber": "S09",
+    "name": "Brand-New-PR&hearts;ISM, Garnet",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Magallanica"
+    ],
+    "clan": [
+      "Bermuda Triangle"
+    ],
+    "races": [
+      "Mermaid"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "WSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gcb03/GCB03_S09EN-WSP.jpg"
+  },
+  {
     "enCardNo": "G-CB03/S10EN",
     "setCode": "G-CB03",
     "cardNumber": "S10",
@@ -323472,6 +325016,26 @@
   },
   {
     "enCardNo": "G-CB03/S10EN-WSP",
+    "setCode": "G-CB03",
+    "cardNumber": "S10",
+    "name": "Magical Charge, Vita",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Magallanica"
+    ],
+    "clan": [
+      "Bermuda Triangle"
+    ],
+    "races": [
+      "Mermaid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "WSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gcb03/GCB03_S10EN-WSP.jpg"
+  },
+  {
+    "enCardNo": "G-CB03/S10EN WSP",
     "setCode": "G-CB03",
     "cardNumber": "S10",
     "name": "Magical Charge, Vita",
@@ -323531,6 +325095,26 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gcb03/GCB03_S11EN-WSP.jpg"
   },
   {
+    "enCardNo": "G-CB03/S11EN WSP",
+    "setCode": "G-CB03",
+    "cardNumber": "S11",
+    "name": "Brilliant Ocean, Elly",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Magallanica"
+    ],
+    "clan": [
+      "Bermuda Triangle"
+    ],
+    "races": [
+      "Mermaid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "WSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gcb03/GCB03_S11EN-WSP.jpg"
+  },
+  {
     "enCardNo": "G-CB03/S12EN",
     "setCode": "G-CB03",
     "cardNumber": "S12",
@@ -323571,6 +325155,26 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gcb03/GCB03_S12EN-WSP.jpg"
   },
   {
+    "enCardNo": "G-CB03/S12EN WSP",
+    "setCode": "G-CB03",
+    "cardNumber": "S12",
+    "name": "Garland Blossom, Ayna",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Magallanica"
+    ],
+    "clan": [
+      "Bermuda Triangle"
+    ],
+    "races": [
+      "Mermaid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "WSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gcb03/GCB03_S12EN-WSP.jpg"
+  },
+  {
     "enCardNo": "G-CB03/S13EN",
     "setCode": "G-CB03",
     "cardNumber": "S13",
@@ -323592,6 +325196,26 @@
   },
   {
     "enCardNo": "G-CB03/S13EN-WSP",
+    "setCode": "G-CB03",
+    "cardNumber": "S13",
+    "name": "Miracle Twintail, Wyz",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Magallanica"
+    ],
+    "clan": [
+      "Bermuda Triangle"
+    ],
+    "races": [
+      "Mermaid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "WSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gcb03/GCB03_S13EN-WSP.jpg"
+  },
+  {
+    "enCardNo": "G-CB03/S13EN WSP",
     "setCode": "G-CB03",
     "cardNumber": "S13",
     "name": "Miracle Twintail, Wyz",
@@ -323669,6 +325293,26 @@
     "trigger": null,
     "rarity": "PR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gcb04/GCB04_RE01EN.jpg"
+  },
+  {
+    "enCardNo": "G-CB04/001EN SGR",
+    "setCode": "G-CB04",
+    "cardNumber": "001",
+    "name": "Deus Ex Machina, Demiurge",
+    "unitType": "G Unit",
+    "nations": [
+      "Dark Zone"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Colossus"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gcb04/GCB04_001EN_SGR.jpg"
   },
   {
     "enCardNo": "G-CB04/002EN",
@@ -327452,6 +329096,26 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gcb06/GCB06_RE01EN.jpg"
   },
   {
+    "enCardNo": "G-CB06/001EN SGR",
+    "setCode": "G-CB06",
+    "cardNumber": "001",
+    "name": "Genesis Dragon, Harmonics Neo Messiah",
+    "unitType": "G Unit",
+    "nations": [
+      "Star Gate"
+    ],
+    "clan": [
+      "Link Joker"
+    ],
+    "races": [
+      "Messiah"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gcb06/GCB06_001EN-SGR.jpg"
+  },
+  {
     "enCardNo": "G-CB06/002EN",
     "setCode": "G-CB06",
     "cardNumber": "002",
@@ -327510,6 +329174,26 @@
     "trigger": null,
     "rarity": "Re",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gcb06/GCB06_RE02EN.jpg"
+  },
+  {
+    "enCardNo": "G-CB06/002EN SGR",
+    "setCode": "G-CB06",
+    "cardNumber": "002",
+    "name": "Death Star-vader, Chaos Breaker Deluge",
+    "unitType": "G Unit",
+    "nations": [
+      "Star Gate"
+    ],
+    "clan": [
+      "Link Joker"
+    ],
+    "races": [
+      "Cyber Dragon"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gcb06/GCB06_002EN-SGR.jpg"
   },
   {
     "enCardNo": "G-CB06/003EN",
@@ -329970,6 +331654,26 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gchb01/GCHB01_RE01EN.jpg"
   },
   {
+    "enCardNo": "G-CHB01/001EN SGR",
+    "setCode": "G-CHB01",
+    "cardNumber": "001",
+    "name": "Holy Dragon, Brave Lancer Dragon",
+    "unitType": "G Unit",
+    "nations": [
+      "United Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "Cosmo Dragon"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gchb01/GCHB01_001EN-SGR.jpg"
+  },
+  {
     "enCardNo": "G-CHB01/002EN",
     "setCode": "G-CHB01",
     "cardNumber": "002",
@@ -330030,6 +331734,26 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gchb01/GCHB01_RE02EN.jpg"
   },
   {
+    "enCardNo": "G-CHB01/002EN SGR",
+    "setCode": "G-CHB01",
+    "cardNumber": "002",
+    "name": "Interdimensional Dragon, Crossover Dragon",
+    "unitType": "G Unit",
+    "nations": [
+      "Dark Zone"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Dragon"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gchb01/GCHB01_002EN-SGR.jpg"
+  },
+  {
     "enCardNo": "G-CHB01/003EN",
     "setCode": "G-CHB01",
     "cardNumber": "003",
@@ -330088,6 +331812,26 @@
     "trigger": "Critical",
     "rarity": "Re",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gchb01/GCHB01_RE03EN.jpg"
+  },
+  {
+    "enCardNo": "G-CHB01/003EN SGR",
+    "setCode": "G-CHB01",
+    "cardNumber": "003",
+    "name": "Flower Princess of Beautiful Winter, Inverno",
+    "unitType": "G Unit",
+    "nations": [
+      "Zoo"
+    ],
+    "clan": [
+      "Neo Nectar"
+    ],
+    "races": [
+      "Bioroid"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gchb01/GCHB01_003EN-SGR.jpg"
   },
   {
     "enCardNo": "G-CHB01/004EN",
@@ -331950,6 +333694,26 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gchb02/GCHB02_RE01EN.jpg"
   },
   {
+    "enCardNo": "G-CHB02/001EN SGR",
+    "setCode": "G-CHB02",
+    "cardNumber": "001",
+    "name": "State Affair Subjugation Deity, Kamususanoo",
+    "unitType": "G Unit",
+    "nations": [
+      "United Sanctuary"
+    ],
+    "clan": [
+      "Oracle Think Tank"
+    ],
+    "races": [
+      "Noble"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gchb02/GCHB02_001EN-SGR.jpg"
+  },
+  {
     "enCardNo": "G-CHB02/002EN",
     "setCode": "G-CHB02",
     "cardNumber": "002",
@@ -332010,6 +333774,26 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gchb02/GCHB02_RE02EN.jpg"
   },
   {
+    "enCardNo": "G-CHB02/002EN SGR",
+    "setCode": "G-CHB02",
+    "cardNumber": "002",
+    "name": "Great Galactic Governor, Commander Laurel D",
+    "unitType": "G Unit",
+    "nations": [
+      "Star Gate"
+    ],
+    "clan": [
+      "Dimension Police"
+    ],
+    "races": [
+      "Alien"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gchb02/GCHB02_002EN-SGR.jpg"
+  },
+  {
     "enCardNo": "G-CHB02/003EN",
     "setCode": "G-CHB02",
     "cardNumber": "003",
@@ -332068,6 +333852,26 @@
     "trigger": null,
     "rarity": "Re",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gchb02/GCHB02_RE03EN.jpg"
+  },
+  {
+    "enCardNo": "G-CHB02/003EN SGR",
+    "setCode": "G-CHB02",
+    "cardNumber": "003",
+    "name": "Omniscience Dragon, Fernyiges",
+    "unitType": "G Unit",
+    "nations": [
+      "Zoo"
+    ],
+    "clan": [
+      "Great Nature"
+    ],
+    "races": [
+      "Wild Dragon"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gchb02/GCHB02_003EN-SGR.jpg"
   },
   {
     "enCardNo": "G-CHB02/004EN",
@@ -334151,6 +335955,46 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gchb03/GCHB03_RE01EN.jpg"
   },
   {
+    "enCardNo": "G-CHB03/001EN RLR",
+    "setCode": "G-CHB03",
+    "cardNumber": "001",
+    "name": "Masked Phantom, Harri",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark Zone"
+    ],
+    "clan": [
+      "Pale Moon"
+    ],
+    "races": [
+      "Elf"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gchb03/GCHB03_001EN-RLR.jpg"
+  },
+  {
+    "enCardNo": "G-CHB03/001EN SGR",
+    "setCode": "G-CHB03",
+    "cardNumber": "001",
+    "name": "Parallel Megatrick, Fairfield",
+    "unitType": "G Unit",
+    "nations": [
+      "Dark Zone"
+    ],
+    "clan": [
+      "Pale Moon"
+    ],
+    "races": [
+      "Human"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gchb03/GCHB03_001EN-SGR.jpg"
+  },
+  {
     "enCardNo": "G-CHB03/002EN",
     "setCode": "G-CHB03",
     "cardNumber": "002",
@@ -334230,6 +336074,46 @@
     "trigger": null,
     "rarity": "Re",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gchb03/GCHB03_RE02EN.jpg"
+  },
+  {
+    "enCardNo": "G-CHB03/002EN RLR",
+    "setCode": "G-CHB03",
+    "cardNumber": "002",
+    "name": "Vampire Princess of Starlight, Nightrose",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Magallanica"
+    ],
+    "clan": [
+      "Granblue"
+    ],
+    "races": [
+      "Vampire"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gchb03/GCHB03_002EN-RLR.jpg"
+  },
+  {
+    "enCardNo": "G-CHB03/002EN SGR",
+    "setCode": "G-CHB03",
+    "cardNumber": "002",
+    "name": "Pirate King of Redemption, Dragut",
+    "unitType": "G Unit",
+    "nations": [
+      "Magallanica"
+    ],
+    "clan": [
+      "Granblue"
+    ],
+    "races": [
+      "Vampire"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gchb03/GCHB03_002EN-SGR.jpg"
   },
   {
     "enCardNo": "G-CHB03/003EN",
@@ -347788,6 +349672,24 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/grc02/grc02_001b.png"
   },
   {
+    "enCardNo": "G-RC02/001EN Neon Gyze side",
+    "setCode": "G-RC02",
+    "cardNumber": "001",
+    "name": "Neon Gyze",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Cray Elemental"
+    ],
+    "clan": [],
+    "races": [
+      "Gyze"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "ZR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/grc02/grc02_001b.png"
+  },
+  {
     "enCardNo": "G-RC02/002EN",
     "setCode": "G-RC02",
     "cardNumber": "002",
@@ -353580,6 +355482,26 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gtcb02/gtcb02_001_SGR.jpg"
   },
   {
+    "enCardNo": "G-TCB02/001EN SGR",
+    "setCode": "G-TCB02",
+    "cardNumber": "001",
+    "name": "Ambush Demon Stealth Dragon, Shibarakku Buster",
+    "unitType": "G Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Murakumo"
+    ],
+    "races": [
+      "Abyss Dragon"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gtcb02/gtcb02_001_SGR.jpg"
+  },
+  {
     "enCardNo": "G-TCB02/002EN",
     "setCode": "G-TCB02",
     "cardNumber": "002",
@@ -353620,6 +355542,26 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gtcb02/gtcb02_002_SGR.jpg"
   },
   {
+    "enCardNo": "G-TCB02/002EN SGR",
+    "setCode": "G-TCB02",
+    "cardNumber": "002",
+    "name": "Lawless Mutant Deity, Obtirandus",
+    "unitType": "G Unit",
+    "nations": [
+      "Zoo"
+    ],
+    "clan": [
+      "Megacolony"
+    ],
+    "races": [
+      "Insect"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gtcb02/gtcb02_002_SGR.jpg"
+  },
+  {
     "enCardNo": "G-TCB02/003EN",
     "setCode": "G-TCB02",
     "cardNumber": "003",
@@ -353641,6 +355583,26 @@
   },
   {
     "enCardNo": "G-TCB02/003EN-SGR",
+    "setCode": "G-TCB02",
+    "cardNumber": "003",
+    "name": "Omniscience Dragon, Afanc",
+    "unitType": "G Unit",
+    "nations": [
+      "Zoo"
+    ],
+    "clan": [
+      "Great Nature"
+    ],
+    "races": [
+      "Wild Dragon"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/gtcb02/gtcb02_003_SGR.jpg"
+  },
+  {
+    "enCardNo": "G-TCB02/003EN SGR",
     "setCode": "G-TCB02",
     "cardNumber": "003",
     "name": "Omniscience Dragon, Afanc",
@@ -380226,6 +382188,26 @@
   },
   {
     "enCardNo": "V-BT02/SV01EN-SN",
+    "setCode": "V-BT02",
+    "cardNumber": "SV01",
+    "name": "Phantom Blaster Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "United Sanctuary"
+    ],
+    "clan": [
+      "Shadow Paladin"
+    ],
+    "races": [
+      "Abyss Dragon"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SVR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/vbt02/VBT02_SV01PEN.png"
+  },
+  {
+    "enCardNo": "V-BT02/SV01EN with serial number",
     "setCode": "V-BT02",
     "cardNumber": "SV01",
     "name": "Phantom Blaster Dragon",
@@ -413365,6 +415347,26 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/veb07/veb07_xv01_parallel.png"
   },
   {
+    "enCardNo": "V-EB07/XV01EN Parallel",
+    "setCode": "V-EB07",
+    "cardNumber": "XV01",
+    "name": "Dragonic Overlord the End",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Flame Dragon"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "XVR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/veb07/veb07_xv01_parallel.png"
+  },
+  {
     "enCardNo": "V-EB07/XV02EN",
     "setCode": "V-EB07",
     "cardNumber": "XV02",
@@ -413406,6 +415408,26 @@
   },
   {
     "enCardNo": "V-EB07/XV03EN-Parallel",
+    "setCode": "V-EB07",
+    "cardNumber": "XV03",
+    "name": "Harmonics Messiah",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Star Gate"
+    ],
+    "clan": [
+      "Link Joker"
+    ],
+    "races": [
+      "Messiah"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "XVR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/veb07/veb07_xv03.png"
+  },
+  {
+    "enCardNo": "V-EB07/XV03EN Parallel",
     "setCode": "V-EB07",
     "cardNumber": "XV03",
     "name": "Harmonics Messiah",
@@ -418222,6 +420244,26 @@
   },
   {
     "enCardNo": "V-EB11/001EN-HS",
+    "setCode": "V-EB11",
+    "cardNumber": "001",
+    "name": "Crystal Pop Star, Eve",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Magallanica"
+    ],
+    "clan": [
+      "Bermuda Triangle"
+    ],
+    "races": [
+      "Mermaid"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "LIR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/veb11/veb11_001a.png"
+  },
+  {
+    "enCardNo": "V-EB11/001EN (Hot-stamped ver.)",
     "setCode": "V-EB11",
     "cardNumber": "001",
     "name": "Crystal Pop Star, Eve",
