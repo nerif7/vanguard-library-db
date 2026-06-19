@@ -259101,6 +259101,6952 @@
     "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT14/dzbt14_332.png"
   },
   {
+    "jpCardNo": "DZ-BT15/001",
+    "setCode": "DZ-BT15",
+    "cardNumber": "001",
+    "nameJp": "業炎竜皇 ヴィルベイル・ケーニッヒ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "フレイムドラゴン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_001.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/002",
+    "setCode": "DZ-BT15",
+    "cardNumber": "002",
+    "nameJp": "喧嘩屋 コンピート・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ドラゴンマン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_002.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/003",
+    "setCode": "DZ-BT15",
+    "cardNumber": "003",
+    "nameJp": "ドラグリッター ナジュラ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ドラゴロイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_003.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/004",
+    "setCode": "DZ-BT15",
+    "cardNumber": "004",
+    "nameJp": "異界の大奇術 フェアフィールド",
+    "unitType": "Gユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [
+      "ペイルムーン"
+    ],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_004.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/005",
+    "setCode": "DZ-BT15",
+    "cardNumber": "005",
+    "nameJp": "エイギスヴェルム・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "アビスドラゴン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_005.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/006",
+    "setCode": "DZ-BT15",
+    "cardNumber": "006",
+    "nameJp": "シュティル・ヴァンピーア",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [
+      "ダークイレギュラーズ"
+    ],
+    "races": [
+      "ヴァンパイア"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_006.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/007",
+    "setCode": "DZ-BT15",
+    "cardNumber": "007",
+    "nameJp": "魔界侯爵 アモン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [
+      "ダークイレギュラーズ"
+    ],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_007.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/008",
+    "setCode": "DZ-BT15",
+    "cardNumber": "008",
+    "nameJp": "剣山の操獣士 ファルンシート",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "エルフ"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_008.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/009",
+    "setCode": "DZ-BT15",
+    "cardNumber": "009",
+    "nameJp": "星輝兵 インフィニットゼロ・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [
+      "リンクジョーカー"
+    ],
+    "races": [
+      "サイバードラゴン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_009.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/010",
+    "setCode": "DZ-BT15",
+    "cardNumber": "010",
+    "nameJp": "星輝兵 カオスブレイカー・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [
+      "リンクジョーカー"
+    ],
+    "races": [
+      "サイバードラゴン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_010.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/011",
+    "setCode": "DZ-BT15",
+    "cardNumber": "011",
+    "nameJp": "星輝兵 コロニーメイカー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [
+      "リンクジョーカー"
+    ],
+    "races": [
+      "サイバーフェアリー"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_011.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/012",
+    "setCode": "DZ-BT15",
+    "cardNumber": "012",
+    "nameJp": "ファントム・ブラスター・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "アビスドラゴン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_012.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/013",
+    "setCode": "DZ-BT15",
+    "cardNumber": "013",
+    "nameJp": "漆黒の乙女 マーハ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_013.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/014",
+    "setCode": "DZ-BT15",
+    "cardNumber": "014",
+    "nameJp": "髑髏の魔女 ネヴァン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "エルフ"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_014.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/015",
+    "setCode": "DZ-BT15",
+    "cardNumber": "015",
+    "nameJp": "翔鋭の騎士 エアドフリス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_015.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/15thSP01",
+    "setCode": "DZ-BT15",
+    "cardNumber": "15",
+    "nameJp": "ファントム・ブラスター・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "アビスドラゴン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "15thSP",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_105.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/15thSP02",
+    "setCode": "DZ-BT15",
+    "cardNumber": "15",
+    "nameJp": "ブラスター・ダーク",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "15thSP",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_106.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/15thSP03",
+    "setCode": "DZ-BT15",
+    "cardNumber": "15",
+    "nameJp": "ブラスター・ジャベリン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "15thSP",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_107.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/15thSP04",
+    "setCode": "DZ-BT15",
+    "cardNumber": "15",
+    "nameJp": "フルバウ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "ハイビースト"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "15thSP",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_108.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/016",
+    "setCode": "DZ-BT15",
+    "cardNumber": "016",
+    "nameJp": "贖いの海賊王 ドラクート",
+    "unitType": "Gユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [
+      "グランブルー"
+    ],
+    "races": [
+      "ヴァンパイア"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_016.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/017",
+    "setCode": "DZ-BT15",
+    "cardNumber": "017",
+    "nameJp": "蒼嵐業竜 メイルストローム “Я”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [
+      "アクアフォース"
+    ],
+    "races": [
+      "ティアードラゴン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_017.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/018",
+    "setCode": "DZ-BT15",
+    "cardNumber": "018",
+    "nameJp": "アルマードガッシュ・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "ティアードラゴン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_018.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/019",
+    "setCode": "DZ-BT15",
+    "cardNumber": "019",
+    "nameJp": "ランサック・シェイド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "ゴースト"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_019.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/020",
+    "setCode": "DZ-BT15",
+    "cardNumber": "020",
+    "nameJp": "ドラグリッター アサーラ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ドラゴロイド"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_020.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/021",
+    "setCode": "DZ-BT15",
+    "cardNumber": "021",
+    "nameJp": "忍妖 フォリッジマーミー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_021.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/022",
+    "setCode": "DZ-BT15",
+    "cardNumber": "022",
+    "nameJp": "喧嘩屋 ファイスティ・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "サンダードラゴン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_022.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/023",
+    "setCode": "DZ-BT15",
+    "cardNumber": "023",
+    "nameJp": "炎麗剣舞 “祭禮”",
+    "unitType": "ブリッツオーダー",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_023.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/024",
+    "setCode": "DZ-BT15",
+    "cardNumber": "024",
+    "nameJp": "ジャジィー・ジャグラー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_024.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/025",
+    "setCode": "DZ-BT15",
+    "cardNumber": "025",
+    "nameJp": "囚われの堕天使 サラエル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [
+      "ダークイレギュラーズ"
+    ],
+    "races": [
+      "エンジェル"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_025.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/026",
+    "setCode": "DZ-BT15",
+    "cardNumber": "026",
+    "nameJp": "奪命の魔槍士 マルガラス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_026.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/027",
+    "setCode": "DZ-BT15",
+    "cardNumber": "027",
+    "nameJp": "Mystery Creepy Artillery",
+    "unitType": "ブリッツオーダー",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_027.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/028",
+    "setCode": "DZ-BT15",
+    "cardNumber": "028",
+    "nameJp": "凶爪の星輝兵 ニオブ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [
+      "リンクジョーカー"
+    ],
+    "races": [
+      "サイバロイド"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_028.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/029",
+    "setCode": "DZ-BT15",
+    "cardNumber": "029",
+    "nameJp": "獄門の星輝兵 パラジウム",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [
+      "リンクジョーカー"
+    ],
+    "races": [
+      "サイバロイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_029.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/030",
+    "setCode": "DZ-BT15",
+    "cardNumber": "030",
+    "nameJp": "プッツェンシュヴェスタン モーピィ・ビッシェ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "ワーカロイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_030.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/031",
+    "setCode": "DZ-BT15",
+    "cardNumber": "031",
+    "nameJp": "それいけ！ブリッツセキュリティズ！",
+    "unitType": "ブリッツオーダー",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_031.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/032",
+    "setCode": "DZ-BT15",
+    "cardNumber": "032",
+    "nameJp": "翔勢の騎士 ウェルムンド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エルフ"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_032.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/033",
+    "setCode": "DZ-BT15",
+    "cardNumber": "033",
+    "nameJp": "閃迅僚団 ツカサ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_033.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/034",
+    "setCode": "DZ-BT15",
+    "cardNumber": "034",
+    "nameJp": "ブラスター・ダーク",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_034.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/035",
+    "setCode": "DZ-BT15",
+    "cardNumber": "035",
+    "nameJp": "黒の賢者 カロン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "ジャイアント"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_035.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/036",
+    "setCode": "DZ-BT15",
+    "cardNumber": "036",
+    "nameJp": "陣頭を往く誓いの戦旗",
+    "unitType": "ブリッツオーダー",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_036.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/037",
+    "setCode": "DZ-BT15",
+    "cardNumber": "037",
+    "nameJp": "樹海の狩人 スーフリンゼ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "エルフ"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_037.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/038",
+    "setCode": "DZ-BT15",
+    "cardNumber": "038",
+    "nameJp": "雄勁のブレイブ・シューター",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "アクアロイド"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_038.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/039",
+    "setCode": "DZ-BT15",
+    "cardNumber": "039",
+    "nameJp": "蒼奏の歌姫 ニオクリュート",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "マーメイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_039.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/040",
+    "setCode": "DZ-BT15",
+    "cardNumber": "040",
+    "nameJp": "蟲の掟",
+    "unitType": "ブリッツオーダー",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_040.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/041",
+    "setCode": "DZ-BT15",
+    "cardNumber": "041",
+    "nameJp": "重桜の忍鬼 カザキ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_041.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/042",
+    "setCode": "DZ-BT15",
+    "cardNumber": "042",
+    "nameJp": "渾身の喧嘩屋 ギツコウ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ドラゴロイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_042.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/043",
+    "setCode": "DZ-BT15",
+    "cardNumber": "043",
+    "nameJp": "ドラグリッター スフヤーン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ドラゴロイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_043.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/044",
+    "setCode": "DZ-BT15",
+    "cardNumber": "044",
+    "nameJp": "ドラグリッター ライハーナ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_044.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/045",
+    "setCode": "DZ-BT15",
+    "cardNumber": "045",
+    "nameJp": "グニダルヘイズ・キマイラ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "キメラ"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_045.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/046",
+    "setCode": "DZ-BT15",
+    "cardNumber": "046",
+    "nameJp": "マルチディレクショナル・ステアラー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_046.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/047",
+    "setCode": "DZ-BT15",
+    "cardNumber": "047",
+    "nameJp": "玩弄の微笑 マセリエ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_047.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/048",
+    "setCode": "DZ-BT15",
+    "cardNumber": "048",
+    "nameJp": "時機到来の時空巨兵",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "ギアコロッサス"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_048.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/049",
+    "setCode": "DZ-BT15",
+    "cardNumber": "049",
+    "nameJp": "万象統べし冥闇の獄焔",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_049.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/050",
+    "setCode": "DZ-BT15",
+    "cardNumber": "050",
+    "nameJp": "プッツェンシュヴェスタン ブラーシュ・ポリーレ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "ワーカロイド"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_050.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/051",
+    "setCode": "DZ-BT15",
+    "cardNumber": "051",
+    "nameJp": "フリジッド・ソードベアラー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "バトロイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_051.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/052",
+    "setCode": "DZ-BT15",
+    "cardNumber": "052",
+    "nameJp": "魔爪の星輝兵 ランタン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [
+      "リンクジョーカー"
+    ],
+    "races": [
+      "サイバロイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_052.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/053",
+    "setCode": "DZ-BT15",
+    "cardNumber": "053",
+    "nameJp": "休憩！お掃除三姉妹！",
+    "unitType": "セットオーダー",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_053.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/054",
+    "setCode": "DZ-BT15",
+    "cardNumber": "054",
+    "nameJp": "暗黒魔道士 バイヴ･カー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "エルフ"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_054.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/055",
+    "setCode": "DZ-BT15",
+    "cardNumber": "055",
+    "nameJp": "ゔぁろがおん",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "ハイビースト"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_055.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/056",
+    "setCode": "DZ-BT15",
+    "cardNumber": "056",
+    "nameJp": "暗闇の騎士 ルゴス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_056.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/057",
+    "setCode": "DZ-BT15",
+    "cardNumber": "057",
+    "nameJp": "暗黒の盾 マクリール",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_057.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/058",
+    "setCode": "DZ-BT15",
+    "cardNumber": "058",
+    "nameJp": "エチュアリー・アサルト",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "アクアロイド"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_058.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/059",
+    "setCode": "DZ-BT15",
+    "cardNumber": "059",
+    "nameJp": "バチメトラミナー・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "ティアードラゴン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_059.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/060",
+    "setCode": "DZ-BT15",
+    "cardNumber": "060",
+    "nameJp": "お化けのぐれーむ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "ゴースト"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_060.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/061",
+    "setCode": "DZ-BT15",
+    "cardNumber": "061",
+    "nameJp": "舞い咲うは万彩の花",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_061.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/062",
+    "setCode": "DZ-BT15",
+    "cardNumber": "062",
+    "nameJp": "ファルミネイトエッジ・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "サンダードラゴン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_062.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/063",
+    "setCode": "DZ-BT15",
+    "cardNumber": "063",
+    "nameJp": "テクトニッグラベル・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "アースドラゴン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_063.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/064",
+    "setCode": "DZ-BT15",
+    "cardNumber": "064",
+    "nameJp": "魔竜戦鬼 リテッカイ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ドラゴンマン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_064.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/065",
+    "setCode": "DZ-BT15",
+    "cardNumber": "065",
+    "nameJp": "アダストフラック・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "フレイムドラゴン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_065.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/066",
+    "setCode": "DZ-BT15",
+    "cardNumber": "066",
+    "nameJp": "クリメイトヴァルス・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "フレイムドラゴン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_066.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/067",
+    "setCode": "DZ-BT15",
+    "cardNumber": "067",
+    "nameJp": "ジオロジクラマー・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "アースドラゴン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_067.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/068",
+    "setCode": "DZ-BT15",
+    "cardNumber": "068",
+    "nameJp": "フラクドラフト・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ウインドドラゴン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_068.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/069",
+    "setCode": "DZ-BT15",
+    "cardNumber": "069",
+    "nameJp": "喧嘩屋 コンフリクト・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "サンダードラゴン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_069.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/070",
+    "setCode": "DZ-BT15",
+    "cardNumber": "070",
+    "nameJp": "熱望の悪魔 アモン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [
+      "ダークイレギュラーズ"
+    ],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_070.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/071",
+    "setCode": "DZ-BT15",
+    "cardNumber": "071",
+    "nameJp": "魔獄闘臣 アルヴェリッヒ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_071.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/072",
+    "setCode": "DZ-BT15",
+    "cardNumber": "072",
+    "nameJp": "ラチェットパセージ・ドラコキッド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "ギアドラゴン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_072.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/073",
+    "setCode": "DZ-BT15",
+    "cardNumber": "073",
+    "nameJp": "漆黒の詩人 アモン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [
+      "ダークイレギュラーズ"
+    ],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_073.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/074",
+    "setCode": "DZ-BT15",
+    "cardNumber": "074",
+    "nameJp": "スチームガンナー ピュシュティ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "ギアロイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_074.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/075",
+    "setCode": "DZ-BT15",
+    "cardNumber": "075",
+    "nameJp": "デヴァルダム・ラセレイター",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_075.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/076",
+    "setCode": "DZ-BT15",
+    "cardNumber": "076",
+    "nameJp": "魔獄棘臣 ミルメス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_076.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/077",
+    "setCode": "DZ-BT15",
+    "cardNumber": "077",
+    "nameJp": "ヴァーミリオン・ゲートキーパー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [
+      "ダークイレギュラーズ"
+    ],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_077.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/078",
+    "setCode": "DZ-BT15",
+    "cardNumber": "078",
+    "nameJp": "ブレイクアップ・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "スペースドラゴン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_078.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/079",
+    "setCode": "DZ-BT15",
+    "cardNumber": "079",
+    "nameJp": "クワイエット・サイエンティスト",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_079.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/080",
+    "setCode": "DZ-BT15",
+    "cardNumber": "080",
+    "nameJp": "飛将の星輝兵 クリプトン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [
+      "リンクジョーカー"
+    ],
+    "races": [
+      "サイバロイド"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_080.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/081",
+    "setCode": "DZ-BT15",
+    "cardNumber": "081",
+    "nameJp": "無双の星輝兵 ラドン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [
+      "リンクジョーカー"
+    ],
+    "races": [
+      "サイバロイド"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_081.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/082",
+    "setCode": "DZ-BT15",
+    "cardNumber": "082",
+    "nameJp": "虚ろの双刃 バイナリスター",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [
+      "リンクジョーカー"
+    ],
+    "races": [
+      "サイバロイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_082.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/083",
+    "setCode": "DZ-BT15",
+    "cardNumber": "083",
+    "nameJp": "巨具整備士 アージャス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_083.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/084",
+    "setCode": "DZ-BT15",
+    "cardNumber": "084",
+    "nameJp": "魔弾の星輝兵 ネオン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [
+      "リンクジョーカー"
+    ],
+    "races": [
+      "サイバロイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_084.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/085",
+    "setCode": "DZ-BT15",
+    "cardNumber": "085",
+    "nameJp": "真剣の星輝兵 セレン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [
+      "リンクジョーカー"
+    ],
+    "races": [
+      "サイバロイド"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_085.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/086",
+    "setCode": "DZ-BT15",
+    "cardNumber": "086",
+    "nameJp": "翔明の騎士 リモール",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_086.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/087",
+    "setCode": "DZ-BT15",
+    "cardNumber": "087",
+    "nameJp": "冥矢の騎士 エダスケーレ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_087.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/088",
+    "setCode": "DZ-BT15",
+    "cardNumber": "088",
+    "nameJp": "翔看天使 パルジエル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_088.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/089",
+    "setCode": "DZ-BT15",
+    "cardNumber": "089",
+    "nameJp": "秘薬の魔女 アリアンロッド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "エルフ"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_089.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/090",
+    "setCode": "DZ-BT15",
+    "cardNumber": "090",
+    "nameJp": "ブラスター・ジャベリン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_090.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/091",
+    "setCode": "DZ-BT15",
+    "cardNumber": "091",
+    "nameJp": "れくがおん",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "ハイビースト"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_091.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/092",
+    "setCode": "DZ-BT15",
+    "cardNumber": "092",
+    "nameJp": "フルバウ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "ハイビースト"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_092.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/093",
+    "setCode": "DZ-BT15",
+    "cardNumber": "093",
+    "nameJp": "グリム・リーパー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_093.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/094",
+    "setCode": "DZ-BT15",
+    "cardNumber": "094",
+    "nameJp": "ダークサイド・トランペッター",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "エンジェル"
+    ],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_094.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/095",
+    "setCode": "DZ-BT15",
+    "cardNumber": "095",
+    "nameJp": "ハウルオウル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "ハイビースト"
+    ],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_095.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/096",
+    "setCode": "DZ-BT15",
+    "cardNumber": "096",
+    "nameJp": "アビス・ヒーラー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "エンジェル"
+    ],
+    "grade": 0,
+    "trigger": "ヒールトリガー",
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_096.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/097",
+    "setCode": "DZ-BT15",
+    "cardNumber": "097",
+    "nameJp": "グロザリア・ベイテス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "インセクト"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_097.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/098",
+    "setCode": "DZ-BT15",
+    "cardNumber": "098",
+    "nameJp": "ティアーナイト ストロフィ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "アクアロイド"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_098.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/099",
+    "setCode": "DZ-BT15",
+    "cardNumber": "099",
+    "nameJp": "リグニグロース・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "フォレストドラゴン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_099.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/100",
+    "setCode": "DZ-BT15",
+    "cardNumber": "100",
+    "nameJp": "蒼奏の歌姫 アスファーリヤ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "マーメイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_100.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/101",
+    "setCode": "DZ-BT15",
+    "cardNumber": "101",
+    "nameJp": "蒼奏の歌姫 リポリィ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "マーメイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_101.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/102",
+    "setCode": "DZ-BT15",
+    "cardNumber": "102",
+    "nameJp": "お化けのりっきー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "ゴースト"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_102.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/103",
+    "setCode": "DZ-BT15",
+    "cardNumber": "103",
+    "nameJp": "バーナルトゥイーグ・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "フォレストドラゴン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_103.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/104",
+    "setCode": "DZ-BT15",
+    "cardNumber": "104",
+    "nameJp": "メガコロニー戦闘員⁺ “Type.A”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "インセクト"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_104.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX01",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX01",
+    "nameJp": "サッカーモンスター 円堂 ハル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "雷門中/ストーリー"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXRRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_109.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX02",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX02",
+    "nameJp": "万能ストライカー 空宮 征",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "北陽学園/ストーリー"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXRRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_110.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX03",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX03",
+    "nameJp": "雪原のアウトロー 吹雪 士郎（アツヤ人格）",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "白恋中/クロニクル"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXRRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_111.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX04",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX04",
+    "nameJp": "流星の貴公子 基山 ヒロト",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "イナズマジャパン/クロニクル"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXRRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_112.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX05",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX05",
+    "nameJp": "黒き狂星 剣城 京介",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "雷門中/クロニクル"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXRRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_113.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX06",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX06",
+    "nameJp": "もちもちガール 菜花 黄名子",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "雷門中/クロノストーム/クロニクル"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXRRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_114.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX07",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX07",
+    "nameJp": "フィールドの悪魔 灰崎 凌兵",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "星章学園/クロニクル"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXRRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_115.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX08",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX08",
+    "nameJp": "戦術の皇帝 野坂 悠馬",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "王帝月ノ宮中/クロニクル"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXRRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_116.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX09",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX09",
+    "nameJp": "頂点のカリスマ 月影 蓮",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "雷門中/ストーリー"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_117.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX10",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX10",
+    "nameJp": "冷静なるジャッジマン 品乃 雅士",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "北陽学園/ストーリー"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_118.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX11",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX11",
+    "nameJp": "イケイケ相撲部員 幕下 照",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_119.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX12",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX12",
+    "nameJp": "憑依のアクター 弁天 九郎丸",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_120.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX13",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX13",
+    "nameJp": "人生の解答を追う 伊勢谷 要",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_121.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX14",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX14",
+    "nameJp": "てっぺんへの挑戦者 頂 挑夢",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_122.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX15",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX15",
+    "nameJp": "2周目を生きる委員長 雨道 未理科",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_123.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX16",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX16",
+    "nameJp": "美しきものへの探求者 井馬里 陽愛",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_124.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX17",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX17",
+    "nameJp": "剣の道を極めし者 古手打 七南",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_125.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX18",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX18",
+    "nameJp": "真実を見抜く戦略家 判目 才人",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_126.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX19",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX19",
+    "nameJp": "猪突猛進 暴走特急 牛島 突五郎",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_127.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX20",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX20",
+    "nameJp": "奇術の使い手 妖士乃 銀郎",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_128.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX21",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX21",
+    "nameJp": "ビッグマウスの丘サーファー 濱南 暁海",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_129.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX22",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX22",
+    "nameJp": "幸運を招く田舎娘 福良 むすび",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_130.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX23",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX23",
+    "nameJp": "メタリックハート 鉄野 ケルビン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_131.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX24",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX24",
+    "nameJp": "二枚舌の執事 黒原 玲文",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_132.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX25",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX25",
+    "nameJp": "破天荒ロッカー 星 美哉",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_133.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX26",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX26",
+    "nameJp": "雪原のプリンス 吹雪 士郎（士郎人格）",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "白恋中/クロニクル"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_134.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX27",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX27",
+    "nameJp": "タイガールーキー 宇都宮 虎丸",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "イナズマジャパン/クロニクル"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_135.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX28",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX28",
+    "nameJp": "クロノストライカー フェイ・ルーン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "雷門中/クロノストーム/クロニクル"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_136.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX29",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX29",
+    "nameJp": "俊足のダークサイド 瞬木 隼人",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "アースイレブン/クロニクル"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_137.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX30",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX30",
+    "nameJp": "不屈のワイルドキーパー 井吹 宗正",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "アースイレブン/クロニクル"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_138.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX31",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX31",
+    "nameJp": "静かなる守護神 西蔭 政也",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "王帝月ノ宮中/クロニクル"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_139.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX32",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX32",
+    "nameJp": "青き一等星 一星 光",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "戦神イナズマジャパン/クロニクル"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_140.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX33",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX33",
+    "nameJp": "天空のタクト",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXRRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_141.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX34",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX34",
+    "nameJp": "イナズマVキャラバン 発進！",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXRRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_142.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX35",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX35",
+    "nameJp": "春雷",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXRRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_143.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX36",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX36",
+    "nameJp": "天空サンダー",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXRRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_144.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX37",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX37",
+    "nameJp": "残像",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXRRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_145.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX38",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX38",
+    "nameJp": "イナズマ１号",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXRRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_146.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX39",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX39",
+    "nameJp": "皇帝ペンギン2号",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXRRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_147.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX40",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX40",
+    "nameJp": "ジャスティスウィング",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXRRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_148.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX41",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX41",
+    "nameJp": "シャイニングバード",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXRRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_149.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX42",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX42",
+    "nameJp": "ひとつ",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_150.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX43",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX43",
+    "nameJp": "メテオッド・ファイアトルネード",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_151.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX44",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX44",
+    "nameJp": "サンシャインブレード",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_152.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX45",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX45",
+    "nameJp": "オーバーグロウ",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_153.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX46",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX46",
+    "nameJp": "バハムートクラッシュ",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_154.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX47",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX47",
+    "nameJp": "サンライズカーニバル",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_155.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX48",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX48",
+    "nameJp": "ダッシュストーム",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_156.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX49",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX49",
+    "nameJp": "アンサーブースト",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_157.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX50",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX50",
+    "nameJp": "やまびこステップ",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_158.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX51",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX51",
+    "nameJp": "セカンドライフフープ",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_159.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX52",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX52",
+    "nameJp": "エレガントブレード",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_160.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX53",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX53",
+    "nameJp": "ハヤブサ返し",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_161.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX54",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX54",
+    "nameJp": "マトリクスアイ",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_162.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX55",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX55",
+    "nameJp": "シルバーウルフレジェンド",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_163.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX56",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX56",
+    "nameJp": "フライングマーリン",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_164.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX57",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX57",
+    "nameJp": "あそこにおにぎり",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_165.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX58",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX58",
+    "nameJp": "ロックンロールビート",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_166.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX59",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX59",
+    "nameJp": "エターナルブリザード",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_167.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX60",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX60",
+    "nameJp": "天空落とし",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_168.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX61",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX61",
+    "nameJp": "タイガードライブ",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_169.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX62",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX62",
+    "nameJp": "風神の舞",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_170.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX63",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX63",
+    "nameJp": "デスソード",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_171.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX64",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX64",
+    "nameJp": "ハーモニクス",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_172.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX65",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX65",
+    "nameJp": "やきもちスクリュー",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_173.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX66",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX66",
+    "nameJp": "バウンサーラビット",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_174.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX67",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX67",
+    "nameJp": "最強イレブン波動",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_175.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX68",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX68",
+    "nameJp": "パルクールアタック",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_176.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX69",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX69",
+    "nameJp": "オーバーヘッドペンギン",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_177.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX70",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX70",
+    "nameJp": "キングス・ランス",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_178.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX71",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX71",
+    "nameJp": "ブルー・スターダスト",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_179.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX72",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX72",
+    "nameJp": "ラストリゾートΣ",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_180.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX73",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX73",
+    "nameJp": "オラオラ四股踏み",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_181.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX74",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX74",
+    "nameJp": "メタルハンマー",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_182.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX75",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX75",
+    "nameJp": "もちもち黄粉餅",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_183.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX76",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX76",
+    "nameJp": "フレイムダンス",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_184.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX77",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX77",
+    "nameJp": "ザ・マトリックス",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_185.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX78",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX78",
+    "nameJp": "ムラクモトラップ",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "フロントトリガー",
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_186.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX79",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX79",
+    "nameJp": "ドッカントレイン",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "フロントトリガー",
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_187.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX80",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX80",
+    "nameJp": "ダークミスト",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "フロントトリガー",
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_188.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX81",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX81",
+    "nameJp": "ザ・ウォール",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "フロントトリガー",
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_189.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX82",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX82",
+    "nameJp": "ザ・タワー",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "フロントトリガー",
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_190.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX83",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX83",
+    "nameJp": "ワイルドダンク",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ヒールトリガー",
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_191.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EX84",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EX84",
+    "nameJp": "王家の盾",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ヒールトリガー",
+    "rarity": "EXC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_192.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EXS01",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EXS01",
+    "nameJp": "大胆不敵な策士 笹波 雲明",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXS",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_193.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EXS02",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EXS02",
+    "nameJp": "サッカーモンスター 円堂 ハル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "雷門中/ストーリー"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXS",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_194.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EXS03",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EXS03",
+    "nameJp": "伝説のゴールキーパー 円堂 守",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "雷門中/クロニクル"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXS",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_195.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EXS04",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EXS04",
+    "nameJp": "炎のストライカー 豪炎寺 修也",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "雷門中/クロニクル"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXS",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_196.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EXS05",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EXS05",
+    "nameJp": "そよ風ドリーマー 松風 天馬",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "雷門中/クロニクル"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXS",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_197.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/EXS06",
+    "setCode": "DZ-BT15",
+    "cardNumber": "EXS06",
+    "nameJp": "太陽のサッカー小僧 稲森 明日人",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "雷門中/クロニクル"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXS",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_198.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FFR01",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FFR01",
+    "nameJp": "業炎竜皇 ヴィルベイル・ケーニッヒ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "フレイムドラゴン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_199.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FFR02",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FFR02",
+    "nameJp": "喧嘩屋 コンピート・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ドラゴンマン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_200.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FFR03",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FFR03",
+    "nameJp": "ドラグリッター ナジュラ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ドラゴロイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_201.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FFR04",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FFR04",
+    "nameJp": "異界の大奇術 フェアフィールド",
+    "unitType": "Gユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [
+      "ペイルムーン"
+    ],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_202.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FFR05",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FFR05",
+    "nameJp": "エイギスヴェルム・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "アビスドラゴン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_203.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FFR06",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FFR06",
+    "nameJp": "シュティル・ヴァンピーア",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [
+      "ダークイレギュラーズ"
+    ],
+    "races": [
+      "ヴァンパイア"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_204.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FFR07",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FFR07",
+    "nameJp": "魔界侯爵 アモン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [
+      "ダークイレギュラーズ"
+    ],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_205.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FFR08",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FFR08",
+    "nameJp": "剣山の操獣士 ファルンシート",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "エルフ"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_206.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FFR09",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FFR09",
+    "nameJp": "星輝兵 インフィニットゼロ・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [
+      "リンクジョーカー"
+    ],
+    "races": [
+      "サイバードラゴン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_207.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FFR10",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FFR10",
+    "nameJp": "星輝兵 カオスブレイカー・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [
+      "リンクジョーカー"
+    ],
+    "races": [
+      "サイバードラゴン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_208.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FFR11",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FFR11",
+    "nameJp": "星輝兵 コロニーメイカー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [
+      "リンクジョーカー"
+    ],
+    "races": [
+      "サイバーフェアリー"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_209.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FFR12",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FFR12",
+    "nameJp": "ファントム・ブラスター・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "アビスドラゴン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_210.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FFR13",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FFR13",
+    "nameJp": "漆黒の乙女 マーハ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_211.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FFR14",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FFR14",
+    "nameJp": "髑髏の魔女 ネヴァン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "エルフ"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_212.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FFR15",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FFR15",
+    "nameJp": "翔鋭の騎士 エアドフリス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_213.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FFR16",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FFR16",
+    "nameJp": "贖いの海賊王 ドラクート",
+    "unitType": "Gユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [
+      "グランブルー"
+    ],
+    "races": [
+      "ヴァンパイア"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_214.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FFR17",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FFR17",
+    "nameJp": "蒼嵐業竜 メイルストローム “Я”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [
+      "アクアフォース"
+    ],
+    "races": [
+      "ティアードラゴン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_215.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FFR18",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FFR18",
+    "nameJp": "アルマードガッシュ・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "ティアードラゴン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_216.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FFR19",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FFR19",
+    "nameJp": "ランサック・シェイド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "ゴースト"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_217.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR01",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR01",
+    "nameJp": "ドラグリッター アサーラ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ドラゴロイド"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_218.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR02",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR02",
+    "nameJp": "忍妖 フォリッジマーミー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_219.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR03",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR03",
+    "nameJp": "喧嘩屋 ファイスティ・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "サンダードラゴン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_220.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR04",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR04",
+    "nameJp": "炎麗剣舞 “祭禮”",
+    "unitType": "ブリッツオーダー",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_221.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR05",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR05",
+    "nameJp": "重桜の忍鬼 カザキ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_222.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR06",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR06",
+    "nameJp": "渾身の喧嘩屋 ギツコウ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ドラゴロイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_223.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR07",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR07",
+    "nameJp": "ドラグリッター スフヤーン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ドラゴロイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_224.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR08",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR08",
+    "nameJp": "ドラグリッター ライハーナ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_225.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR09",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR09",
+    "nameJp": "ジャジィー・ジャグラー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_226.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR10",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR10",
+    "nameJp": "囚われの堕天使 サラエル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [
+      "ダークイレギュラーズ"
+    ],
+    "races": [
+      "エンジェル"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_227.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR11",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR11",
+    "nameJp": "奪命の魔槍士 マルガラス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_228.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR12",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR12",
+    "nameJp": "Mystery Creepy Artillery",
+    "unitType": "ブリッツオーダー",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_229.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR13",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR13",
+    "nameJp": "グニダルヘイズ・キマイラ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "キメラ"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_230.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR14",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR14",
+    "nameJp": "マルチディレクショナル・ステアラー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_231.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR15",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR15",
+    "nameJp": "玩弄の微笑 マセリエ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_232.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR16",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR16",
+    "nameJp": "時機到来の時空巨兵",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "ギアコロッサス"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_233.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR17",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR17",
+    "nameJp": "万象統べし冥闇の獄焔",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_234.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR18",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR18",
+    "nameJp": "凶爪の星輝兵 ニオブ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [
+      "リンクジョーカー"
+    ],
+    "races": [
+      "サイバロイド"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_235.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR19",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR19",
+    "nameJp": "獄門の星輝兵 パラジウム",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [
+      "リンクジョーカー"
+    ],
+    "races": [
+      "サイバロイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_236.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR20",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR20",
+    "nameJp": "プッツェンシュヴェスタン モーピィ・ビッシェ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "ワーカロイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_237.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR21",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR21",
+    "nameJp": "それいけ！ブリッツセキュリティズ！",
+    "unitType": "ブリッツオーダー",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_238.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR22",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR22",
+    "nameJp": "プッツェンシュヴェスタン ブラーシュ・ポリーレ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "ワーカロイド"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_239.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR23",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR23",
+    "nameJp": "フリジッド・ソードベアラー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "バトロイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_240.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR24",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR24",
+    "nameJp": "魔爪の星輝兵 ランタン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [
+      "リンクジョーカー"
+    ],
+    "races": [
+      "サイバロイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_241.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR25",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR25",
+    "nameJp": "休憩！お掃除三姉妹！",
+    "unitType": "セットオーダー",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_242.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR26",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR26",
+    "nameJp": "翔勢の騎士 ウェルムンド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エルフ"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_243.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR27",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR27",
+    "nameJp": "閃迅僚団 ツカサ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_244.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR28",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR28",
+    "nameJp": "ブラスター・ダーク",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_245.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR29",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR29",
+    "nameJp": "黒の賢者 カロン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "ジャイアント"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_246.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR30",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR30",
+    "nameJp": "陣頭を往く誓いの戦旗",
+    "unitType": "ブリッツオーダー",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_247.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR31",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR31",
+    "nameJp": "暗黒魔道士 バイヴ･カー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "エルフ"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_248.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR32",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR32",
+    "nameJp": "ゔぁろがおん",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "ハイビースト"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_249.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR33",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR33",
+    "nameJp": "暗闇の騎士 ルゴス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_250.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR34",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR34",
+    "nameJp": "暗黒の盾 マクリール",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_251.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR35",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR35",
+    "nameJp": "樹海の狩人 スーフリンゼ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "エルフ"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_252.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR36",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR36",
+    "nameJp": "雄勁のブレイブ・シューター",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "アクアロイド"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_253.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR37",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR37",
+    "nameJp": "蒼奏の歌姫 ニオクリュート",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "マーメイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_254.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR38",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR38",
+    "nameJp": "蟲の掟",
+    "unitType": "ブリッツオーダー",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_255.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR39",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR39",
+    "nameJp": "エチュアリー・アサルト",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "アクアロイド"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_256.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR40",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR40",
+    "nameJp": "バチメトラミナー・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "ティアードラゴン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_257.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR41",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR41",
+    "nameJp": "お化けのぐれーむ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "ゴースト"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_258.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/FR42",
+    "setCode": "DZ-BT15",
+    "cardNumber": "FR42",
+    "nameJp": "舞い咲うは万彩の花",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_259.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR01",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR01",
+    "nameJp": "サッカーモンスター 円堂 ハル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "雷門中/ストーリー"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_260.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR02",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR02",
+    "nameJp": "万能ストライカー 空宮 征",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "北陽学園/ストーリー"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_261.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR03",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR03",
+    "nameJp": "雪原のアウトロー 吹雪 士郎（アツヤ人格）",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "白恋中/クロニクル"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_262.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR04",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR04",
+    "nameJp": "流星の貴公子 基山 ヒロト",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "イナズマジャパン/クロニクル"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_263.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR05",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR05",
+    "nameJp": "黒き狂星 剣城 京介",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "雷門中/クロニクル"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_264.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR06",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR06",
+    "nameJp": "もちもちガール 菜花 黄名子",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "雷門中/クロノストーム/クロニクル"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_265.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR07",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR07",
+    "nameJp": "フィールドの悪魔 灰崎 凌兵",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "星章学園/クロニクル"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_266.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR08",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR08",
+    "nameJp": "戦術の皇帝 野坂 悠馬",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "王帝月ノ宮中/クロニクル"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_267.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR09",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR09",
+    "nameJp": "頂点のカリスマ 月影 蓮",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "雷門中/ストーリー"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_268.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR10",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR10",
+    "nameJp": "冷静なるジャッジマン 品乃 雅士",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "北陽学園/ストーリー"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_269.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR11",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR11",
+    "nameJp": "イケイケ相撲部員 幕下 照",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_270.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR12",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR12",
+    "nameJp": "憑依のアクター 弁天 九郎丸",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_271.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR13",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR13",
+    "nameJp": "人生の解答を追う 伊勢谷 要",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_272.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR14",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR14",
+    "nameJp": "てっぺんへの挑戦者 頂 挑夢",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_273.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR15",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR15",
+    "nameJp": "2周目を生きる委員長 雨道 未理科",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_274.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR16",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR16",
+    "nameJp": "美しきものへの探求者 井馬里 陽愛",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_275.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR17",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR17",
+    "nameJp": "剣の道を極めし者 古手打 七南",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_276.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR18",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR18",
+    "nameJp": "真実を見抜く戦略家 判目 才人",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_277.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR19",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR19",
+    "nameJp": "猪突猛進 暴走特急 牛島 突五郎",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_278.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR20",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR20",
+    "nameJp": "奇術の使い手 妖士乃 銀郎",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_279.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR21",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR21",
+    "nameJp": "ビッグマウスの丘サーファー 濱南 暁海",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_280.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR22",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR22",
+    "nameJp": "幸運を招く田舎娘 福良 むすび",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_281.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR23",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR23",
+    "nameJp": "メタリックハート 鉄野 ケルビン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_282.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR24",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR24",
+    "nameJp": "二枚舌の執事 黒原 玲文",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_283.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR25",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR25",
+    "nameJp": "破天荒ロッカー 星 美哉",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_284.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR26",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR26",
+    "nameJp": "雪原のプリンス 吹雪 士郎（士郎人格）",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "白恋中/クロニクル"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_285.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR27",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR27",
+    "nameJp": "タイガールーキー 宇都宮 虎丸",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "イナズマジャパン/クロニクル"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_286.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR28",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR28",
+    "nameJp": "クロノストライカー フェイ・ルーン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "雷門中/クロノストーム/クロニクル"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_287.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR29",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR29",
+    "nameJp": "俊足のダークサイド 瞬木 隼人",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "アースイレブン/クロニクル"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_288.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR30",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR30",
+    "nameJp": "不屈のワイルドキーパー 井吹 宗正",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "アースイレブン/クロニクル"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_289.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR31",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR31",
+    "nameJp": "静かなる守護神 西蔭 政也",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "王帝月ノ宮中/クロニクル"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_290.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR32",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR32",
+    "nameJp": "青き一等星 一星 光",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "戦神イナズマジャパン/クロニクル"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_291.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR33",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR33",
+    "nameJp": "天空のタクト",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_292.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR34",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR34",
+    "nameJp": "イナズマVキャラバン 発進！",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_293.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR35",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR35",
+    "nameJp": "春雷",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_294.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR36",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR36",
+    "nameJp": "天空サンダー",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_295.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR37",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR37",
+    "nameJp": "残像",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_296.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR38",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR38",
+    "nameJp": "イナズマ１号",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_297.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR39",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR39",
+    "nameJp": "皇帝ペンギン2号",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_298.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR40",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR40",
+    "nameJp": "ジャスティスウィング",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_299.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR41",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR41",
+    "nameJp": "シャイニングバード",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_300.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR42",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR42",
+    "nameJp": "ひとつ",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_301.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR43",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR43",
+    "nameJp": "メテオッド・ファイアトルネード",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_302.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR44",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR44",
+    "nameJp": "サンシャインブレード",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_303.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR45",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR45",
+    "nameJp": "オーバーグロウ",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_304.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR46",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR46",
+    "nameJp": "バハムートクラッシュ",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_305.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR47",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR47",
+    "nameJp": "サンライズカーニバル",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_306.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR48",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR48",
+    "nameJp": "ダッシュストーム",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_307.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR49",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR49",
+    "nameJp": "アンサーブースト",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_308.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR50",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR50",
+    "nameJp": "やまびこステップ",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_309.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR51",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR51",
+    "nameJp": "セカンドライフフープ",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_310.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR52",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR52",
+    "nameJp": "エレガントブレード",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_311.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR53",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR53",
+    "nameJp": "ハヤブサ返し",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_312.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR54",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR54",
+    "nameJp": "マトリクスアイ",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_313.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR55",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR55",
+    "nameJp": "シルバーウルフレジェンド",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_314.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR56",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR56",
+    "nameJp": "フライングマーリン",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_315.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR57",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR57",
+    "nameJp": "あそこにおにぎり",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_316.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR58",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR58",
+    "nameJp": "ロックンロールビート",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_317.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR59",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR59",
+    "nameJp": "エターナルブリザード",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_318.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR60",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR60",
+    "nameJp": "天空落とし",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_319.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR61",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR61",
+    "nameJp": "タイガードライブ",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_320.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR62",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR62",
+    "nameJp": "風神の舞",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_321.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR63",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR63",
+    "nameJp": "デスソード",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_322.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR64",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR64",
+    "nameJp": "ハーモニクス",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_323.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR65",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR65",
+    "nameJp": "やきもちスクリュー",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_324.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR66",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR66",
+    "nameJp": "バウンサーラビット",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_325.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR67",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR67",
+    "nameJp": "最強イレブン波動",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_326.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR68",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR68",
+    "nameJp": "パルクールアタック",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_327.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR69",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR69",
+    "nameJp": "オーバーヘッドペンギン",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_328.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR70",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR70",
+    "nameJp": "キングス・ランス",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_329.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR71",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR71",
+    "nameJp": "ブルー・スターダスト",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_330.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR72",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR72",
+    "nameJp": "ラストリゾートΣ",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_331.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR73",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR73",
+    "nameJp": "オラオラ四股踏み",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_332.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR74",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR74",
+    "nameJp": "メタルハンマー",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_333.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR75",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR75",
+    "nameJp": "もちもち黄粉餅",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_334.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR76",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR76",
+    "nameJp": "フレイムダンス",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_335.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR77",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR77",
+    "nameJp": "ザ・マトリックス",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_336.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR78",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR78",
+    "nameJp": "ムラクモトラップ",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "フロントトリガー",
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_337.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR79",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR79",
+    "nameJp": "ドッカントレイン",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "フロントトリガー",
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_338.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR80",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR80",
+    "nameJp": "ダークミスト",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "フロントトリガー",
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_339.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR81",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR81",
+    "nameJp": "ザ・ウォール",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "フロントトリガー",
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_340.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR82",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR82",
+    "nameJp": "ザ・タワー",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "フロントトリガー",
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_341.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR83",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR83",
+    "nameJp": "ワイルドダンク",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ヒールトリガー",
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_342.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/IZR84",
+    "setCode": "DZ-BT15",
+    "cardNumber": "IZR84",
+    "nameJp": "王家の盾",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ヒールトリガー",
+    "rarity": "IZR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_343.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/PGS01",
+    "setCode": "DZ-BT15",
+    "cardNumber": "PGS01",
+    "nameJp": "ドラゴニック・オーバーロード",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [
+      "かげろう"
+    ],
+    "races": [
+      "フレイムドラゴン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "PGS",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_344.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SEC01",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SEC01",
+    "nameJp": "業炎竜皇 ヴィルベイル・ケーニッヒ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "フレイムドラゴン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_345.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SEC02",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SEC02",
+    "nameJp": "異界の大奇術 フェアフィールド",
+    "unitType": "Gユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [
+      "ペイルムーン"
+    ],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_346.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SEC03",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SEC03",
+    "nameJp": "魔界侯爵 アモン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [
+      "ダークイレギュラーズ"
+    ],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_347.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SEC04",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SEC04",
+    "nameJp": "星輝兵 カオスブレイカー・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [
+      "リンクジョーカー"
+    ],
+    "races": [
+      "サイバードラゴン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_348.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SEC05",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SEC05",
+    "nameJp": "贖いの海賊王 ドラクート",
+    "unitType": "Gユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [
+      "グランブルー"
+    ],
+    "races": [
+      "ヴァンパイア"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_349.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SEC06",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SEC06",
+    "nameJp": "蒼嵐業竜 メイルストローム “Я”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [
+      "アクアフォース"
+    ],
+    "races": [
+      "ティアードラゴン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_350.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR01",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR01",
+    "nameJp": "業炎竜皇 ヴィルベイル・ケーニッヒ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "フレイムドラゴン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_351.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR02",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR02",
+    "nameJp": "喧嘩屋 コンピート・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ドラゴンマン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_352.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR03",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR03",
+    "nameJp": "ドラグリッター ナジュラ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ドラゴロイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_353.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR04",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR04",
+    "nameJp": "ドラグリッター アサーラ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ドラゴロイド"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_354.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR05",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR05",
+    "nameJp": "忍妖 フォリッジマーミー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_355.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR06",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR06",
+    "nameJp": "喧嘩屋 ファイスティ・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "サンダードラゴン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_356.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR07",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR07",
+    "nameJp": "炎麗剣舞 “祭禮”",
+    "unitType": "ブリッツオーダー",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_357.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR08",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR08",
+    "nameJp": "異界の大奇術 フェアフィールド",
+    "unitType": "Gユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [
+      "ペイルムーン"
+    ],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_358.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR09",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR09",
+    "nameJp": "エイギスヴェルム・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "アビスドラゴン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_359.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR10",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR10",
+    "nameJp": "シュティル・ヴァンピーア",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [
+      "ダークイレギュラーズ"
+    ],
+    "races": [
+      "ヴァンパイア"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_360.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR11",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR11",
+    "nameJp": "魔界侯爵 アモン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [
+      "ダークイレギュラーズ"
+    ],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_361.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR12",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR12",
+    "nameJp": "剣山の操獣士 ファルンシート",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "エルフ"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_362.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR13",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR13",
+    "nameJp": "ジャジィー・ジャグラー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_363.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR14",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR14",
+    "nameJp": "囚われの堕天使 サラエル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [
+      "ダークイレギュラーズ"
+    ],
+    "races": [
+      "エンジェル"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_364.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR15",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR15",
+    "nameJp": "奪命の魔槍士 マルガラス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_365.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR16",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR16",
+    "nameJp": "Mystery Creepy Artillery",
+    "unitType": "ブリッツオーダー",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_366.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR17",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR17",
+    "nameJp": "星輝兵 インフィニットゼロ・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [
+      "リンクジョーカー"
+    ],
+    "races": [
+      "サイバードラゴン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_367.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR18",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR18",
+    "nameJp": "星輝兵 カオスブレイカー・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [
+      "リンクジョーカー"
+    ],
+    "races": [
+      "サイバードラゴン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_368.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR19",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR19",
+    "nameJp": "星輝兵 コロニーメイカー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [
+      "リンクジョーカー"
+    ],
+    "races": [
+      "サイバーフェアリー"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_369.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR20",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR20",
+    "nameJp": "凶爪の星輝兵 ニオブ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [
+      "リンクジョーカー"
+    ],
+    "races": [
+      "サイバロイド"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_370.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR21",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR21",
+    "nameJp": "獄門の星輝兵 パラジウム",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [
+      "リンクジョーカー"
+    ],
+    "races": [
+      "サイバロイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_371.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR22",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR22",
+    "nameJp": "プッツェンシュヴェスタン モーピィ・ビッシェ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "ワーカロイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_372.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR23",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR23",
+    "nameJp": "それいけ！ブリッツセキュリティズ！",
+    "unitType": "ブリッツオーダー",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_373.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR24",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR24",
+    "nameJp": "ファントム・ブラスター・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "アビスドラゴン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_374.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR25",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR25",
+    "nameJp": "漆黒の乙女 マーハ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_375.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR26",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR26",
+    "nameJp": "髑髏の魔女 ネヴァン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "エルフ"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_376.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR27",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR27",
+    "nameJp": "翔鋭の騎士 エアドフリス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_377.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR28",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR28",
+    "nameJp": "翔勢の騎士 ウェルムンド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エルフ"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_378.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR29",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR29",
+    "nameJp": "閃迅僚団 ツカサ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_379.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR30",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR30",
+    "nameJp": "ブラスター・ダーク",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_380.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR31",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR31",
+    "nameJp": "黒の賢者 カロン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [
+      "シャドウパラディン"
+    ],
+    "races": [
+      "ジャイアント"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_381.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR32",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR32",
+    "nameJp": "陣頭を往く誓いの戦旗",
+    "unitType": "ブリッツオーダー",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_382.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR33",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR33",
+    "nameJp": "贖いの海賊王 ドラクート",
+    "unitType": "Gユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [
+      "グランブルー"
+    ],
+    "races": [
+      "ヴァンパイア"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_383.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR34",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR34",
+    "nameJp": "蒼嵐業竜 メイルストローム “Я”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [
+      "アクアフォース"
+    ],
+    "races": [
+      "ティアードラゴン"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_384.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR35",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR35",
+    "nameJp": "アルマードガッシュ・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "ティアードラゴン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_385.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR36",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR36",
+    "nameJp": "ランサック・シェイド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "ゴースト"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_386.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR37",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR37",
+    "nameJp": "樹海の狩人 スーフリンゼ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "エルフ"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_387.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR38",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR38",
+    "nameJp": "雄勁のブレイブ・シューター",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "アクアロイド"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_388.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR39",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR39",
+    "nameJp": "蒼奏の歌姫 ニオクリュート",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "マーメイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_389.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/SR40",
+    "setCode": "DZ-BT15",
+    "cardNumber": "SR40",
+    "nameJp": "蟲の掟",
+    "unitType": "ブリッツオーダー",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_390.png"
+  },
+  {
+    "jpCardNo": "DZ-BT15/T01",
+    "setCode": "DZ-BT15",
+    "cardNumber": "T01",
+    "nameJp": "ペルソナシールド",
+    "unitType": "その他",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "T",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_391.png"
+  },
+  {
     "jpCardNo": "DZ-LBT01/001",
     "setCode": "DZ-LBT01",
     "cardNumber": "001",
@@ -288958,6 +295904,1402 @@
     "trigger": null,
     "rarity": "T",
     "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS16/dzss16_268.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/001",
+    "setCode": "DZ-SS17",
+    "cardNumber": "001",
+    "nameJp": "大胆不敵な策士 笹波 雲明",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_001.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/001R",
+    "setCode": "DZ-SS17",
+    "cardNumber": "001",
+    "nameJp": "大胆不敵な策士 笹波 雲明",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_002.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/002",
+    "setCode": "DZ-SS17",
+    "cardNumber": "002",
+    "nameJp": "サッカー復権派 笹波 雲明",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_003.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/003",
+    "setCode": "DZ-SS17",
+    "cardNumber": "003",
+    "nameJp": "決闘マニア 笹波 雲明",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_004.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/004",
+    "setCode": "DZ-SS17",
+    "cardNumber": "004",
+    "nameJp": "数日遅れの新入生 笹波 雲明",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_005.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/005",
+    "setCode": "DZ-SS17",
+    "cardNumber": "005",
+    "nameJp": "天空をつらぬく足 桜咲 丈二",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_006.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/005R",
+    "setCode": "DZ-SS17",
+    "cardNumber": "005",
+    "nameJp": "天空をつらぬく足 桜咲 丈二",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_007.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/006",
+    "setCode": "DZ-SS17",
+    "cardNumber": "006",
+    "nameJp": "つなぎのオールラウンダー 木曽路 兵太",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_008.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/006R",
+    "setCode": "DZ-SS17",
+    "cardNumber": "006",
+    "nameJp": "つなぎのオールラウンダー 木曽路 兵太",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_009.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/007",
+    "setCode": "DZ-SS17",
+    "cardNumber": "007",
+    "nameJp": "フィールドのダンシングドール 忍原 来夏",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_010.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/007R",
+    "setCode": "DZ-SS17",
+    "cardNumber": "007",
+    "nameJp": "フィールドのダンシングドール 忍原 来夏",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_011.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/008",
+    "setCode": "DZ-SS17",
+    "cardNumber": "008",
+    "nameJp": "巨体の超俊足 古道飼 亀雄",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_012.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/008R",
+    "setCode": "DZ-SS17",
+    "cardNumber": "008",
+    "nameJp": "巨体の超俊足 古道飼 亀雄",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_013.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/009",
+    "setCode": "DZ-SS17",
+    "cardNumber": "009",
+    "nameJp": "神風を操る手 四川堂 我流",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_014.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/009R",
+    "setCode": "DZ-SS17",
+    "cardNumber": "009",
+    "nameJp": "神風を操る手 四川堂 我流",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_015.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/010",
+    "setCode": "DZ-SS17",
+    "cardNumber": "010",
+    "nameJp": "剛健フィジカル 柳生 駿河",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_016.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/010R",
+    "setCode": "DZ-SS17",
+    "cardNumber": "010",
+    "nameJp": "剛健フィジカル 柳生 駿河",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "南雲原中/ストーリー"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_017.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/011",
+    "setCode": "DZ-SS17",
+    "cardNumber": "011",
+    "nameJp": "ゴッドフィンガーズ",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_018.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/011R",
+    "setCode": "DZ-SS17",
+    "cardNumber": "011",
+    "nameJp": "ゴッドフィンガーズ",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_019.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/012",
+    "setCode": "DZ-SS17",
+    "cardNumber": "012",
+    "nameJp": "ブロック・ザ・キーマン",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_020.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/012R",
+    "setCode": "DZ-SS17",
+    "cardNumber": "012",
+    "nameJp": "ブロック・ザ・キーマン",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_021.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/013",
+    "setCode": "DZ-SS17",
+    "cardNumber": "013",
+    "nameJp": "ダンシングタートル",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_022.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/013R",
+    "setCode": "DZ-SS17",
+    "cardNumber": "013",
+    "nameJp": "ダンシングタートル",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_023.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/014",
+    "setCode": "DZ-SS17",
+    "cardNumber": "014",
+    "nameJp": "キラースライド",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_024.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/014R",
+    "setCode": "DZ-SS17",
+    "cardNumber": "014",
+    "nameJp": "キラースライド",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_025.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/015",
+    "setCode": "DZ-SS17",
+    "cardNumber": "015",
+    "nameJp": "スピニングカット",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "フロントトリガー",
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_026.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/015R",
+    "setCode": "DZ-SS17",
+    "cardNumber": "015",
+    "nameJp": "スピニングカット",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "フロントトリガー",
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_027.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/016",
+    "setCode": "DZ-SS17",
+    "cardNumber": "016",
+    "nameJp": "氷結の舞",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ヒールトリガー",
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_028.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/016R",
+    "setCode": "DZ-SS17",
+    "cardNumber": "016",
+    "nameJp": "氷結の舞",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ヒールトリガー",
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_029.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/017",
+    "setCode": "DZ-SS17",
+    "cardNumber": "017",
+    "nameJp": "イナズマブレイク",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "オーバートリガー",
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_030.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/017R",
+    "setCode": "DZ-SS17",
+    "cardNumber": "017",
+    "nameJp": "イナズマブレイク",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "オーバートリガー",
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_031.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/018",
+    "setCode": "DZ-SS17",
+    "cardNumber": "018",
+    "nameJp": "剛の一閃",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_032.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/018R",
+    "setCode": "DZ-SS17",
+    "cardNumber": "018",
+    "nameJp": "剛の一閃",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_033.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/019",
+    "setCode": "DZ-SS17",
+    "cardNumber": "019",
+    "nameJp": "分身フェイント",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_034.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/019R",
+    "setCode": "DZ-SS17",
+    "cardNumber": "019",
+    "nameJp": "分身フェイント",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_035.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/020",
+    "setCode": "DZ-SS17",
+    "cardNumber": "020",
+    "nameJp": "ぐるぐるシュート",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_036.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/020R",
+    "setCode": "DZ-SS17",
+    "cardNumber": "020",
+    "nameJp": "ぐるぐるシュート",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_037.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/021",
+    "setCode": "DZ-SS17",
+    "cardNumber": "021",
+    "nameJp": "ラウンドスパーク",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_038.png"
+  },
+  {
+    "jpCardNo": "DZ-SS17/021R",
+    "setCode": "DZ-SS17",
+    "cardNumber": "021",
+    "nameJp": "ラウンドスパーク",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS17/dzss17_039.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/001",
+    "setCode": "DZ-SS18",
+    "cardNumber": "001",
+    "nameJp": "伝説のゴールキーパー 円堂 守",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "雷門中/クロニクル"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_001.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/001R",
+    "setCode": "DZ-SS18",
+    "cardNumber": "001",
+    "nameJp": "伝説のゴールキーパー 円堂 守",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "雷門中/クロニクル"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_002.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/002",
+    "setCode": "DZ-SS18",
+    "cardNumber": "002",
+    "nameJp": "熱血守護神 円堂 守",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "雷門中/クロニクル"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_003.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/003",
+    "setCode": "DZ-SS18",
+    "cardNumber": "003",
+    "nameJp": "ルミナスの継承者 ヴィクトリオ・アルノ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "クロニクル"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_004.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/004",
+    "setCode": "DZ-SS18",
+    "cardNumber": "004",
+    "nameJp": "クロニクルトラベラー ヴィクトリオ・アルノ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "クロニクル"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_005.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/005",
+    "setCode": "DZ-SS18",
+    "cardNumber": "005",
+    "nameJp": "炎のストライカー 豪炎寺 修也",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "雷門中/クロニクル"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_006.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/005R",
+    "setCode": "DZ-SS18",
+    "cardNumber": "005",
+    "nameJp": "炎のストライカー 豪炎寺 修也",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "雷門中/クロニクル"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_007.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/006",
+    "setCode": "DZ-SS18",
+    "cardNumber": "006",
+    "nameJp": "天才ゲームメーカー 鬼道 有人",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "雷門中/クロニクル"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_008.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/006R",
+    "setCode": "DZ-SS18",
+    "cardNumber": "006",
+    "nameJp": "天才ゲームメーカー 鬼道 有人",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "雷門中/クロニクル"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_009.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/007",
+    "setCode": "DZ-SS18",
+    "cardNumber": "007",
+    "nameJp": "疾風スプリンター 風丸 一郎太",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "雷門中/クロニクル"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_010.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/007R",
+    "setCode": "DZ-SS18",
+    "cardNumber": "007",
+    "nameJp": "疾風スプリンター 風丸 一郎太",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "雷門中/クロニクル"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_011.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/008",
+    "setCode": "DZ-SS18",
+    "cardNumber": "008",
+    "nameJp": "そよ風ドリーマー 松風 天馬",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "雷門中/クロニクル"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_012.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/008R",
+    "setCode": "DZ-SS18",
+    "cardNumber": "008",
+    "nameJp": "そよ風ドリーマー 松風 天馬",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "雷門中/クロニクル"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_013.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/009",
+    "setCode": "DZ-SS18",
+    "cardNumber": "009",
+    "nameJp": "神の指揮者 神童 拓人",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "雷門中/クロニクル"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_014.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/009R",
+    "setCode": "DZ-SS18",
+    "cardNumber": "009",
+    "nameJp": "神の指揮者 神童 拓人",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "雷門中/クロニクル"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_015.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/010",
+    "setCode": "DZ-SS18",
+    "cardNumber": "010",
+    "nameJp": "太陽のサッカー小僧 稲森 明日人",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "雷門中/クロニクル"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_016.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/010R",
+    "setCode": "DZ-SS18",
+    "cardNumber": "010",
+    "nameJp": "太陽のサッカー小僧 稲森 明日人",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [
+      "雷門中/クロニクル"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_017.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/011",
+    "setCode": "DZ-SS18",
+    "cardNumber": "011",
+    "nameJp": "ゴッドキャッチ",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_018.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/011R",
+    "setCode": "DZ-SS18",
+    "cardNumber": "011",
+    "nameJp": "ゴッドキャッチ",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_019.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/012",
+    "setCode": "DZ-SS18",
+    "cardNumber": "012",
+    "nameJp": "激アツクロニクル開始点へ",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_020.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/012R",
+    "setCode": "DZ-SS18",
+    "cardNumber": "012",
+    "nameJp": "激アツクロニクル開始点へ",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_021.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/013",
+    "setCode": "DZ-SS18",
+    "cardNumber": "013",
+    "nameJp": "アイスグランド",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_022.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/013R",
+    "setCode": "DZ-SS18",
+    "cardNumber": "013",
+    "nameJp": "アイスグランド",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_023.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/014",
+    "setCode": "DZ-SS18",
+    "cardNumber": "014",
+    "nameJp": "キラースライド",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_024.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/014R",
+    "setCode": "DZ-SS18",
+    "cardNumber": "014",
+    "nameJp": "キラースライド",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_025.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/015",
+    "setCode": "DZ-SS18",
+    "cardNumber": "015",
+    "nameJp": "スピニングカット",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "フロントトリガー",
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_026.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/015R",
+    "setCode": "DZ-SS18",
+    "cardNumber": "015",
+    "nameJp": "スピニングカット",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "フロントトリガー",
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_027.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/016",
+    "setCode": "DZ-SS18",
+    "cardNumber": "016",
+    "nameJp": "マジン・ザ・ハンド",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ヒールトリガー",
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_028.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/016R",
+    "setCode": "DZ-SS18",
+    "cardNumber": "016",
+    "nameJp": "マジン・ザ・ハンド",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ヒールトリガー",
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_029.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/017",
+    "setCode": "DZ-SS18",
+    "cardNumber": "017",
+    "nameJp": "イナズマブレイク",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "オーバートリガー",
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_030.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/017R",
+    "setCode": "DZ-SS18",
+    "cardNumber": "017",
+    "nameJp": "イナズマブレイク",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "オーバートリガー",
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_031.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/018",
+    "setCode": "DZ-SS18",
+    "cardNumber": "018",
+    "nameJp": "ファイアトルネード",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_032.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/018R",
+    "setCode": "DZ-SS18",
+    "cardNumber": "018",
+    "nameJp": "ファイアトルネード",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_033.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/019",
+    "setCode": "DZ-SS18",
+    "cardNumber": "019",
+    "nameJp": "イリュージョンボール",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_034.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/019R",
+    "setCode": "DZ-SS18",
+    "cardNumber": "019",
+    "nameJp": "イリュージョンボール",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_035.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/020",
+    "setCode": "DZ-SS18",
+    "cardNumber": "020",
+    "nameJp": "疾風ダッシュ",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_036.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/020R",
+    "setCode": "DZ-SS18",
+    "cardNumber": "020",
+    "nameJp": "疾風ダッシュ",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_037.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/021",
+    "setCode": "DZ-SS18",
+    "cardNumber": "021",
+    "nameJp": "そよかぜステップ",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_038.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/021R",
+    "setCode": "DZ-SS18",
+    "cardNumber": "021",
+    "nameJp": "そよかぜステップ",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_039.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/022",
+    "setCode": "DZ-SS18",
+    "cardNumber": "022",
+    "nameJp": "フォルテシモ",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_040.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/022R",
+    "setCode": "DZ-SS18",
+    "cardNumber": "022",
+    "nameJp": "フォルテシモ",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_041.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/023",
+    "setCode": "DZ-SS18",
+    "cardNumber": "023",
+    "nameJp": "イナビカリダッシュ",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_042.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/023R",
+    "setCode": "DZ-SS18",
+    "cardNumber": "023",
+    "nameJp": "イナビカリダッシュ",
+    "unitType": "必殺技",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_043.png"
+  },
+  {
+    "jpCardNo": "DZ-SS18/T01",
+    "setCode": "DZ-SS18",
+    "cardNumber": "T01",
+    "nameJp": "ゴッドハンド",
+    "unitType": "その他",
+    "nations": [
+      "イナズマイレブン"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_044.png"
   },
   {
     "jpCardNo": "DZ-TB01/001",
