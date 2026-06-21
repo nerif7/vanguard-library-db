@@ -115502,6 +115502,38 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztb01/DPR_924.png"
   },
   {
+    "enCardNo": "D-PR/927EN",
+    "setCode": "D-PR",
+    "cardNumber": "927",
+    "name": "Yumenokessho AVER",
+    "unitType": "Normal Unit",
+    "nations": [],
+    "clan": [],
+    "races": [
+      "Yumenokessho"
+    ],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_927.png"
+  },
+  {
+    "enCardNo": "D-PR/928EN",
+    "setCode": "D-PR",
+    "cardNumber": "928",
+    "name": "Yumenokessho AVER",
+    "unitType": "Normal Unit",
+    "nations": [],
+    "clan": [],
+    "races": [
+      "Yumenokessho"
+    ],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_928.png"
+  },
+  {
     "enCardNo": "D-PR/930EN",
     "setCode": "D-PR",
     "cardNumber": "930",
@@ -117708,6 +117740,58 @@
     "trigger": null,
     "rarity": "PR",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_1089.png"
+  },
+  {
+    "enCardNo": "D-PR/1091EN",
+    "setCode": "D-PR",
+    "cardNumber": "1091",
+    "name": "Galaxy Eternal Prison, Galactolus",
+    "unitType": "Set Order",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/DPR_1091EN.png"
+  },
+  {
+    "enCardNo": "D-PR/1112EN",
+    "setCode": "D-PR",
+    "cardNumber": "1112",
+    "name": "Onslaught Surf Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Tear Dragon"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/dpr_1112EN.png"
+  },
+  {
+    "enCardNo": "D-PR/1113EN",
+    "setCode": "D-PR",
+    "cardNumber": "1113",
+    "name": "Onslaught Surf Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Tear Dragon"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/DPR_1113EN.png"
   },
   {
     "enCardNo": "D-PR/DF01EN",
