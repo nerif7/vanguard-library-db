@@ -117794,6 +117794,20 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dpr/DPR_1113EN.png"
   },
   {
+    "enCardNo": "D-PR/1117EN",
+    "setCode": "D-PR",
+    "cardNumber": "1117",
+    "name": "Great Magick Caster of Transitory, Zerith \"Fantôme\"",
+    "unitType": "Others",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "PR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dpr_1117.png"
+  },
+  {
     "enCardNo": "D-PR/DF01EN",
     "setCode": "D-PR",
     "cardNumber": "DF01",
@@ -238014,6 +238028,4512 @@
     "trigger": null,
     "rarity": "T",
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt13/dzbt13_T03.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/001EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "001",
+    "name": "Youthberk \"Drægforce Arms: Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_001.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/002EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "002",
+    "name": "Youthberk \"DrægForm: Dynast\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_002.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/003EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "003",
+    "name": "Mythisch of Unparalleled, Zalva Dragnia",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Mythisch"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_003.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/004EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "004",
+    "name": "Dragritter, Uathaach",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Dragoroid/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_004.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/005EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "005",
+    "name": "Demonic Lord Dragon, Gabwelius \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_005.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/006EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "006",
+    "name": "Steam Maiden, Spiral Cutie",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Gearoid/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_006.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/007EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "007",
+    "name": "Mythisch of Zero, Grivardhy",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Mythisch"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_007.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/008EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "008",
+    "name": "Reverent Dagger Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_008.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/009EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "009",
+    "name": "Mythisch Machine Deity, \"Mondgestirn\" Angrbold",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Mythisch"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_009.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/010EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "010",
+    "name": "Librate Battalion Commander, Aelquilibra \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Space Dragon/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_010.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/011EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "011",
+    "name": "Sporadic Cerro Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Cyber Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_011.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/012EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "012",
+    "name": "Librate Battalion, Ferbeseuss Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Space Dragon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_012.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/013EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "013",
+    "name": "Bel-Fiore, Maier",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_013.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/014EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "014",
+    "name": "Knight of Great Favor, Orcades",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_014.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/015EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "015",
+    "name": "Bel-Fiore, Swera",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_015.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/016EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "016",
+    "name": "Great Magick Caster of Transitory, Zerith \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Elf/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_016.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/017EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "017",
+    "name": "Black Sky Marine General, Leimina",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Aquaroid/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_017.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/018EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "018",
+    "name": "Cognoscente of Lake Heart, Fontijn",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Elf/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_018.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/019EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "019",
+    "name": "X-CeeDaNCe, Impauldio \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_019.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/020EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "020",
+    "name": "Eyes of Miracle, Aimantine",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Mermaid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_020.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/021EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "021",
+    "name": "X-CeeDaNCe, Precee Forwatt",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_021.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/022EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "022",
+    "name": "Venatiol, Malield",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_022.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/023EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "023",
+    "name": "Obliterate Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_023.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/024EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "024",
+    "name": "Forlorn Hope Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_024.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/025EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "025",
+    "name": "Outburst Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Thunder Dragon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_025.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/026EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "026",
+    "name": "Fluid Suffocater",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_026.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/027EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "027",
+    "name": "Direful Doll, Concetta",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Workeroid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_027.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/028EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "028",
+    "name": "Pious Breath Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_028.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/029EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "029",
+    "name": "Montmegantiec Chimaera",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Chimera"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_029.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/030EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "030",
+    "name": "Ebenholz Rotovisor",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Battleroid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_030.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/031EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "031",
+    "name": "Creation Demonic Beast, Uproarious Scream",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Genomegel/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_031.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/032EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "032",
+    "name": "Regrain Researcher, Deep Depths Expose",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_032.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/033EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "033",
+    "name": "Librate Wingman, Waverlis",
+    "unitType": "Set Order",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_033.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/034EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "034",
+    "name": "Bel-Fiore, Meak",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_034.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/035EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "035",
+    "name": "Inexpiable Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Cosmo Dragon/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_035.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/036EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "036",
+    "name": "Star-select Sorceress",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_036.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/037EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "037",
+    "name": "Knight of Graceful Virtue, Andrivet",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Elf"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_037.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/038EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "038",
+    "name": "Veleno Soldato, Vespieno",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Insect"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_038.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/039EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "039",
+    "name": "Affinity Hunter, Syllbiose",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Elf"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_039.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/040EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "040",
+    "name": "Cognoscente of Water District, Rituella",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Elf/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_040.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/041EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "041",
+    "name": "One Who Arrived at Paradise, Phildeia",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Sylph"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_041.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/042EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "042",
+    "name": "X-CeeDaNCe, Rapi Grossa",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_042.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/043EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "043",
+    "name": "EuphoricReverb, Sophia",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_043.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/044EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "044",
+    "name": "Shred Player, Timonie",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Demon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_044.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/045EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "045",
+    "name": "LettiaMateS, Uncizera",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_045.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/046EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "046",
+    "name": "Crimson Moonlight",
+    "unitType": "Normal Order",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_046.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/047EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "047",
+    "name": "Chondrule Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Thunder Dragon/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_047.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/048EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "048",
+    "name": "Venatiol, Uchel",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_048.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/049EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "049",
+    "name": "Banishing Claw Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_049.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/050EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "050",
+    "name": "Parching Axe Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_050.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/051EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "051",
+    "name": "Febrile Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_051.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/052EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "052",
+    "name": "Direful Doll, Giliola",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Workeroid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_052.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/053EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "053",
+    "name": "Frenzied Bones of Mourning Eyes, Zolneillon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Demon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_053.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/054EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "054",
+    "name": "Steam Fighter, Daduusha",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Gearoid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_054.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/055EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "055",
+    "name": "Viele Brande",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Battleroid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_055.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/056EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "056",
+    "name": "Blitz Designer, Razent",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Elf"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_056.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/057EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "057",
+    "name": "Librate Wingman, Trisdia",
+    "unitType": "Set Order",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_057.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/058EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "058",
+    "name": "Librate Wingman, Roubroy",
+    "unitType": "Set Order",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_058.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/059EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "059",
+    "name": "Bel-Fiore, Pinesse",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_059.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/060EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "060",
+    "name": "Glisten Upashiciry",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_060.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/061EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "061",
+    "name": "Patefaction Angel",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_061.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/062EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "062",
+    "name": "Bel-Fiore, Apprena",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_062.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/063EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "063",
+    "name": "Sylvan Horned Beast, Squrelu",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_063.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/064EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "064",
+    "name": "Collating Junior, Ciygna",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_064.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/065EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "065",
+    "name": "Carrot Code",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Dryad"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_065.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/066EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "066",
+    "name": "Fantum Gran Magick, Glid Radeaur",
+    "unitType": "Normal Order",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_066.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/067EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "067",
+    "name": "X-CeeDaNCe, Neui Erras",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_067.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/068EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "068",
+    "name": "X-CeeDaNCe, Rada Tisple",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_068.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/069EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "069",
+    "name": "Tender Push, Appuil",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Mermaid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_069.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/070EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "070",
+    "name": "LettiaMateS, Marfel",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_070.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/071EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "071",
+    "name": "Enveloping the Planet is a Crimson Disease",
+    "unitType": "Normal Order",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_071.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/072EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "072",
+    "name": "Enfold Bellow Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_072.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/073EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "073",
+    "name": "Vandalism Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_073.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/074EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "074",
+    "name": "Crimson Wrath Dragslayer, Youth",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_074.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/075EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "075",
+    "name": "Trusscythe Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_075.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/076EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "076",
+    "name": "Destructspray Dragon, Spinoodinace",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Dinodragon"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_076.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/077EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "077",
+    "name": "Flare Blade of Vicious Scales, Farvid",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Dragoroid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_077.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/078EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "078",
+    "name": "Stealth Fiend, Kawaitachi",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Ghost"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_078.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/079EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "079",
+    "name": "Will of the Destruction Dragon, Youth",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_079.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/080EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "080",
+    "name": "Desolation of Loneliness, Youth",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_080.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/081EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "081",
+    "name": "Suffer Devourer",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Demon"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_081.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/082EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "082",
+    "name": "Attainment Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_082.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/083EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "083",
+    "name": "Skewered Virtuoso",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Demon"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_083.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/084EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "084",
+    "name": "Devotion Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_084.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/085EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "085",
+    "name": "Adoring Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_085.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/086EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "086",
+    "name": "Surround Schuberias",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Chimera"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_086.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/087EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "087",
+    "name": "Float Mage, Levitte",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_087.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/088EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "088",
+    "name": "Fruition Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_088.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/089EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "089",
+    "name": "Aspiring Dracokid",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon/Fantôme"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_089.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/090EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "090",
+    "name": "Linked Chains of Disturbance, Radialperigee",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Cyberoid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_090.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/091EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "091",
+    "name": "Blitz Carrier, Turahgen",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_091.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/092EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "092",
+    "name": "Librate Battalion, Gatling Kanone Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Space Dragon/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_092.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/093EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "093",
+    "name": "Librate Battalion, Diffusion Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Space Dragon/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_093.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/094EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "094",
+    "name": "Puffy Emanator",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Alien"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_094.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/095EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "095",
+    "name": "Mobility Flagger",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Workeroid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_095.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/096EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "096",
+    "name": "Librate Battalion, Augenblick Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Space Dragon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_096.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/097EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "097",
+    "name": "Librate Battalion, Raketenwerfer Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Space Dragon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_097.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/098EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "098",
+    "name": "Librate Battalion, Gewehral Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Space Dragon/Fantôme"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_098.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/099EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "099",
+    "name": "Satisfies Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Cosmo Dragon"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_099.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/100EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "100",
+    "name": "Bel-Fiore, Muevi",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_100.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/101EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "101",
+    "name": "Ill-omened Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Cosmo Dragon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_101.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/102EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "102",
+    "name": "Bel-Fiore, Sione",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_102.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/103EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "103",
+    "name": "Bel-Fiore, Cica",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_103.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/104EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "104",
+    "name": "Bel-Fiore, Noce",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_104.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/105EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "105",
+    "name": "Mercy Serum Angel",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_105.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/106EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "106",
+    "name": "Mofugaon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_106.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/107EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "107",
+    "name": "Bel-Fiore, Proa",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_107.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/108EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "108",
+    "name": "Break Waves Dragon, Benthosflipper Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Tear Dragon"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_108.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/109EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "109",
+    "name": "Joyfulness Junior, Lalpie",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_109.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/110EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "110",
+    "name": "Peerless Magick Caster, Zerith",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Elf/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_110.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/111EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "111",
+    "name": "Shoal Sounds Junior, Harto",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_111.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/112EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "112",
+    "name": "Apprentice Magick Caster, Zerith",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Elf/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_112.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/113EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "113",
+    "name": "Future Magick Caster, Zerith",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Elf/Fantôme"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_113.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/114EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "114",
+    "name": "Healing Magick, Aexlunus",
+    "unitType": "Set Order",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_114.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/115EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "115",
+    "name": "Growth Magick, Voxtol",
+    "unitType": "Set Order",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_115.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/116EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "116",
+    "name": "Enhance Magick, Starylking",
+    "unitType": "Set Order",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_116.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/117EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "117",
+    "name": "X-CeeDaNCe, Mery Cracia",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_117.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/118EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "118",
+    "name": "After Class Special Training, Abilita",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Dragoroid"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_118.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/119EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "119",
+    "name": "X-CeeDaNCe, Dras Evolia",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_119.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/120EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "120",
+    "name": "Paradoxical Heart, Wiereli",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Elf"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_120.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/121EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "121",
+    "name": "Finish in Style! Zairicua",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Demon"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_121.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/122EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "122",
+    "name": "X-CeeDaNCe, Inno Progrett",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_122.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/123EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "123",
+    "name": "X-CeeDaNCe, Tran Deeve",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_123.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/124EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "124",
+    "name": "After Midnight Tea, Belsti",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Ghost"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_124.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/125EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "125",
+    "name": "X-CeeDaNCe, Falstather",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_125.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/DSR01EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "DSR01",
+    "name": "Great Magick Caster of Transitory, Zerith \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Elf/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "DSR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_DSR01.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FFR01EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FFR01",
+    "name": "Youthberk \"Drægforce Arms: Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FFR01.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FFR02EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FFR02",
+    "name": "Youthberk \"DrægForm: Dynast\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FFR02.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FFR03EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FFR03",
+    "name": "Mythisch of Unparalleled, Zalva Dragnia",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Mythisch"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FFR03.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FFR04EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FFR04",
+    "name": "Dragritter, Uathaach",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Dragoroid/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FFR04.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FFR05EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FFR05",
+    "name": "Demonic Lord Dragon, Gabwelius \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FFR05.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FFR06EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FFR06",
+    "name": "Steam Maiden, Spiral Cutie",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Gearoid/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FFR06.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FFR07EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FFR07",
+    "name": "Mythisch of Zero, Grivardhy",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Mythisch"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FFR07.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FFR08EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FFR08",
+    "name": "Reverent Dagger Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FFR08.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FFR09EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FFR09",
+    "name": "Mythisch Machine Deity, \"Mondgestirn\" Angrbold",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Mythisch"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FFR09.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FFR10EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FFR10",
+    "name": "Librate Battalion Commander, Aelquilibra \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Space Dragon/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FFR10.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FFR11EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FFR11",
+    "name": "Sporadic Cerro Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Cyber Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FFR11.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FFR12EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FFR12",
+    "name": "Librate Battalion, Ferbeseuss Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Space Dragon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FFR12.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FFR13EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FFR13",
+    "name": "Bel-Fiore, Maier",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FFR13.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FFR14EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FFR14",
+    "name": "Knight of Great Favor, Orcades",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FFR14.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FFR15EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FFR15",
+    "name": "Bel-Fiore, Swera",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FFR15.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FFR16EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FFR16",
+    "name": "Great Magick Caster of Transitory, Zerith \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Elf/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FFR16.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FFR17EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FFR17",
+    "name": "Black Sky Marine General, Leimina",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Aquaroid/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FFR17.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FFR18EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FFR18",
+    "name": "Cognoscente of Lake Heart, Fontijn",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Elf/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FFR18.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FFR19EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FFR19",
+    "name": "X-CeeDaNCe, Impauldio \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FFR19.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FFR20EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FFR20",
+    "name": "Eyes of Miracle, Aimantine",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Mermaid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FFR20.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FFR21EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FFR21",
+    "name": "X-CeeDaNCe, Precee Forwatt",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FFR21.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR01EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR01",
+    "name": "Venatiol, Malield",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR01.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR02EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR02",
+    "name": "Obliterate Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR02.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR03EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR03",
+    "name": "Forlorn Hope Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR03.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR04EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR04",
+    "name": "Outburst Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Thunder Dragon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR04.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR05EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR05",
+    "name": "Chondrule Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Thunder Dragon/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR05.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR06EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR06",
+    "name": "Venatiol, Uchel",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR06.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR07EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR07",
+    "name": "Banishing Claw Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR07.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR08EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR08",
+    "name": "Parching Axe Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR08.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR09EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR09",
+    "name": "Fluid Suffocater",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR09.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR10EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR10",
+    "name": "Direful Doll, Concetta",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Workeroid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR10.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR11EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR11",
+    "name": "Pious Breath Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR11.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR12EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR12",
+    "name": "Montmegantiec Chimaera",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Chimera"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR12.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR13EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR13",
+    "name": "Febrile Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR13.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR14EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR14",
+    "name": "Direful Doll, Giliola",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Workeroid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR14.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR15EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR15",
+    "name": "Frenzied Bones of Mourning Eyes, Zolneillon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Demon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR15.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR16EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR16",
+    "name": "Steam Fighter, Daduusha",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Gearoid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR16.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR17EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR17",
+    "name": "Ebenholz Rotovisor",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Battleroid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR17.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR18EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR18",
+    "name": "Creation Demonic Beast, Uproarious Scream",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Genomegel/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR18.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR19EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR19",
+    "name": "Regrain Researcher, Deep Depths Expose",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR19.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR20EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR20",
+    "name": "Librate Wingman, Waverlis",
+    "unitType": "Set Order",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR20.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR21EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR21",
+    "name": "Viele Brande",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Battleroid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR21.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR22EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR22",
+    "name": "Blitz Designer, Razent",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Elf"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR22.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR23EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR23",
+    "name": "Librate Wingman, Trisdia",
+    "unitType": "Set Order",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR23.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR24EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR24",
+    "name": "Librate Wingman, Roubroy",
+    "unitType": "Set Order",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR24.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR25EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR25",
+    "name": "Bel-Fiore, Meak",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR25.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR26EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR26",
+    "name": "Inexpiable Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Cosmo Dragon/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR26.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR27EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR27",
+    "name": "Star-select Sorceress",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR27.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR28EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR28",
+    "name": "Knight of Graceful Virtue, Andrivet",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Elf"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR28.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR29EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR29",
+    "name": "Bel-Fiore, Pinesse",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR29.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR30EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR30",
+    "name": "Glisten Upashiciry",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR30.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR31EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR31",
+    "name": "Patefaction Angel",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR31.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR32EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR32",
+    "name": "Bel-Fiore, Apprena",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR32.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR33EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR33",
+    "name": "Veleno Soldato, Vespieno",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Insect"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR33.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR34EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR34",
+    "name": "Affinity Hunter, Syllbiose",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Elf"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR34.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR35EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR35",
+    "name": "Cognoscente of Water District, Rituella",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Elf/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR35.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR36EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR36",
+    "name": "One Who Arrived at Paradise, Phildeia",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Sylph"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR36.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR37EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR37",
+    "name": "Sylvan Horned Beast, Squrelu",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR37.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR38EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR38",
+    "name": "Collating Junior, Ciygna",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR38.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR39EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR39",
+    "name": "Carrot Code",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Dryad"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR39.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR40EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR40",
+    "name": "Fantum Gran Magick, Glid Radeaur",
+    "unitType": "Normal Order",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR40.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR41EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR41",
+    "name": "X-CeeDaNCe, Rapi Grossa",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR41.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR42EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR42",
+    "name": "EuphoricReverb, Sophia",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR42.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR43EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR43",
+    "name": "Shred Player, Timonie",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Demon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR43.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR44EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR44",
+    "name": "LettiaMateS, Uncizera",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR44.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR45EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR45",
+    "name": "X-CeeDaNCe, Neui Erras",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR45.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR46EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR46",
+    "name": "X-CeeDaNCe, Rada Tisple",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR46.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR47EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR47",
+    "name": "Tender Push, Appuil",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Mermaid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR47.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/FR48EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "FR48",
+    "name": "LettiaMateS, Marfel",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_FR48.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SEC01EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SEC01",
+    "name": "Youthberk \"Drægforce Arms: Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SEC01.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SEC02EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SEC02",
+    "name": "Mythisch of Unparalleled, Zalva Dragnia",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Mythisch"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SEC02.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SEC03EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SEC03",
+    "name": "Demonic Lord Dragon, Gabwelius \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SEC03.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SEC04EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SEC04",
+    "name": "Mythisch of Zero, Grivardhy",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Mythisch"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SEC04.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SEC05EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SEC05",
+    "name": "Mythisch Machine Deity, \"Mondgestirn\" Angrbold",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Mythisch"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SEC05.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SEC06EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SEC06",
+    "name": "Librate Battalion Commander, Aelquilibra \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Space Dragon/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SEC06.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SEC07EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SEC07",
+    "name": "Bel-Fiore, Maier",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SEC07.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SEC08EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SEC08",
+    "name": "Great Magick Caster of Transitory, Zerith \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Elf/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SEC08.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SEC09EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SEC09",
+    "name": "X-CeeDaNCe, Impauldio \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SEC09.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR01EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR01",
+    "name": "Youthberk \"Drægforce Arms: Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR01.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR02EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR02",
+    "name": "Youthberk \"DrægForm: Dynast\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR02.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR03EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR03",
+    "name": "Mythisch of Unparalleled, Zalva Dragnia",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Mythisch"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR03.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR04EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR04",
+    "name": "Dragritter, Uathaach",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Dragoroid/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR04.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR05EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR05",
+    "name": "Venatiol, Malield",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR05.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR06EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR06",
+    "name": "Obliterate Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR06.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR07EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR07",
+    "name": "Forlorn Hope Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR07.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR08EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR08",
+    "name": "Outburst Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Thunder Dragon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR08.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR09EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR09",
+    "name": "Demonic Lord Dragon, Gabwelius \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR09.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR10EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR10",
+    "name": "Steam Maiden, Spiral Cutie",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Gearoid/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR10.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR11EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR11",
+    "name": "Mythisch of Zero, Grivardhy",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Mythisch"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR11.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR12EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR12",
+    "name": "Reverent Dagger Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR12.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR13EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR13",
+    "name": "Fluid Suffocater",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR13.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR14EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR14",
+    "name": "Direful Doll, Concetta",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Workeroid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR14.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR15EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR15",
+    "name": "Pious Breath Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR15.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR16EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR16",
+    "name": "Montmegantiec Chimaera",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Chimera"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR16.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR17EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR17",
+    "name": "Mythisch Machine Deity, \"Mondgestirn\" Angrbold",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Mythisch"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR17.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR18EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR18",
+    "name": "Librate Battalion Commander, Aelquilibra \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Space Dragon/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR18.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR19EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR19",
+    "name": "Sporadic Cerro Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Cyber Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR19.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR20EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR20",
+    "name": "Librate Battalion, Ferbeseuss Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Space Dragon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR20.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR21EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR21",
+    "name": "Ebenholz Rotovisor",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Battleroid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR21.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR22EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR22",
+    "name": "Creation Demonic Beast, Uproarious Scream",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Genomegel/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR22.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR23EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR23",
+    "name": "Regrain Researcher, Deep Depths Expose",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR23.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR24EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR24",
+    "name": "Librate Wingman, Waverlis",
+    "unitType": "Set Order",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR24.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR25EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR25",
+    "name": "Bel-Fiore, Maier",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR25.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR26EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR26",
+    "name": "Knight of Great Favor, Orcades",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR26.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR27EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR27",
+    "name": "Bel-Fiore, Swera",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR27.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR28EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR28",
+    "name": "Bel-Fiore, Meak",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR28.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR29EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR29",
+    "name": "Inexpiable Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Cosmo Dragon/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR29.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR30EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR30",
+    "name": "Star-select Sorceress",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR30.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR31EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR31",
+    "name": "Knight of Graceful Virtue, Andrivet",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Elf"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR31.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR32EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR32",
+    "name": "Great Magick Caster of Transitory, Zerith \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Elf/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR32.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR33EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR33",
+    "name": "Black Sky Marine General, Leimina",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Aquaroid/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR33.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR34EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR34",
+    "name": "Cognoscente of Lake Heart, Fontijn",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Elf/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR34.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR35EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR35",
+    "name": "Veleno Soldato, Vespieno",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Insect"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR35.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR36EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR36",
+    "name": "Affinity Hunter, Syllbiose",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Elf"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR36.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR37EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR37",
+    "name": "Cognoscente of Water District, Rituella",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Elf/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR37.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR38EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR38",
+    "name": "One Who Arrived at Paradise, Phildeia",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Sylph"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR38.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR39EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR39",
+    "name": "X-CeeDaNCe, Impauldio \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR39.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR40EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR40",
+    "name": "Eyes of Miracle, Aimantine",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Mermaid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR40.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR41EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR41",
+    "name": "X-CeeDaNCe, Precee Forwatt",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR41.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR42EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR42",
+    "name": "X-CeeDaNCe, Rapi Grossa",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR42.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR43EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR43",
+    "name": "EuphoricReverb, Sophia",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR43.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR44EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR44",
+    "name": "Shred Player, Timonie",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Demon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR44.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/SR45EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "SR45",
+    "name": "LettiaMateS, Uncizera",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_SR45.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/T01EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "T01",
+    "name": "Energy",
+    "unitType": "Token",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": null,
+    "trigger": null,
+    "rarity": "T",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_T01.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/T02EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "T02",
+    "name": "SYSTEM CODE: X-ceed",
+    "unitType": "Token",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "T",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_T02.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/T03EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "T03",
+    "name": "Blodeuwedd Garden",
+    "unitType": "Token",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "T",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_T03.png"
+  },
+  {
+    "enCardNo": "DZ-BT14/T04EN",
+    "setCode": "DZ-BT14",
+    "cardNumber": "T04",
+    "name": "X-ceed NET",
+    "unitType": "Token",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": null,
+    "trigger": null,
+    "rarity": "T",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt14/dzbt14_T04.png"
   },
   {
     "enCardNo": "DZ-LBT01/001EN",
