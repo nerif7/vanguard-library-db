@@ -308282,6 +308282,4846 @@
     "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB02/dztb02_364.png"
   },
   {
+    "jpCardNo": "DZ-TB03/001",
+    "setCode": "DZ-TB03",
+    "cardNumber": "001",
+    "nameJp": "勝つことがすべて 荒神 ロウガ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_001.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/002",
+    "setCode": "DZ-TB03",
+    "cardNumber": "002",
+    "nameJp": "アーマナイト・ケルベロス “A”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アーマナイト"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_002.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/003",
+    "setCode": "DZ-TB03",
+    "cardNumber": "003",
+    "nameJp": "死中活路",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_003.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/004",
+    "setCode": "DZ-TB03",
+    "cardNumber": "004",
+    "nameJp": "力を求めた先 氷竜 キリ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_004.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/005",
+    "setCode": "DZ-TB03",
+    "cardNumber": "005",
+    "nameJp": "野望実現のため ソフィア・サハロフ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_005.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/006",
+    "setCode": "DZ-TB03",
+    "cardNumber": "006",
+    "nameJp": "戦乙女 全知のアルヴィドル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アースガルド/英雄"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_006.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/007",
+    "setCode": "DZ-TB03",
+    "cardNumber": "007",
+    "nameJp": "スンベル・ガルド",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_007.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/008",
+    "setCode": "DZ-TB03",
+    "cardNumber": "008",
+    "nameJp": "相手に絶望を 山崎 ダビデ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_008.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/009",
+    "setCode": "DZ-TB03",
+    "cardNumber": "009",
+    "nameJp": "最強のデッキ構築 グレムリン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_009.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/010",
+    "setCode": "DZ-TB03",
+    "cardNumber": "010",
+    "nameJp": "終末の黒竜 デスタリカ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "黒竜/深淵"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_010.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/011",
+    "setCode": "DZ-TB03",
+    "cardNumber": "011",
+    "nameJp": "勝利を得るために 祠堂 孫六",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_011.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/012",
+    "setCode": "DZ-TB03",
+    "cardNumber": "012",
+    "nameJp": "正義を貫く煉獄騎士 龍炎寺 タスク",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_012.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/013",
+    "setCode": "DZ-TB03",
+    "cardNumber": "013",
+    "nameJp": "死竜 デスゲイズ・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "黒竜/死/深淵"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_013.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/014",
+    "setCode": "DZ-TB03",
+    "cardNumber": "014",
+    "nameJp": "煉獄騎士団団長 ディミオスソード・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "武装騎竜"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_014.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/015",
+    "setCode": "DZ-TB03",
+    "cardNumber": "015",
+    "nameJp": "アビス・シンフォニア",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_015.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/016",
+    "setCode": "DZ-TB03",
+    "cardNumber": "016",
+    "nameJp": "終焉魔王 キョウヤ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "魔王/ドラゴン/神/ディザスター"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_016.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/017",
+    "setCode": "DZ-TB03",
+    "cardNumber": "017",
+    "nameJp": "黒竜神官 グレムリン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "黒竜/深淵/ディザスター"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_017.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/018",
+    "setCode": "DZ-TB03",
+    "cardNumber": "018",
+    "nameJp": "謎多き占い師 ソフィア",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "冒険者/星"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_018.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/019",
+    "setCode": "DZ-TB03",
+    "cardNumber": "019",
+    "nameJp": "世界が終わるアジ・ダハーカの力 臥炎 キョウヤ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_019.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/020",
+    "setCode": "DZ-TB03",
+    "cardNumber": "020",
+    "nameJp": "ディザスター・パレス",
+    "unitType": "ノーマルユニット",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "オーバートリガー",
+    "rarity": "ORR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_020.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/021",
+    "setCode": "DZ-TB03",
+    "cardNumber": "021",
+    "nameJp": "アーマナイト・デーモン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アーマナイト"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_021.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/022",
+    "setCode": "DZ-TB03",
+    "cardNumber": "022",
+    "nameJp": "アーマナイト・ケルベロス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アーマナイト"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_022.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/023",
+    "setCode": "DZ-TB03",
+    "cardNumber": "023",
+    "nameJp": "自称癒し系錬金術師 カバラ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "コンストラクト/ディザスター"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_023.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/024",
+    "setCode": "DZ-TB03",
+    "cardNumber": "024",
+    "nameJp": "地方領主 シドー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "冒険者"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_024.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/025",
+    "setCode": "DZ-TB03",
+    "cardNumber": "025",
+    "nameJp": "太陽と死の神 ブラッディ・キング",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アースガルド/星/死"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_025.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/026",
+    "setCode": "DZ-TB03",
+    "cardNumber": "026",
+    "nameJp": "アイスブレイド・ジョーカー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アースガルド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_026.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/027",
+    "setCode": "DZ-TB03",
+    "cardNumber": "027",
+    "nameJp": "月神 セレーネ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "オリンピア/星"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_027.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/028",
+    "setCode": "DZ-TB03",
+    "cardNumber": "028",
+    "nameJp": "幻星の巨神 アストライオス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "オリンピア/星"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_028.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/029",
+    "setCode": "DZ-TB03",
+    "cardNumber": "029",
+    "nameJp": "グレイプニル",
+    "unitType": "セットオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_029.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/030",
+    "setCode": "DZ-TB03",
+    "cardNumber": "030",
+    "nameJp": "極牢獄 ツーヴィンガー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "黒竜/深淵"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_030.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/031",
+    "setCode": "DZ-TB03",
+    "cardNumber": "031",
+    "nameJp": "デスウィザード・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "黒竜/死"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_031.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/032",
+    "setCode": "DZ-TB03",
+    "cardNumber": "032",
+    "nameJp": "デスルーラー マスターマインド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "死/深淵"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_032.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/033",
+    "setCode": "DZ-TB03",
+    "cardNumber": "033",
+    "nameJp": "煉獄騎士団 ガイラムランス・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "武装騎竜"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_033.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/034",
+    "setCode": "DZ-TB03",
+    "cardNumber": "034",
+    "nameJp": "デスルーラー ガロウズ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "死/深淵"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_034.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/035",
+    "setCode": "DZ-TB03",
+    "cardNumber": "035",
+    "nameJp": "煉獄騎士団 エヴィルグレイブ・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "武装騎竜"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_035.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/036",
+    "setCode": "DZ-TB03",
+    "cardNumber": "036",
+    "nameJp": "煉獄騎士団 クロスボウ・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "武装騎竜"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_036.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/037",
+    "setCode": "DZ-TB03",
+    "cardNumber": "037",
+    "nameJp": "ナイトメア・リバイブ",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_037.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/038",
+    "setCode": "DZ-TB03",
+    "cardNumber": "038",
+    "nameJp": "邪王竜剣 アクワルタ・グワルナフ",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_038.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/039",
+    "setCode": "DZ-TB03",
+    "cardNumber": "039",
+    "nameJp": "死竜騎士 ダビデ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "騎士/黒竜/ディザスター"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_039.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/040",
+    "setCode": "DZ-TB03",
+    "cardNumber": "040",
+    "nameJp": "魔王の牙 ロウガ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "タイラント/ディザスター"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_040.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/041",
+    "setCode": "DZ-TB03",
+    "cardNumber": "041",
+    "nameJp": "煉獄の魔剣士",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "冒険者/黒騎士"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_041.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/042",
+    "setCode": "DZ-TB03",
+    "cardNumber": "042",
+    "nameJp": "仮面剣士 キリ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "冒険者/アースガルド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_042.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/043",
+    "setCode": "DZ-TB03",
+    "cardNumber": "043",
+    "nameJp": "魔王の傀儡 テルミ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "オリンピア/ワイダーサカー/ディザスター"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_043.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/044",
+    "setCode": "DZ-TB03",
+    "cardNumber": "044",
+    "nameJp": "バディチャージ",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "フロントトリガー",
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_044.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/045",
+    "setCode": "DZ-TB03",
+    "cardNumber": "045",
+    "nameJp": "オペレーション・レストレイン",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ヒールトリガー",
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_045.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/046",
+    "setCode": "DZ-TB03",
+    "cardNumber": "046",
+    "nameJp": "バーブド・ワイヤー",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ヒールトリガー",
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_046.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/047",
+    "setCode": "DZ-TB03",
+    "cardNumber": "047",
+    "nameJp": "アーマナイト・イーグル “A”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アーマナイト"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_047.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/048",
+    "setCode": "DZ-TB03",
+    "cardNumber": "048",
+    "nameJp": "アーマナイト・ガーゴイル “A”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アーマナイト"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_048.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/049",
+    "setCode": "DZ-TB03",
+    "cardNumber": "049",
+    "nameJp": "アーマナイト・サキュバス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アーマナイト"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_049.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/050",
+    "setCode": "DZ-TB03",
+    "cardNumber": "050",
+    "nameJp": "闘気四方陣",
+    "unitType": "ブリッツオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_050.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/051",
+    "setCode": "DZ-TB03",
+    "cardNumber": "051",
+    "nameJp": "怒裏留バンカー!!",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_051.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/052",
+    "setCode": "DZ-TB03",
+    "cardNumber": "052",
+    "nameJp": "魔王 ジョーカー・グルンワルド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "Dエネミー/魔王"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_052.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/053",
+    "setCode": "DZ-TB03",
+    "cardNumber": "053",
+    "nameJp": "シャルサーナの加護",
+    "unitType": "ブリッツオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_053.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/054",
+    "setCode": "DZ-TB03",
+    "cardNumber": "054",
+    "nameJp": "死者を呑む者 フレズベルク",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アースガルド"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_054.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/055",
+    "setCode": "DZ-TB03",
+    "cardNumber": "055",
+    "nameJp": "星神 アストライオス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "オリンピア/星"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_055.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/056",
+    "setCode": "DZ-TB03",
+    "cardNumber": "056",
+    "nameJp": "神王の騎馬 スレイプニル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アースガルド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_056.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/057",
+    "setCode": "DZ-TB03",
+    "cardNumber": "057",
+    "nameJp": "ロキ・ザ・エアガイツ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アースガルド"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_057.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/058",
+    "setCode": "DZ-TB03",
+    "cardNumber": "058",
+    "nameJp": "大魔法 ゼウスの雷",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_058.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/059",
+    "setCode": "DZ-TB03",
+    "cardNumber": "059",
+    "nameJp": "大魔法 ラグナロク",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_059.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/060",
+    "setCode": "DZ-TB03",
+    "cardNumber": "060",
+    "nameJp": "聖杯",
+    "unitType": "ブリッツオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_060.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/061",
+    "setCode": "DZ-TB03",
+    "cardNumber": "061",
+    "nameJp": "大運命 凍てつく星辰",
+    "unitType": "セットオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_061.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/062",
+    "setCode": "DZ-TB03",
+    "cardNumber": "062",
+    "nameJp": "デスルーラー カース",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "死/深淵"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_062.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/063",
+    "setCode": "DZ-TB03",
+    "cardNumber": "063",
+    "nameJp": "ブラックドラゴン マヴェルティカー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "黒竜"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_063.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/064",
+    "setCode": "DZ-TB03",
+    "cardNumber": "064",
+    "nameJp": "デスルーラー ヴリコラカス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "死/深淵"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_064.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/065",
+    "setCode": "DZ-TB03",
+    "cardNumber": "065",
+    "nameJp": "ブラッディムーン・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "黒竜/深淵"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_065.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/066",
+    "setCode": "DZ-TB03",
+    "cardNumber": "066",
+    "nameJp": "魔弾の射手 ガスパール",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "黒騎士/深淵"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_066.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/067",
+    "setCode": "DZ-TB03",
+    "cardNumber": "067",
+    "nameJp": "煉獄騎士団 イレイザーハンド・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "武装騎竜"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_067.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/068",
+    "setCode": "DZ-TB03",
+    "cardNumber": "068",
+    "nameJp": "黒騎士 ゴルドレッド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "黒騎士/深淵"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_068.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/069",
+    "setCode": "DZ-TB03",
+    "cardNumber": "069",
+    "nameJp": "煉獄騎士団 マッドハルバード・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "武装騎竜"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_069.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/070",
+    "setCode": "DZ-TB03",
+    "cardNumber": "070",
+    "nameJp": "デスグリップ",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_070.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/071",
+    "setCode": "DZ-TB03",
+    "cardNumber": "071",
+    "nameJp": "ミッドナイト・シャドウ",
+    "unitType": "ブリッツオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_071.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/072",
+    "setCode": "DZ-TB03",
+    "cardNumber": "072",
+    "nameJp": "イヴィル・デスサイズ",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_072.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/073",
+    "setCode": "DZ-TB03",
+    "cardNumber": "073",
+    "nameJp": "スロウ・ペインフォー",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_073.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/074",
+    "setCode": "DZ-TB03",
+    "cardNumber": "074",
+    "nameJp": "ディストーション・パニッシャー!!",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_074.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/075",
+    "setCode": "DZ-TB03",
+    "cardNumber": "075",
+    "nameJp": "ナイトメア・ディスペアー",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_075.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/076",
+    "setCode": "DZ-TB03",
+    "cardNumber": "076",
+    "nameJp": "ブルータル・ディザスター！",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_076.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/077",
+    "setCode": "DZ-TB03",
+    "cardNumber": "077",
+    "nameJp": "煉獄魔剣士の甲冑",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_077.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/078",
+    "setCode": "DZ-TB03",
+    "cardNumber": "078",
+    "nameJp": "アルティメット・バディ！",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_078.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/079",
+    "setCode": "DZ-TB03",
+    "cardNumber": "079",
+    "nameJp": "バディヘルプ",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_079.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/080",
+    "setCode": "DZ-TB03",
+    "cardNumber": "080",
+    "nameJp": "ダメージ・コントロール",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "フロントトリガー",
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_080.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/081",
+    "setCode": "DZ-TB03",
+    "cardNumber": "081",
+    "nameJp": "アーマナイト・グリフィン “A”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アーマナイト"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_081.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/082",
+    "setCode": "DZ-TB03",
+    "cardNumber": "082",
+    "nameJp": "戦国学園のてっぺん 荒神 ロウガ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_082.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/083",
+    "setCode": "DZ-TB03",
+    "cardNumber": "083",
+    "nameJp": "アーマナイト・オーガー “A”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アーマナイト"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_083.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/084",
+    "setCode": "DZ-TB03",
+    "cardNumber": "084",
+    "nameJp": "アーマナイト・カーリー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アーマナイト"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_084.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/085",
+    "setCode": "DZ-TB03",
+    "cardNumber": "085",
+    "nameJp": "クリミナルファイター“ウルフ” 荒神 ロウガ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_085.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/086",
+    "setCode": "DZ-TB03",
+    "cardNumber": "086",
+    "nameJp": "アーマナイト・ケルベロス “SD”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アーマナイト"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_086.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/087",
+    "setCode": "DZ-TB03",
+    "cardNumber": "087",
+    "nameJp": "デンジャーワールド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "フラッグ"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_087.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/088",
+    "setCode": "DZ-TB03",
+    "cardNumber": "088",
+    "nameJp": "爆斧 リクドウ斬魔",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_088.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/089",
+    "setCode": "DZ-TB03",
+    "cardNumber": "089",
+    "nameJp": "豪雷ガ震撃",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_089.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/090",
+    "setCode": "DZ-TB03",
+    "cardNumber": "090",
+    "nameJp": "闘魂注入",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_090.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/091",
+    "setCode": "DZ-TB03",
+    "cardNumber": "091",
+    "nameJp": "牙竜喝破",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_091.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/092",
+    "setCode": "DZ-TB03",
+    "cardNumber": "092",
+    "nameJp": "斬魔次元斬",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "フロントトリガー",
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_092.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/093",
+    "setCode": "DZ-TB03",
+    "cardNumber": "093",
+    "nameJp": "血流呼気",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ヒールトリガー",
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_093.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/094",
+    "setCode": "DZ-TB03",
+    "cardNumber": "094",
+    "nameJp": "カースドラゴン トラゴス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "ネイキッドドラゴン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_094.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/095",
+    "setCode": "DZ-TB03",
+    "cardNumber": "095",
+    "nameJp": "ダンジョンワールド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "フラッグ"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_095.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/096",
+    "setCode": "DZ-TB03",
+    "cardNumber": "096",
+    "nameJp": "ヒドゥン・クロスボゥ",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_096.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/097",
+    "setCode": "DZ-TB03",
+    "cardNumber": "097",
+    "nameJp": "ピラー・オブ・ファイヤー",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_097.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/098",
+    "setCode": "DZ-TB03",
+    "cardNumber": "098",
+    "nameJp": "トゥバルの神託",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_098.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/099",
+    "setCode": "DZ-TB03",
+    "cardNumber": "099",
+    "nameJp": "ローリング・ストーン",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "フロントトリガー",
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_099.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/100",
+    "setCode": "DZ-TB03",
+    "cardNumber": "100",
+    "nameJp": "カシアードの静寂",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ヒールトリガー",
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_100.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/101",
+    "setCode": "DZ-TB03",
+    "cardNumber": "101",
+    "nameJp": "謎めいた副会長 ソフィア・サハロフ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_101.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/102",
+    "setCode": "DZ-TB03",
+    "cardNumber": "102",
+    "nameJp": "もっと強くなりたい 氷竜 キリ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_102.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/103",
+    "setCode": "DZ-TB03",
+    "cardNumber": "103",
+    "nameJp": "相棒学園 ソフィア・サハロフ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_103.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/104",
+    "setCode": "DZ-TB03",
+    "cardNumber": "104",
+    "nameJp": "相棒学園 氷竜 キリ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_104.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/105",
+    "setCode": "DZ-TB03",
+    "cardNumber": "105",
+    "nameJp": "カペラ・オウリガー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "オリンピア/星"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_105.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/106",
+    "setCode": "DZ-TB03",
+    "cardNumber": "106",
+    "nameJp": "シリウス・ライラプス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "オリンピア/星"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_106.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/107",
+    "setCode": "DZ-TB03",
+    "cardNumber": "107",
+    "nameJp": "レジェンドワールド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "フラッグ"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_107.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/108",
+    "setCode": "DZ-TB03",
+    "cardNumber": "108",
+    "nameJp": "大魔法 フィンブルの冬",
+    "unitType": "セットオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_108.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/109",
+    "setCode": "DZ-TB03",
+    "cardNumber": "109",
+    "nameJp": "星弓 アルテミスアロー",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_109.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/110",
+    "setCode": "DZ-TB03",
+    "cardNumber": "110",
+    "nameJp": "ルーンスタッフ",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_110.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/111",
+    "setCode": "DZ-TB03",
+    "cardNumber": "111",
+    "nameJp": "ブレッフェン・ガルド",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_111.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/112",
+    "setCode": "DZ-TB03",
+    "cardNumber": "112",
+    "nameJp": "ベルセルク・ガルド",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_112.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/113",
+    "setCode": "DZ-TB03",
+    "cardNumber": "113",
+    "nameJp": "アルギス・ガルド",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_113.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/114",
+    "setCode": "DZ-TB03",
+    "cardNumber": "114",
+    "nameJp": "スリザス・ガルド",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "フロントトリガー",
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_114.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/115",
+    "setCode": "DZ-TB03",
+    "cardNumber": "115",
+    "nameJp": "アスクレピオスの万能薬",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ヒールトリガー",
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_115.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/116",
+    "setCode": "DZ-TB03",
+    "cardNumber": "116",
+    "nameJp": "イカサマ戦術 山崎 ダビデ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_116.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/117",
+    "setCode": "DZ-TB03",
+    "cardNumber": "117",
+    "nameJp": "生徒会長の裏の顔 祠堂 孫六",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_117.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/118",
+    "setCode": "DZ-TB03",
+    "cardNumber": "118",
+    "nameJp": "独自の信念 グレムリン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_118.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/119",
+    "setCode": "DZ-TB03",
+    "cardNumber": "119",
+    "nameJp": "煉獄騎士の正体 龍炎寺 タスク",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_119.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/120",
+    "setCode": "DZ-TB03",
+    "cardNumber": "120",
+    "nameJp": "相棒学園 祠堂 孫六",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_120.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/121",
+    "setCode": "DZ-TB03",
+    "cardNumber": "121",
+    "nameJp": "悪意に満ちた少年 山崎 ダビデ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_121.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/122",
+    "setCode": "DZ-TB03",
+    "cardNumber": "122",
+    "nameJp": "黒騎士 ヘルレイピア",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "黒騎士/深淵"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_122.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/123",
+    "setCode": "DZ-TB03",
+    "cardNumber": "123",
+    "nameJp": "デスゲイズ・ドラゴン “SD”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "黒竜/死/深淵"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_123.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/124",
+    "setCode": "DZ-TB03",
+    "cardNumber": "124",
+    "nameJp": "デスルーラー ガロウズ “SD”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "死/深淵"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_124.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/125",
+    "setCode": "DZ-TB03",
+    "cardNumber": "125",
+    "nameJp": "デスルーラー バーリオル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "死/深淵"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_125.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/126",
+    "setCode": "DZ-TB03",
+    "cardNumber": "126",
+    "nameJp": "天才デッキビルダー グレムリン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_126.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/127",
+    "setCode": "DZ-TB03",
+    "cardNumber": "127",
+    "nameJp": "謎のファイター 煉獄騎士",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_127.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/128",
+    "setCode": "DZ-TB03",
+    "cardNumber": "128",
+    "nameJp": "ブラックドラゴン コールドブレイド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "黒竜"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_128.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/129",
+    "setCode": "DZ-TB03",
+    "cardNumber": "129",
+    "nameJp": "煉獄騎士団 アングリーハンド・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "武装騎竜"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_129.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/130",
+    "setCode": "DZ-TB03",
+    "cardNumber": "130",
+    "nameJp": "ダークネスドラゴンワールド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "フラッグ"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_130.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/131",
+    "setCode": "DZ-TB03",
+    "cardNumber": "131",
+    "nameJp": "その身を砕き、我を支えよ",
+    "unitType": "セットオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_131.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/132",
+    "setCode": "DZ-TB03",
+    "cardNumber": "132",
+    "nameJp": "煉獄剣 フェイタル",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_132.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/133",
+    "setCode": "DZ-TB03",
+    "cardNumber": "133",
+    "nameJp": "ギロチンカッター",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_133.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/134",
+    "setCode": "DZ-TB03",
+    "cardNumber": "134",
+    "nameJp": "ダークエナジー",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_134.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/135",
+    "setCode": "DZ-TB03",
+    "cardNumber": "135",
+    "nameJp": "デスアストレイ",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_135.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/136",
+    "setCode": "DZ-TB03",
+    "cardNumber": "136",
+    "nameJp": "デビル・スティグマ",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "フロントトリガー",
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_136.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/137",
+    "setCode": "DZ-TB03",
+    "cardNumber": "137",
+    "nameJp": "ドラゴンシールド 黒竜の盾",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ヒールトリガー",
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_137.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/138",
+    "setCode": "DZ-TB03",
+    "cardNumber": "138",
+    "nameJp": "門番長 シドー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "死/深淵/ディザスター"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_138.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/139",
+    "setCode": "DZ-TB03",
+    "cardNumber": "139",
+    "nameJp": "魔王の片腕 ソフィア",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "星/ディザスター"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_139.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/BR01",
+    "setCode": "DZ-TB03",
+    "cardNumber": "BR01",
+    "nameJp": "アーマナイト・ケルベロス “A”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アーマナイト"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "BR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_140.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/BR02",
+    "setCode": "DZ-TB03",
+    "cardNumber": "BR02",
+    "nameJp": "アーマナイト・デーモン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アーマナイト"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "BR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_141.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/BR03",
+    "setCode": "DZ-TB03",
+    "cardNumber": "BR03",
+    "nameJp": "アーマナイト・ケルベロス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アーマナイト"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "BR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_142.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/BR04",
+    "setCode": "DZ-TB03",
+    "cardNumber": "BR04",
+    "nameJp": "戦乙女 全知のアルヴィドル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アースガルド/英雄"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "BR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_143.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/BR05",
+    "setCode": "DZ-TB03",
+    "cardNumber": "BR05",
+    "nameJp": "太陽と死の神 ブラッディ・キング",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アースガルド/星/死"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "BR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_144.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/BR06",
+    "setCode": "DZ-TB03",
+    "cardNumber": "BR06",
+    "nameJp": "アイスブレイド・ジョーカー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アースガルド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "BR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_145.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/BR07",
+    "setCode": "DZ-TB03",
+    "cardNumber": "BR07",
+    "nameJp": "幻星の巨神 アストライオス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "オリンピア/星"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "BR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_146.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/BR08",
+    "setCode": "DZ-TB03",
+    "cardNumber": "BR08",
+    "nameJp": "星神 アストライオス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "オリンピア/星"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "BR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_147.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/BR09",
+    "setCode": "DZ-TB03",
+    "cardNumber": "BR09",
+    "nameJp": "終末の黒竜 デスタリカ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "黒竜/深淵"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "BR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_148.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/BR10",
+    "setCode": "DZ-TB03",
+    "cardNumber": "BR10",
+    "nameJp": "死竜 デスゲイズ・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "黒竜/死/深淵"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "BR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_149.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/BR11",
+    "setCode": "DZ-TB03",
+    "cardNumber": "BR11",
+    "nameJp": "煉獄騎士団団長 ディミオスソード・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "武装騎竜"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "BR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_150.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/BR12",
+    "setCode": "DZ-TB03",
+    "cardNumber": "BR12",
+    "nameJp": "極牢獄 ツーヴィンガー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "黒竜/深淵"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "BR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_151.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/BR13",
+    "setCode": "DZ-TB03",
+    "cardNumber": "BR13",
+    "nameJp": "デスルーラー ガロウズ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "死/深淵"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "BR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_152.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/BR14",
+    "setCode": "DZ-TB03",
+    "cardNumber": "BR14",
+    "nameJp": "煉獄騎士団 エヴィルグレイブ・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "武装騎竜"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "BR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_153.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H01",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H01",
+    "nameJp": "アーマナイト・イーグル “A”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アーマナイト"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_154.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H02",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H02",
+    "nameJp": "アーマナイト・ガーゴイル “A”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アーマナイト"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_155.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H03",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H03",
+    "nameJp": "アーマナイト・サキュバス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アーマナイト"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_156.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H04",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H04",
+    "nameJp": "闘気四方陣",
+    "unitType": "ブリッツオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_157.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H05",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H05",
+    "nameJp": "怒裏留バンカー!!",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_158.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H06",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H06",
+    "nameJp": "アーマナイト・グリフィン “A”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アーマナイト"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_159.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H07",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H07",
+    "nameJp": "戦国学園のてっぺん 荒神 ロウガ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_160.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H08",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H08",
+    "nameJp": "アーマナイト・オーガー “A”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アーマナイト"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_161.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H09",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H09",
+    "nameJp": "アーマナイト・カーリー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アーマナイト"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_162.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H10",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H10",
+    "nameJp": "クリミナルファイター“ウルフ” 荒神 ロウガ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_163.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H11",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H11",
+    "nameJp": "アーマナイト・ケルベロス “SD”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アーマナイト"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_164.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H12",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H12",
+    "nameJp": "デンジャーワールド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "フラッグ"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_165.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H13",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H13",
+    "nameJp": "爆斧 リクドウ斬魔",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_166.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H14",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H14",
+    "nameJp": "豪雷ガ震撃",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_167.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H15",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H15",
+    "nameJp": "闘魂注入",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_168.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H16",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H16",
+    "nameJp": "牙竜喝破",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_169.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H17",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H17",
+    "nameJp": "斬魔次元斬",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "フロントトリガー",
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_170.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H18",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H18",
+    "nameJp": "血流呼気",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ヒールトリガー",
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_171.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H19",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H19",
+    "nameJp": "カースドラゴン トラゴス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "ネイキッドドラゴン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_172.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H20",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H20",
+    "nameJp": "魔王 ジョーカー・グルンワルド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "Dエネミー/魔王"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_173.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H21",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H21",
+    "nameJp": "シャルサーナの加護",
+    "unitType": "ブリッツオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_174.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H22",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H22",
+    "nameJp": "ダンジョンワールド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "フラッグ"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_175.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H23",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H23",
+    "nameJp": "ヒドゥン・クロスボゥ",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_176.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H24",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H24",
+    "nameJp": "ピラー・オブ・ファイヤー",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_177.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H25",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H25",
+    "nameJp": "トゥバルの神託",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_178.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H26",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H26",
+    "nameJp": "ローリング・ストーン",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "フロントトリガー",
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_179.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H27",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H27",
+    "nameJp": "カシアードの静寂",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ヒールトリガー",
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_180.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H28",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H28",
+    "nameJp": "死者を呑む者 フレズベルク",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アースガルド"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_181.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H29",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H29",
+    "nameJp": "星神 アストライオス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "オリンピア/星"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_182.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H30",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H30",
+    "nameJp": "神王の騎馬 スレイプニル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アースガルド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_183.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H31",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H31",
+    "nameJp": "ロキ・ザ・エアガイツ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アースガルド"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_184.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H32",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H32",
+    "nameJp": "大魔法 ゼウスの雷",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_185.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H33",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H33",
+    "nameJp": "大魔法 ラグナロク",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_186.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H34",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H34",
+    "nameJp": "聖杯",
+    "unitType": "ブリッツオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_187.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H35",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H35",
+    "nameJp": "大運命 凍てつく星辰",
+    "unitType": "セットオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_188.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H36",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H36",
+    "nameJp": "謎めいた副会長 ソフィア・サハロフ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_189.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H37",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H37",
+    "nameJp": "もっと強くなりたい 氷竜 キリ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_190.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H38",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H38",
+    "nameJp": "相棒学園 ソフィア・サハロフ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_191.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H39",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H39",
+    "nameJp": "相棒学園 氷竜 キリ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_192.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H40",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H40",
+    "nameJp": "カペラ・オウリガー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "オリンピア/星"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_193.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H41",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H41",
+    "nameJp": "シリウス・ライラプス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "オリンピア/星"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_194.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H42",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H42",
+    "nameJp": "レジェンドワールド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "フラッグ"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_195.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H43",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H43",
+    "nameJp": "大魔法 フィンブルの冬",
+    "unitType": "セットオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_196.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H44",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H44",
+    "nameJp": "星弓 アルテミスアロー",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_197.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H45",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H45",
+    "nameJp": "ルーンスタッフ",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_198.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H46",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H46",
+    "nameJp": "ブレッフェン・ガルド",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_199.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H47",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H47",
+    "nameJp": "ベルセルク・ガルド",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_200.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H48",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H48",
+    "nameJp": "アルギス・ガルド",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_201.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H49",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H49",
+    "nameJp": "スリザス・ガルド",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "フロントトリガー",
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_202.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H50",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H50",
+    "nameJp": "アスクレピオスの万能薬",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ヒールトリガー",
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_203.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H51",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H51",
+    "nameJp": "デスルーラー カース",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "死/深淵"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_204.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H52",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H52",
+    "nameJp": "ブラックドラゴン マヴェルティカー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "黒竜"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_205.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H53",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H53",
+    "nameJp": "デスルーラー ヴリコラカス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "死/深淵"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_206.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H54",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H54",
+    "nameJp": "ブラッディムーン・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "黒竜/深淵"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_207.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H55",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H55",
+    "nameJp": "魔弾の射手 ガスパール",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "黒騎士/深淵"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_208.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H56",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H56",
+    "nameJp": "煉獄騎士団 イレイザーハンド・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "武装騎竜"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_209.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H57",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H57",
+    "nameJp": "黒騎士 ゴルドレッド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "黒騎士/深淵"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_210.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H58",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H58",
+    "nameJp": "煉獄騎士団 マッドハルバード・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "武装騎竜"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_211.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H59",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H59",
+    "nameJp": "デスグリップ",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_212.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H60",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H60",
+    "nameJp": "ミッドナイト・シャドウ",
+    "unitType": "ブリッツオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_213.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H61",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H61",
+    "nameJp": "イヴィル・デスサイズ",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_214.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H62",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H62",
+    "nameJp": "スロウ・ペインフォー",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_215.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H63",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H63",
+    "nameJp": "ディストーション・パニッシャー!!",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_216.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H64",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H64",
+    "nameJp": "ナイトメア・ディスペアー",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_217.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H65",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H65",
+    "nameJp": "ブルータル・ディザスター！",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_218.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H66",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H66",
+    "nameJp": "イカサマ戦術 山崎 ダビデ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_219.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H67",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H67",
+    "nameJp": "生徒会長の裏の顔 祠堂 孫六",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_220.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H68",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H68",
+    "nameJp": "独自の信念 グレムリン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_221.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H69",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H69",
+    "nameJp": "煉獄騎士の正体 龍炎寺 タスク",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_222.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H70",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H70",
+    "nameJp": "相棒学園 祠堂 孫六",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_223.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H71",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H71",
+    "nameJp": "悪意に満ちた少年 山崎 ダビデ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_224.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H72",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H72",
+    "nameJp": "黒騎士 ヘルレイピア",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "黒騎士/深淵"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_225.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H73",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H73",
+    "nameJp": "デスゲイズ・ドラゴン “SD”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "黒竜/死/深淵"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_226.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H74",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H74",
+    "nameJp": "デスルーラー ガロウズ “SD”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "死/深淵"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_227.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H75",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H75",
+    "nameJp": "デスルーラー バーリオル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "死/深淵"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_228.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H76",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H76",
+    "nameJp": "天才デッキビルダー グレムリン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_229.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H77",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H77",
+    "nameJp": "謎のファイター 煉獄騎士",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_230.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H78",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H78",
+    "nameJp": "ブラックドラゴン コールドブレイド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "黒竜"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_231.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H79",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H79",
+    "nameJp": "煉獄騎士団 アングリーハンド・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "武装騎竜"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_232.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H80",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H80",
+    "nameJp": "ダークネスドラゴンワールド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "フラッグ"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_233.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H81",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H81",
+    "nameJp": "その身を砕き、我を支えよ",
+    "unitType": "セットオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_234.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H82",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H82",
+    "nameJp": "煉獄剣 フェイタル",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_235.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H83",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H83",
+    "nameJp": "ギロチンカッター",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_236.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H84",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H84",
+    "nameJp": "ダークエナジー",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_237.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H85",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H85",
+    "nameJp": "デスアストレイ",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_238.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H86",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H86",
+    "nameJp": "デビル・スティグマ",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "フロントトリガー",
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_239.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H87",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H87",
+    "nameJp": "ドラゴンシールド 黒竜の盾",
+    "unitType": "トリガーオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "ヒールトリガー",
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_240.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H88",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H88",
+    "nameJp": "煉獄魔剣士の甲冑",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_241.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H89",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H89",
+    "nameJp": "門番長 シドー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "死/深淵/ディザスター"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_242.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/H90",
+    "setCode": "DZ-TB03",
+    "cardNumber": "H90",
+    "nameJp": "魔王の片腕 ソフィア",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "星/ディザスター"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_243.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/KR01",
+    "setCode": "DZ-TB03",
+    "cardNumber": "KR01",
+    "nameJp": "勝つことがすべて 荒神 ロウガ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "KR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_244.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/KR02",
+    "setCode": "DZ-TB03",
+    "cardNumber": "KR02",
+    "nameJp": "アーマナイト・ケルベロス “A”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アーマナイト"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "KR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_245.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/KR03",
+    "setCode": "DZ-TB03",
+    "cardNumber": "KR03",
+    "nameJp": "死中活路",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "KR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_246.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/KR04",
+    "setCode": "DZ-TB03",
+    "cardNumber": "KR04",
+    "nameJp": "力を求めた先 氷竜 キリ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "KR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_247.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/KR05",
+    "setCode": "DZ-TB03",
+    "cardNumber": "KR05",
+    "nameJp": "野望実現のため ソフィア・サハロフ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "KR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_248.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/KR06",
+    "setCode": "DZ-TB03",
+    "cardNumber": "KR06",
+    "nameJp": "戦乙女 全知のアルヴィドル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "アースガルド/英雄"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "KR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_249.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/KR07",
+    "setCode": "DZ-TB03",
+    "cardNumber": "KR07",
+    "nameJp": "スンベル・ガルド",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "KR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_250.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/KR08",
+    "setCode": "DZ-TB03",
+    "cardNumber": "KR08",
+    "nameJp": "相手に絶望を 山崎 ダビデ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "KR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_251.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/KR09",
+    "setCode": "DZ-TB03",
+    "cardNumber": "KR09",
+    "nameJp": "最強のデッキ構築 グレムリン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "KR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_252.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/KR10",
+    "setCode": "DZ-TB03",
+    "cardNumber": "KR10",
+    "nameJp": "終末の黒竜 デスタリカ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "黒竜/深淵"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "KR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_253.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/KR11",
+    "setCode": "DZ-TB03",
+    "cardNumber": "KR11",
+    "nameJp": "勝利を得るために 祠堂 孫六",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "KR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_254.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/KR12",
+    "setCode": "DZ-TB03",
+    "cardNumber": "KR12",
+    "nameJp": "正義を貫く煉獄騎士 龍炎寺 タスク",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "KR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_255.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/KR13",
+    "setCode": "DZ-TB03",
+    "cardNumber": "KR13",
+    "nameJp": "死竜 デスゲイズ・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "黒竜/死/深淵"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "KR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_256.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/KR14",
+    "setCode": "DZ-TB03",
+    "cardNumber": "KR14",
+    "nameJp": "煉獄騎士団団長 ディミオスソード・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "武装騎竜"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "KR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_257.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/KR15",
+    "setCode": "DZ-TB03",
+    "cardNumber": "KR15",
+    "nameJp": "アビス・シンフォニア",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "KR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_258.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/KR16",
+    "setCode": "DZ-TB03",
+    "cardNumber": "KR16",
+    "nameJp": "終焉魔王 キョウヤ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "魔王/ドラゴン/神/ディザスター"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "KR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_259.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/KR17",
+    "setCode": "DZ-TB03",
+    "cardNumber": "KR17",
+    "nameJp": "黒竜神官 グレムリン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "黒竜/深淵/ディザスター"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "KR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_260.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/KR18",
+    "setCode": "DZ-TB03",
+    "cardNumber": "KR18",
+    "nameJp": "謎多き占い師 ソフィア",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "冒険者/星"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "KR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_261.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/KR19",
+    "setCode": "DZ-TB03",
+    "cardNumber": "KR19",
+    "nameJp": "世界が終わるアジ・ダハーカの力 臥炎 キョウヤ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "KR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_262.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/SEC01",
+    "setCode": "DZ-TB03",
+    "cardNumber": "SEC01",
+    "nameJp": "勝つことがすべて 荒神 ロウガ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_263.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/SEC02",
+    "setCode": "DZ-TB03",
+    "cardNumber": "SEC02",
+    "nameJp": "力を求めた先 氷竜 キリ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_264.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/SEC03",
+    "setCode": "DZ-TB03",
+    "cardNumber": "SEC03",
+    "nameJp": "野望実現のため ソフィア・サハロフ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_265.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/SEC04",
+    "setCode": "DZ-TB03",
+    "cardNumber": "SEC04",
+    "nameJp": "相手に絶望を 山崎 ダビデ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_266.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/SEC05",
+    "setCode": "DZ-TB03",
+    "cardNumber": "SEC05",
+    "nameJp": "最強のデッキ構築 グレムリン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_267.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/SEC06",
+    "setCode": "DZ-TB03",
+    "cardNumber": "SEC06",
+    "nameJp": "勝利を得るために 祠堂 孫六",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_268.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/SEC07",
+    "setCode": "DZ-TB03",
+    "cardNumber": "SEC07",
+    "nameJp": "正義を貫く煉獄騎士 龍炎寺 タスク",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター/ディザスター"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_269.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/SEC08",
+    "setCode": "DZ-TB03",
+    "cardNumber": "SEC08",
+    "nameJp": "終焉魔王 キョウヤ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "魔王/ドラゴン/神/ディザスター"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_270.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/SEC09",
+    "setCode": "DZ-TB03",
+    "cardNumber": "SEC09",
+    "nameJp": "世界が終わるアジ・ダハーカの力 臥炎 キョウヤ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "バディファイター"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_271.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/SFR01",
+    "setCode": "DZ-TB03",
+    "cardNumber": "SFR01",
+    "nameJp": "デンジャーワールド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "フラッグ"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "SFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_272.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/SFR02",
+    "setCode": "DZ-TB03",
+    "cardNumber": "SFR02",
+    "nameJp": "ダンジョンワールド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "フラッグ"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "SFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_273.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/SFR03",
+    "setCode": "DZ-TB03",
+    "cardNumber": "SFR03",
+    "nameJp": "レジェンドワールド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "フラッグ"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "SFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_274.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/SFR04",
+    "setCode": "DZ-TB03",
+    "cardNumber": "SFR04",
+    "nameJp": "レジェンドワールド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "フラッグ"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "SFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_275.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/SFR05",
+    "setCode": "DZ-TB03",
+    "cardNumber": "SFR05",
+    "nameJp": "ダークネスドラゴンワールド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "フラッグ"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "SFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_276.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/SFR06",
+    "setCode": "DZ-TB03",
+    "cardNumber": "SFR06",
+    "nameJp": "ダークネスドラゴンワールド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "フラッグ"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "SFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_277.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/SFR07",
+    "setCode": "DZ-TB03",
+    "cardNumber": "SFR07",
+    "nameJp": "ダークネスドラゴンワールド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "フラッグ"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "SFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_278.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/SFR08",
+    "setCode": "DZ-TB03",
+    "cardNumber": "SFR08",
+    "nameJp": "ダークネスドラゴンワールド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [
+      "フラッグ"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "SFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_279.png"
+  },
+  {
+    "jpCardNo": "DZ-TB03/T01",
+    "setCode": "DZ-TB03",
+    "cardNumber": "T01",
+    "nameJp": "魔狼 フェンリル",
+    "unitType": "その他",
+    "nations": [
+      "バディファイト"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "T",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-TB03/dztb03_280.png"
+  },
+  {
     "jpCardNo": "DZ-TBP01/GPR＋01",
     "setCode": "DZ-TBP01",
     "cardNumber": "",
