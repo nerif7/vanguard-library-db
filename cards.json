@@ -265969,6 +265969,4930 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss14/dzss14_15thSP04.png"
   },
   {
+    "enCardNo": "DZ-SS15/001EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "001",
+    "name": "Dragritter, Lateefa",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Dragoroid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_001.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/002EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "002",
+    "name": "Red Jeweled Beast, Galnet",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_002.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/003EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "003",
+    "name": "Whirlwind Dragon, Wardorn",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Wind Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_003.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/004EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "004",
+    "name": "Dragritter, Nasrudin",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Dragoroid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_004.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/005EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "005",
+    "name": "Inquirer of Knowledge, Selseera",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Elf"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_005.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/006EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "006",
+    "name": "Famed Blazing Demonic Lady, Oriens",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Demon"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_006.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/007EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "007",
+    "name": "Timeturner Dragon, Clockwize",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Gear Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_007.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/008EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "008",
+    "name": "Purple Jeweled Beast, Almethys",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_008.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/009EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "009",
+    "name": "Fiendish Misfortune Dragon, Miderotgd",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_009.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/010EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "010",
+    "name": "Magnetism Monster, Magnides",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Alien"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_010.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/011EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "011",
+    "name": "Frenetic Blaze Monster, Blaazelgas",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Alien"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_011.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/012EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "012",
+    "name": "Silverstar Dragon, Seyferd",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Cyber Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_012.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/013EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "013",
+    "name": "White Jeweled Beast, Synthetica",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_013.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/014EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "014",
+    "name": "Forefront Knight, Teithfallt",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_014.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/015EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "015",
+    "name": "Knight of Starry Skies, Zero",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_015.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/016EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "016",
+    "name": "Yellow Jeweled Beast, Tolpaz",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_016.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/017EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "017",
+    "name": "Brilliant Dragon, Bradiark",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Cosmo Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_017.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/018EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "018",
+    "name": "Knight of the Allnight, Ethnya",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_018.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/019EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "019",
+    "name": "Deeplands, Meydith",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Zombie"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_019.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/020EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "020",
+    "name": "Illusivewing Dragon, Fjarmja",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Forest Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_020.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/021EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "021",
+    "name": "Fairy of Bereavement, Aptschied",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Ghost"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_021.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/022EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "022",
+    "name": "Green Jeweled Beast, Elmedar",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_022.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/023EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "023",
+    "name": "Imagine This! Snapshot with Marlean! Miss Downer",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_023.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/024EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "024",
+    "name": "One Night Witch, Strega",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Dragoroid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_024.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/025EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "025",
+    "name": "Seasong Dragon, Elestino",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Tear Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_025.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/026EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "026",
+    "name": "Rainbow Jeweled Beast, Olpirais",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_026.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/027EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "027",
+    "name": "Break Fang Evil Bond, Alrest & Volgamort",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire",
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast/Battleroid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_027.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/028EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "028",
+    "name": "Dream Sky Mutual Love, Naama & Samaell",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States",
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Succubus/Angel"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_028.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/029EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "029",
+    "name": "Heavy Corrosion Disconnection, Gravell & Olgulus",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate",
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Cyberoid/High Beast"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_029.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/030EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "030",
+    "name": "Snow Soul Revenge, Maldeas & Koyuki",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary",
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Ghost"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_030.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/031EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "031",
+    "name": "Corpse Hunting Rend Cataclysm, Roveena & Zuin",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia",
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Ghost/Elf"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_031.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/032EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "032",
+    "name": "Illusory Tunes Nymph, Keishou",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_032.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/033EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "033",
+    "name": "Stealth Dragon, Souzan",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_033.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/034EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "034",
+    "name": "Stealth Fiend, Futakuchiyo",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Ghost"
+    ],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_034.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/035EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "035",
+    "name": "Festive Trapezist",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_035.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/036EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "036",
+    "name": "Adventure Studies Academic, Arius",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_036.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/037EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "037",
+    "name": "Abyss Piercing Demonic Spearman, Criminatles",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Demon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_037.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/038EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "038",
+    "name": "Strange Noise of Ruin, Aduro",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Demon"
+    ],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_038.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/039EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "039",
+    "name": "Imaginary Digit Dragon, Diracsy",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Space Dragon"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_039.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/040EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "040",
+    "name": "Optimizing Mechanic",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Workeroid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_040.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/041EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "041",
+    "name": "Endearing Vendor, Mateyna",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_041.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/042EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "042",
+    "name": "Flash Shard Dragon, Seveneivia",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Cosmo Dragon"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_042.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/043EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "043",
+    "name": "Snowy White Magic, Nonomira",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_043.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/044EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "044",
+    "name": "Divine Sister, Natilla",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Elf"
+    ],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_044.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/045EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "045",
+    "name": "Warding Knight, Etherpiness",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Bioroid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_045.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/046EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "046",
+    "name": "Lavishscent Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Forest Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_046.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/047EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "047",
+    "name": "Tear Knight, Rothion",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Aquaroid"
+    ],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_047.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/048EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "048",
+    "name": "Spiny∧Spiky, Heathe",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast"
+    ],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_048.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/049EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "049",
+    "name": "Stealth Dragon, Madowazu",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon"
+    ],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_049.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/050EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "050",
+    "name": "Stealth Dragon, Midaregumo",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_050.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/051EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "051",
+    "name": "Stealth Dragon, Yamitaguri",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon"
+    ],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_051.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/052EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "052",
+    "name": "Stealth Dragon, Shikintan",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon"
+    ],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_052.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/053EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "053",
+    "name": "Swanky Enthraller",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Elf"
+    ],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_053.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/054EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "054",
+    "name": "Silky Sky Actress",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Elf"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_054.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/055EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "055",
+    "name": "Intrepid Spinner",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast"
+    ],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_055.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/056EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "056",
+    "name": "Gambling Juggler",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Elf"
+    ],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_056.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/057EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "057",
+    "name": "Chain-like Cluster",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Cyber Golem"
+    ],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_057.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/058EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "058",
+    "name": "Light-flux Bowman, Luminoflux",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Cyberoid"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_058.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/059EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "059",
+    "name": "Analysis Thrashing, Brightrim",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Cyberoid"
+    ],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_059.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/060EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "060",
+    "name": "Waving Hand of Vacuum Discharge",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Cyber Fairy"
+    ],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_060.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/061EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "061",
+    "name": "Knight of Orderly Bow, Llyvarch",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Elf"
+    ],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_061.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/062EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "062",
+    "name": "Accumulation Sage",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_062.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/063EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "063",
+    "name": "Shargaon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_063.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/064EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "064",
+    "name": "Knight of Clarion Strings, Ricula",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel"
+    ],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_064.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/065EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "065",
+    "name": "Tear Knight, Costas",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Aquaroid"
+    ],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_065.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/066EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "066",
+    "name": "Scattered Strike Brave Shooter",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Aquaroid"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_066.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/067EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "067",
+    "name": "Tear Knight, Kaikilia",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Aquaroid"
+    ],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_067.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/068EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "068",
+    "name": "Battle Siren, Dorcea",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Mermaid"
+    ],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_068.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/069EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "069",
+    "name": "Fluffy Lady, Godelieve",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Mermaid"
+    ],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_069.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/070EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "070",
+    "name": "Answerer Encore, Daatje",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Mermaid"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_070.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/071EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "071",
+    "name": "Pop Out Front Line, Gisela",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Mermaid"
+    ],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_071.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/072EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "072",
+    "name": "Diva of Ataraxia, Georgina",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Mermaid"
+    ],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_072.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/FFR01EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "FFR01",
+    "name": "Dragritter, Nasrudin",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Dragoroid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_FFR01.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/FFR02EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "FFR02",
+    "name": "Chakrabarthi Deity Dragon, Nirvana Bagarvan",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_FFR02.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/FFR03EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "FFR03",
+    "name": "Deity Strike Equip, Garna Vairina",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Talisman"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_FFR03.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/FFR04EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "FFR04",
+    "name": "Flame of Promise, Aermo",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Salamander"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_FFR04.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/FFR05EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "FFR05",
+    "name": "Inquirer of Knowledge, Selseera",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Elf"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_FFR05.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/FFR06EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "FFR06",
+    "name": "Fiendish Misfortune Dragon, Miderotgd",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_FFR06.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/FFR07EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "FFR07",
+    "name": "Chronodragon Nextage",
+    "unitType": "G Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Dragon"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_FFR07.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/FFR08EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "FFR08",
+    "name": "Chronojet Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Dragon"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_FFR08.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/FFR09EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "FFR09",
+    "name": "Upstream Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Dragon"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_FFR09.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/FFR10EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "FFR10",
+    "name": "Frenetic Blaze Monster, Blaazelgas",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Alien"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_FFR10.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/FFR11EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "FFR11",
+    "name": "Knight of Starry Skies, Zero",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_FFR11.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/FFR12EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "FFR12",
+    "name": "Knight of the Allnight, Ethnya",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_FFR12.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/FFR13EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "FFR13",
+    "name": "Gleaming Lord, Uranus",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Noble/Astral Poet"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_FFR13.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/FFR14EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "FFR14",
+    "name": "Quaking Heavenly Dragon, Astraios Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Cosmo Dragon/Astral Poet"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_FFR14.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/FFR15EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "FFR15",
+    "name": "High Dog Breeder, Akane",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_FFR15.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/FFR16EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "FFR16",
+    "name": "Astraia of the Full Heavens",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Noble"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_FFR16.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/FFR17EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "FFR17",
+    "name": "Deeplands, Meydith",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Zombie"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_FFR17.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/FFR18EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "FFR18",
+    "name": "Fairy of Bereavement, Aptschied",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Ghost"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_FFR18.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/FFR19EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "FFR19",
+    "name": "Imagine This! Snapshot with Marlean! Miss Downer",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_FFR19.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/FFR20EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "FFR20",
+    "name": "Break Fang Evil Bond, Alrest & Volgamort",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire",
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast/Battleroid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_FFR20.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/FFR21EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "FFR21",
+    "name": "Dream Sky Mutual Love, Naama & Samaell",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States",
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Succubus/Angel"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_FFR21.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/FFR22EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "FFR22",
+    "name": "Heavy Corrosion Disconnection, Gravell & Olgulus",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate",
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Cyberoid/High Beast"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_FFR22.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/FFR23EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "FFR23",
+    "name": "Snow Soul Revenge, Maldeas & Koyuki",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary",
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Ghost"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_FFR23.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/FFR24EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "FFR24",
+    "name": "Corpse Hunting Rend Cataclysm, Roveena & Zuin",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia",
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Ghost/Elf"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_FFR24.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG01EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG01",
+    "name": "Chakrabarthi Deity Dragon, Nirvana Bagarvan",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "LGRRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG01.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG02EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG02",
+    "name": "Deity Strike Equip, Garna Vairina",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Talisman"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "LGRRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG02.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG03EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG03",
+    "name": "Flame of Promise, Aermo",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Salamander"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "LGRRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG03.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG04EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG04",
+    "name": "Chronodragon Nextage",
+    "unitType": "G Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Dragon"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "LGRRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG04.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG05EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG05",
+    "name": "Chronojet Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Dragon"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "LGRRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG05.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG06EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG06",
+    "name": "Upstream Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Dragon"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "LGRRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG06.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG07EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG07",
+    "name": "Gleaming Lord, Uranus",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Noble/Astral Poet"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "LGRRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG07.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG08EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG08",
+    "name": "Quaking Heavenly Dragon, Astraios Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Cosmo Dragon/Astral Poet"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "LGRRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG08.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG09EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG09",
+    "name": "High Dog Breeder, Akane",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "LGRRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG09.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG10EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG10",
+    "name": "Astraia of the Full Heavens",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Noble"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "LGRRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG10.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG11EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG11",
+    "name": "Blaze Equip Dragon, Vaikal",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Prayer Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "LGRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG11.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG12EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG12",
+    "name": "Interdimensional Dragon, Mystery-flare Dragon",
+    "unitType": "G Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Dragon"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "LGRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG12.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG13EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG13",
+    "name": "Steam Fighter, Balih",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gearoid"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "LGRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG13.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG14EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG14",
+    "name": "Steam Fighter, Amber",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gearoid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "LGRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG14.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG15EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG15",
+    "name": "Steam Scara, Gigi",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gearoid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "LGRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG15.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG16EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG16",
+    "name": "Steam Breath Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "LGRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG16.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG17EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG17",
+    "name": "Phosphoros of Auspicious Light",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Noble"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "LGRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG17.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG18EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG18",
+    "name": "Deputize Bear",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "LGRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG18.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG19EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG19",
+    "name": "Pongal",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "LGRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG19.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG20EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG20",
+    "name": "Giant Deity of Distant World, Valkerion",
+    "unitType": "Normal Unit",
+    "nations": [],
+    "clan": [
+      "Cray Elemental"
+    ],
+    "races": [
+      "Astral Deity"
+    ],
+    "grade": 5,
+    "trigger": null,
+    "rarity": "LGRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG20.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG21EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG21",
+    "name": "Weaving Prayers Blaze Maiden, Reiyu",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "LGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG21.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG22EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG22",
+    "name": "Reunion Blaze Maiden, Rino",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "LGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG22.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG23EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG23",
+    "name": "Sunlight Egg",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "LGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG23.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG24EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG24",
+    "name": "Smokegear Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Dragon"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "LGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG24.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG25EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG25",
+    "name": "Masergear Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "LGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG25.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG26EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG26",
+    "name": "Steam Maiden, Arlim",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gearoid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "LGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_L26.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG27EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG27",
+    "name": "Chrono Dran",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Dragon/Zodiac Time Beast"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "LGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_L27.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG28EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG28",
+    "name": "Steam Battler, Dadasig",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gearoid"
+    ],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "LGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_L28.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG29EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG29",
+    "name": "Stomach Clock Gear Rabbit",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Beast"
+    ],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "LGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_L29.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG30EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG30",
+    "name": "Luckypot Dracokid",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Dragon"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "LGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG30.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG31EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG31",
+    "name": "Steam Maiden, Uluru",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gearoid"
+    ],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "LGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG31.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG32EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG32",
+    "name": "Prometheus of Dancing Lights",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Noble"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "LGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG32.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG33EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG33",
+    "name": "Atlas of Heavenly Sphere",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Noble"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "LGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG33.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG34EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG34",
+    "name": "Administrator of Hope, Pandora",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Noble"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "LGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG34.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG35EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG35",
+    "name": "Pan of New Style",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Noble"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "LGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG35.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG36EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG36",
+    "name": "Battle Maiden, Kukurihime",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Noble"
+    ],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "LGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG36.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG37EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG37",
+    "name": "Cyber Tiger",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "LGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG37.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG38EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG38",
+    "name": "Talisman Angel",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Angel"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "LGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG38.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LG39EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LG39",
+    "name": "Witch of Big Pots, Laurier",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Human"
+    ],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "LGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LG39.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LGTR01EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LGTR01",
+    "name": "The Legendary Vanguard, Aichi Sendou",
+    "unitType": "Normal Unit",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "LGTR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LGTR01.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LGTR02EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LGTR02",
+    "name": "The Legendary Vanguard, Toshiki Kai",
+    "unitType": "Normal Unit",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "LGTR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LGTR02.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LGTR03EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LGTR03",
+    "name": "The Legendary Vanguard, Chrono Shindou",
+    "unitType": "Normal Unit",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "LGTR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LGTR03.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LGTR04EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LGTR04",
+    "name": "The Legendary Vanguard, Shinemon Nitta",
+    "unitType": "Normal Unit",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "LGTR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LGTR04.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/LGTR05EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "LGTR05",
+    "name": "The Legendary Vanguard, Yu-yu Kondo",
+    "unitType": "Normal Unit",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "LGTR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_LGTR05.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/PGS01EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "PGS01",
+    "name": "Blaster Blade",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Royal Paladin"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": null,
+    "trigger": null,
+    "rarity": "PGS",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_PGS01.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re01EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re01",
+    "name": "Iron Emperor Dragon, Gargrex",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Dinodragon"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re01.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re02EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re02",
+    "name": "Variance Ray Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re02.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re03EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re03",
+    "name": "Iron Arm Dragon, Gargrex",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Dinodragon"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re03.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re04EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re04",
+    "name": "Dragritter, Nahala",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re04.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re05EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re05",
+    "name": "Incinerate Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re05.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re06EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re06",
+    "name": "Spin Equip Dragon, Buzzsaw",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Prayer Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re06.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re07EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re07",
+    "name": "Iron Claw Dragon, Gargrex",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Dinodragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re07.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re08EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re08",
+    "name": "Dragritter, Khaleem",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Dragoroid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re08.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re09EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re09",
+    "name": "Feuer Frei Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Thunder Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re09.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re10EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re10",
+    "name": "Child Dragon, Gargrex",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Dinodragon"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re10.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re11EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re11",
+    "name": "Searcannon Dragon, Dinobellum",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Dinodragon"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re11.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re12EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re12",
+    "name": "O Forbidden Evil-eye, Open",
+    "unitType": "Normal Order",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re12.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re13EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re13",
+    "name": "Thorns of Gourmet, Nizroch",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Demon"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re13.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re14EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re14",
+    "name": "Phantom Aria Demonic Lady, Flauros",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Demon"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re14.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re15EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re15",
+    "name": "Stab Magician, Knilfade",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Elf"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re15.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re16EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re16",
+    "name": "Diabolos Boys, Hines",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Demon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re16.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re17EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re17",
+    "name": "For Now, Forget the Passage of Time",
+    "unitType": "Set Order",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re17.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re18EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re18",
+    "name": "Gravidia Tyssint",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Alien"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re18.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re19EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re19",
+    "name": "Ehrlich Gewinner",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Battleroid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re19.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re20EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re20",
+    "name": "Pollution Monster, Polpollute",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Alien"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re20.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re21EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re21",
+    "name": "Twilight Boundary",
+    "unitType": "Set Order",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re21.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re22EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re22",
+    "name": "Galactic Base \"A.I.A.S.\"",
+    "unitType": "Set Order",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re22.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re23EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re23",
+    "name": "Soaring Slash Knight, Esmeree",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Elf"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re23.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re24EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re24",
+    "name": "Knight of True Shot, Illtyyd",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re24.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re25EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re25",
+    "name": "Divine Sister, Arrozconleche",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Elf"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re25.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re26EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re26",
+    "name": "Infusion Angel",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re26.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re27EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re27",
+    "name": "Verticalong Sorceress",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re27.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re28EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re28",
+    "name": "Journey to be a Dragon",
+    "unitType": "Normal Order",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re28.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re29EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re29",
+    "name": "Sylvan Horned Beast, Marghor",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re29.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re30EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re30",
+    "name": "Spinning Corolla, Reminiese",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Bioroid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re30.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re31EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re31",
+    "name": "Undulate Assault",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Aquaroid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re31.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re32EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re32",
+    "name": "Shawa-Shawa Caboure",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Dryad"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re32.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re33EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re33",
+    "name": "Megacolony Battler⁺ \"Type.N\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Insect"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re33.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re34EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re34",
+    "name": "Earnescorrect Follower, Ortiimo",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Dragoroid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re34.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re35EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re35",
+    "name": "Rainy Day, Shaerra",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re35.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re36EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re36",
+    "name": "Fortune Garden, Feuille",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Elf"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re36.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re37EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re37",
+    "name": "Nevermore, Rinna",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Elf"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re37.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re38EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re38",
+    "name": "High Five!",
+    "unitType": "Normal Order",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re38.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re39EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re39",
+    "name": "Double Impact, Grandpa",
+    "unitType": "Normal Unit",
+    "nations": [
+      "CoroCoro",
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Dangerous Grandpa"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re39.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re40EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re40",
+    "name": "\"Midnight Timeleaper\" Rewinder, Chrono",
+    "unitType": "Normal Unit",
+    "nations": [
+      "CoroCoro",
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Fate Rewinder"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re40.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re41EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re41",
+    "name": "Apocalypse Reviver, Black",
+    "unitType": "Normal Unit",
+    "nations": [
+      "CoroCoro",
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Black Channel"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re41.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re42EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re42",
+    "name": "Galaxy Walker, Dekka-kun (Upper Body)",
+    "unitType": "Normal Unit",
+    "nations": [
+      "CoroCoro",
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Oversized Dekka-kun"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re42.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/Re43EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "Re43",
+    "name": "Ultimate Baby, Bebebebe",
+    "unitType": "Normal Unit",
+    "nations": [
+      "CoroCoro",
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Bebebebe Baby"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "Re",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_Re43.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SEC01EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SEC01",
+    "name": "Chakrabarthi Deity Dragon, Nirvana Bagarvan",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SEC01.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SEC02EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SEC02",
+    "name": "Deity Strike Equip, Garna Vairina",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Talisman"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SEC02.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SEC03EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SEC03",
+    "name": "Chronodragon Nextage",
+    "unitType": "G Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Dragon"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SEC03.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SEC04EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SEC04",
+    "name": "Interdimensional Dragon, Mystery-flare Dragon",
+    "unitType": "G Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Dragon"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SEC04.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SEC05EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SEC05",
+    "name": "Chronojet Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Dragon"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SEC05.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SEC06EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SEC06",
+    "name": "Gleaming Lord, Uranus",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Noble/Astral Poet"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SEC06.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SEC07EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SEC07",
+    "name": "Quaking Heavenly Dragon, Astraios Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Cosmo Dragon/Astral Poet"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SEC07.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SEC08EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SEC08",
+    "name": "Giant Deity of Distant World, Valkerion",
+    "unitType": "Normal Unit",
+    "nations": [],
+    "clan": [
+      "Cray Elemental"
+    ],
+    "races": [
+      "Astral Deity"
+    ],
+    "grade": 5,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SEC08.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/15thSP01EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SP01",
+    "name": "Chakrabarthi Deity Dragon, Nirvana Bagarvan",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "15thSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_15thSP01.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/15thSP02EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SP02",
+    "name": "Weaving Prayers Blaze Maiden, Reiyu",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "15thSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_15thSP02.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/15thSP03EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SP03",
+    "name": "Reunion Blaze Maiden, Rino",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "15thSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_15thSP03.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/15thSP04EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SP04",
+    "name": "Sunlight Egg",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "15thSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_15thSP04.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/15thSP05EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SP05",
+    "name": "Chronojet Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Dragon"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "15thSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_15thSP05.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/15thSP06EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SP06",
+    "name": "Smokegear Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Dragon"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "15thSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_15thSP06.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/15thSP07EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SP07",
+    "name": "Masergear Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "15thSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_15thSP07.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/15thSP08EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SP08",
+    "name": "Chrono Dran",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Dragon/Zodiac Time Beast"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "15thSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_15thSP08.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/15thSP09EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SP09",
+    "name": "Gleaming Lord, Uranus",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Noble/Astral Poet"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "15thSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_15thSP09.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/15thSP10EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SP10",
+    "name": "Prometheus of Dancing Lights",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Noble"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "15thSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_15thSP10.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/15thSP11EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SP11",
+    "name": "Atlas of Heavenly Sphere",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Noble"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "15thSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_15thSP11.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/15thSP12EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SP12",
+    "name": "Pan of New Style",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Noble"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "15thSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_15thSP12.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR01EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR01",
+    "name": "Dragritter, Nasrudin",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Dragoroid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR01.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR02EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR02",
+    "name": "Chakrabarthi Deity Dragon, Nirvana Bagarvan",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR02.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR03EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR03",
+    "name": "Deity Strike Equip, Garna Vairina",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Talisman"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR03.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR04EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR04",
+    "name": "Flame of Promise, Aermo",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [
+      "Kagero"
+    ],
+    "races": [
+      "Salamander"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR04.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR05EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR05",
+    "name": "Illusory Tunes Nymph, Keishou",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR05.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR06EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR06",
+    "name": "Stealth Dragon, Souzan",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR06.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR07EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR07",
+    "name": "Blaze Equip Dragon, Vaikal",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Prayer Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR07.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR08EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR08",
+    "name": "Weaving Prayers Blaze Maiden, Reiyu",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR08.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR09EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR09",
+    "name": "Reunion Blaze Maiden, Rino",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR09.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR10EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR10",
+    "name": "Sunlight Egg",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR10.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR11EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR11",
+    "name": "Fiendish Misfortune Dragon, Miderotgd",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR11.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR12EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR12",
+    "name": "Chronodragon Nextage",
+    "unitType": "G Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Dragon"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR12.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR13EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR13",
+    "name": "Chronojet Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Dragon"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR13.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR14EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR14",
+    "name": "Upstream Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Dragon"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR14.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR15EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR15",
+    "name": "Festive Trapezist",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR15.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR16EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR16",
+    "name": "Abyss Piercing Demonic Spearman, Criminatles",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Demon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR16.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR17EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR17",
+    "name": "Interdimensional Dragon, Mystery-flare Dragon",
+    "unitType": "G Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Dragon"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR17.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR18EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR18",
+    "name": "Steam Fighter, Balih",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gearoid"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR18.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR19EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR19",
+    "name": "Steam Fighter, Amber",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gearoid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR19.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR20EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR20",
+    "name": "Steam Scara, Gigi",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gearoid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR20.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR21EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR21",
+    "name": "Steam Breath Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR21.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR22EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR22",
+    "name": "Smokegear Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Dragon"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR22.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR23EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR23",
+    "name": "Masergear Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR23.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR24EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR24",
+    "name": "Steam Maiden, Arlim",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gearoid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR24.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR25EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR25",
+    "name": "Chrono Dran",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Dragon/Zodiac Time Beast"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR25.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR26EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR26",
+    "name": "Steam Battler, Dadasig",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gearoid"
+    ],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR26.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR27EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR27",
+    "name": "Stomach Clock Gear Rabbit",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Beast"
+    ],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR27.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR28EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR28",
+    "name": "Luckypot Dracokid",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gear Dragon"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR28.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR29EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR29",
+    "name": "Steam Maiden, Uluru",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [
+      "Gear Chronicle"
+    ],
+    "races": [
+      "Gearoid"
+    ],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR29.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR30EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR30",
+    "name": "Frenetic Blaze Monster, Blaazelgas",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Alien"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR30.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR31EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR31",
+    "name": "Imaginary Digit Dragon, Diracsy",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Space Dragon"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR31.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR32EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR32",
+    "name": "Optimizing Mechanic",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Workeroid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR32.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR33EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR33",
+    "name": "Knight of the Allnight, Ethnya",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR33.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR34EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR34",
+    "name": "Gleaming Lord, Uranus",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Noble/Astral Poet"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR34.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR35EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR35",
+    "name": "Quaking Heavenly Dragon, Astraios Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Cosmo Dragon/Astral Poet"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR35.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR36EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR36",
+    "name": "High Dog Breeder, Akane",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR36.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR37EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR37",
+    "name": "Astraia of the Full Heavens",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Noble"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR37.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR38EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR38",
+    "name": "Flash Shard Dragon, Seveneivia",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Cosmo Dragon"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR38.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR39EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR39",
+    "name": "Snowy White Magic, Nonomira",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR39.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR40EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR40",
+    "name": "Phosphoros of Auspicious Light",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Noble"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR40.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR41EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR41",
+    "name": "Deputize Bear",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR41.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR42EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR42",
+    "name": "Pongal",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Royal Paladin"
+    ],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR42.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR43EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR43",
+    "name": "Prometheus of Dancing Lights",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Noble"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR43.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR44EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR44",
+    "name": "Atlas of Heavenly Sphere",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Noble"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR44.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR45EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR45",
+    "name": "Administrator of Hope, Pandora",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Noble"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR45.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR46EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR46",
+    "name": "Pan of New Style",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Noble"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR46.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR47EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR47",
+    "name": "Battle Maiden, Kukurihime",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Noble"
+    ],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR47.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR48EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR48",
+    "name": "Cyber Tiger",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR48.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR49EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR49",
+    "name": "Talisman Angel",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Angel"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR49.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR50EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR50",
+    "name": "Witch of Big Pots, Laurier",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [
+      "Genesis"
+    ],
+    "races": [
+      "Human"
+    ],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR50.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR51EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR51",
+    "name": "Fairy of Bereavement, Aptschied",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Ghost"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR51.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR52EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR52",
+    "name": "Warding Knight, Etherpiness",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Bioroid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR52.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR53EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR53",
+    "name": "Lavishscent Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Forest Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR53.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR54EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR54",
+    "name": "Break Fang Evil Bond, Alrest & Volgamort",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire",
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast/Battleroid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR54.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR55EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR55",
+    "name": "Dream Sky Mutual Love, Naama & Samaell",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States",
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Succubus/Angel"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR55.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR56EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR56",
+    "name": "Heavy Corrosion Disconnection, Gravell & Olgulus",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate",
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Cyberoid/High Beast"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR56.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR57EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR57",
+    "name": "Snow Soul Revenge, Maldeas & Koyuki",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary",
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Ghost"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR57.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR58EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR58",
+    "name": "Corpse Hunting Rend Cataclysm, Roveena & Zuin",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia",
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Ghost/Elf"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR58.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/SR59EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "SR59",
+    "name": "Giant Deity of Distant World, Valkerion",
+    "unitType": "Normal Unit",
+    "nations": [],
+    "clan": [
+      "Cray Elemental"
+    ],
+    "races": [
+      "Astral Deity"
+    ],
+    "grade": 5,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_SR59.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/T01EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "T01",
+    "name": "Astral Plane",
+    "unitType": "Others",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": null,
+    "trigger": null,
+    "rarity": "T",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_T01.png"
+  },
+  {
+    "enCardNo": "DZ-SS15/T02EN",
+    "setCode": "DZ-SS15",
+    "cardNumber": "T02",
+    "name": "Persona Shield",
+    "unitType": "Blitz Order",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "T",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzss15/dzss15_T02.png"
+  },
+  {
     "enCardNo": "DZ-TB01/001EN",
     "setCode": "DZ-TB01",
     "cardNumber": "001",
