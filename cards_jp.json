@@ -266047,6 +266047,4412 @@
     "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT15/dzbt15_391.png"
   },
   {
+    "jpCardNo": "DZ-BT16/001",
+    "setCode": "DZ-BT16",
+    "cardNumber": "001",
+    "nameJp": "月華忍姫 リシアフェール “幻影”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_001.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/002",
+    "setCode": "DZ-BT16",
+    "cardNumber": "002",
+    "nameJp": "エグザサベイト・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "フレイムドラゴン/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_002.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/003",
+    "setCode": "DZ-BT16",
+    "cardNumber": "003",
+    "nameJp": "月華忍妖 エルベリーナ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_003.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/004",
+    "setCode": "DZ-BT16",
+    "cardNumber": "004",
+    "nameJp": "スチームディーヴァ アルティサリア “幻影”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "ギアロイド/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_004.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/005",
+    "setCode": "DZ-BT16",
+    "cardNumber": "005",
+    "nameJp": "レジリエンス・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "アビスドラゴン/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_005.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/006",
+    "setCode": "DZ-BT16",
+    "cardNumber": "006",
+    "nameJp": "スチームブレイダー シュリクト",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "ギアロイド/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_006.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/007",
+    "setCode": "DZ-BT16",
+    "cardNumber": "007",
+    "nameJp": "特攻丸 オーバードライブ・スターク",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "バトロイド"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_007.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/008",
+    "setCode": "DZ-BT16",
+    "cardNumber": "008",
+    "nameJp": "究極兵器 特攻丸",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "バトロイド"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_008.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/009",
+    "setCode": "DZ-BT16",
+    "cardNumber": "009",
+    "nameJp": "裁秤大隊 シャルフーブ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "バトロイド/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_009.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/010",
+    "setCode": "DZ-BT16",
+    "cardNumber": "010",
+    "nameJp": "根絶の啓導 アンラクシヱル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_010.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/011",
+    "setCode": "DZ-BT16",
+    "cardNumber": "011",
+    "nameJp": "天奏楽団 リアノーン “幻影”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_011.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/012",
+    "setCode": "DZ-BT16",
+    "cardNumber": "012",
+    "nameJp": "虚像天使 ディルネーブ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_012.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/013",
+    "setCode": "DZ-BT16",
+    "cardNumber": "013",
+    "nameJp": "天奏楽団 サンセリーテ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_013.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/014",
+    "setCode": "DZ-BT16",
+    "cardNumber": "014",
+    "nameJp": "主峰の伝説・エスタシオン “華馳弩樹”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "フォレストドラゴン/舞羅主疾"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_014.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/015",
+    "setCode": "DZ-BT16",
+    "cardNumber": "015",
+    "nameJp": "征標艦隊提督 ヴェルストラ “幻影”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "アクアロイド/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_015.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/016",
+    "setCode": "DZ-BT16",
+    "cardNumber": "016",
+    "nameJp": "征標艦隊 ユーヴェスティ・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "ティアードラゴン/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_016.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/017",
+    "setCode": "DZ-BT16",
+    "cardNumber": "017",
+    "nameJp": "X-CeeDaNCe ヴィンスター",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_017.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/018",
+    "setCode": "DZ-BT16",
+    "cardNumber": "018",
+    "nameJp": "聖星刻姫 アストロア゠ユニカ “幻影”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_018.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/019",
+    "setCode": "DZ-BT16",
+    "cardNumber": "019",
+    "nameJp": "Star＋Liner ビフロンス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_019.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/020",
+    "setCode": "DZ-BT16",
+    "cardNumber": "020",
+    "nameJp": "遍く示し映す星球",
+    "unitType": "セットオーダー",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_020.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/021",
+    "setCode": "DZ-BT16",
+    "cardNumber": "021",
+    "nameJp": "月華忍妖 チェルナーチカ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_021.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/022",
+    "setCode": "DZ-BT16",
+    "cardNumber": "022",
+    "nameJp": "ディファイアンス・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "フレイムドラゴン/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_022.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/023",
+    "setCode": "DZ-BT16",
+    "cardNumber": "023",
+    "nameJp": "忍竜 ヘニエイトラック",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "アビスドラゴン/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_023.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/024",
+    "setCode": "DZ-BT16",
+    "cardNumber": "024",
+    "nameJp": "ドラグリッター ミスバーフ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ドラゴロイド"
+    ],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_024.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/025",
+    "setCode": "DZ-BT16",
+    "cardNumber": "025",
+    "nameJp": "ヴァーチュアス・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "アビスドラゴン/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_025.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/026",
+    "setCode": "DZ-BT16",
+    "cardNumber": "026",
+    "nameJp": "スチームファイター マルビティ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "ギアロイド/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_026.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/027",
+    "setCode": "DZ-BT16",
+    "cardNumber": "027",
+    "nameJp": "薔炎魔嬢 オルゼール",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_027.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/028",
+    "setCode": "DZ-BT16",
+    "cardNumber": "028",
+    "nameJp": "氷霜の魔道士 レイロン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_028.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/029",
+    "setCode": "DZ-BT16",
+    "cardNumber": "029",
+    "nameJp": "スニアリング・パペティアー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_029.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/030",
+    "setCode": "DZ-BT16",
+    "cardNumber": "030",
+    "nameJp": "特攻丸 オーバードライブ・ストライク",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "バトロイド"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_030.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/031",
+    "setCode": "DZ-BT16",
+    "cardNumber": "031",
+    "nameJp": "裁秤大隊 メルアヴァッハ・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "スペースドラゴン/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_031.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/032",
+    "setCode": "DZ-BT16",
+    "cardNumber": "032",
+    "nameJp": "オペレーターガール リュードベキア",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_032.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/033",
+    "setCode": "DZ-BT16",
+    "cardNumber": "033",
+    "nameJp": "彗光の白星弓 ブルムスタ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "サイバロイド"
+    ],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_033.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/034",
+    "setCode": "DZ-BT16",
+    "cardNumber": "034",
+    "nameJp": "天奏楽団 スクセ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_034.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/035",
+    "setCode": "DZ-BT16",
+    "cardNumber": "035",
+    "nameJp": "虚像天使 フォンゼッテ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_035.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/036",
+    "setCode": "DZ-BT16",
+    "cardNumber": "036",
+    "nameJp": "激鎚の騎士 ユスラー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_036.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/037",
+    "setCode": "DZ-BT16",
+    "cardNumber": "037",
+    "nameJp": "索引の賢者 イディロン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "ジャイアント"
+    ],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_037.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/038",
+    "setCode": "DZ-BT16",
+    "cardNumber": "038",
+    "nameJp": "征標艦隊 シューゼ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "アクアロイド/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_038.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/039",
+    "setCode": "DZ-BT16",
+    "cardNumber": "039",
+    "nameJp": "ジェニュインセパル ネクスロト",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "バイオロイド/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_039.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/040",
+    "setCode": "DZ-BT16",
+    "cardNumber": "040",
+    "nameJp": "リード・ラビット",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト"
+    ],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_040.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/041",
+    "setCode": "DZ-BT16",
+    "cardNumber": "041",
+    "nameJp": "厳嶺の俊英・御芽我舞羅主疾",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_041.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/042",
+    "setCode": "DZ-BT16",
+    "cardNumber": "042",
+    "nameJp": "X-CeeDaNCe エレス・ヴェッティ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_042.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/043",
+    "setCode": "DZ-BT16",
+    "cardNumber": "043",
+    "nameJp": "星明かりの唄 フォノグラフ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_043.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/044",
+    "setCode": "DZ-BT16",
+    "cardNumber": "044",
+    "nameJp": "あんしゃっとのんしゃらん コルミス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_044.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/045",
+    "setCode": "DZ-BT16",
+    "cardNumber": "045",
+    "nameJp": "Cerise-Chu♡LiP カレット",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_045.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/046",
+    "setCode": "DZ-BT16",
+    "cardNumber": "046",
+    "nameJp": "赫月光",
+    "unitType": "ノーマルオーダー",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_046.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/047",
+    "setCode": "DZ-BT16",
+    "cardNumber": "047",
+    "nameJp": "月華忍鬼 アンフィ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_047.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/048",
+    "setCode": "DZ-BT16",
+    "cardNumber": "048",
+    "nameJp": "ジェパーダイジング・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "フレイムドラゴン/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_048.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/049",
+    "setCode": "DZ-BT16",
+    "cardNumber": "049",
+    "nameJp": "月華忍妖 アルメリア",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_049.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/050",
+    "setCode": "DZ-BT16",
+    "cardNumber": "050",
+    "nameJp": "月華忍鬼 リヴェサル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_050.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/051",
+    "setCode": "DZ-BT16",
+    "cardNumber": "051",
+    "nameJp": "アミーカブル・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "アビスドラゴン/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_051.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/052",
+    "setCode": "DZ-BT16",
+    "cardNumber": "052",
+    "nameJp": "紅の睥睨 エミリィ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_052.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/053",
+    "setCode": "DZ-BT16",
+    "cardNumber": "053",
+    "nameJp": "スチームファイター ピリエル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "ギアロイド/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_053.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/054",
+    "setCode": "DZ-BT16",
+    "cardNumber": "054",
+    "nameJp": "TicK-TacK FuzzTiMeR",
+    "unitType": "セットオーダー",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_054.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/055",
+    "setCode": "DZ-BT16",
+    "cardNumber": "055",
+    "nameJp": "戦闘獣機 炎獅子丸",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "バトロイド"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_055.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/056",
+    "setCode": "DZ-BT16",
+    "cardNumber": "056",
+    "nameJp": "戦闘獣機 青狼丸",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "バトロイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_056.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/057",
+    "setCode": "DZ-BT16",
+    "cardNumber": "057",
+    "nameJp": "緊急発進!!!",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_057.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/058",
+    "setCode": "DZ-BT16",
+    "cardNumber": "058",
+    "nameJp": "裁秤僚機 ベンヴェヌート",
+    "unitType": "セットオーダー",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_058.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/059",
+    "setCode": "DZ-BT16",
+    "cardNumber": "059",
+    "nameJp": "創造の啓導 アンラクシェル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_059.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/060",
+    "setCode": "DZ-BT16",
+    "cardNumber": "060",
+    "nameJp": "天奏楽団 フェルクテス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_060.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/061",
+    "setCode": "DZ-BT16",
+    "cardNumber": "061",
+    "nameJp": "天奏楽団 ベルティエナ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_061.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/062",
+    "setCode": "DZ-BT16",
+    "cardNumber": "062",
+    "nameJp": "虚像天使 ノワゴーズ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_062.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/063",
+    "setCode": "DZ-BT16",
+    "cardNumber": "063",
+    "nameJp": "征標艦隊 オムディーレイ・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "ティアードラゴン/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_063.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/064",
+    "setCode": "DZ-BT16",
+    "cardNumber": "064",
+    "nameJp": "嶽爪の狩猟者 リゼンガース",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_064.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/065",
+    "setCode": "DZ-BT16",
+    "cardNumber": "065",
+    "nameJp": "錦秋のフォルリーバス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "フォレストドラゴン/舞羅主疾"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_065.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/066",
+    "setCode": "DZ-BT16",
+    "cardNumber": "066",
+    "nameJp": "征標艦隊 ペルフェ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "アクアロイド/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_066.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/067",
+    "setCode": "DZ-BT16",
+    "cardNumber": "067",
+    "nameJp": "Star＋Liner フォーラス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_067.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/068",
+    "setCode": "DZ-BT16",
+    "cardNumber": "068",
+    "nameJp": "雨上がりのヒカリ キャルベル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_068.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/069",
+    "setCode": "DZ-BT16",
+    "cardNumber": "069",
+    "nameJp": "X-CeeDaNCe リルプ・ローク",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_069.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/070",
+    "setCode": "DZ-BT16",
+    "cardNumber": "070",
+    "nameJp": "放課後スターレット ククルゥ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_070.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/071",
+    "setCode": "DZ-BT16",
+    "cardNumber": "071",
+    "nameJp": "惑星を覆うは赫き病み",
+    "unitType": "ノーマルオーダー",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_071.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/072",
+    "setCode": "DZ-BT16",
+    "cardNumber": "072",
+    "nameJp": "アンビートゥン・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "フレイムドラゴン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_072.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/073",
+    "setCode": "DZ-BT16",
+    "cardNumber": "073",
+    "nameJp": "炎麗の舞姫 アルフェア",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_073.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/074",
+    "setCode": "DZ-BT16",
+    "cardNumber": "074",
+    "nameJp": "月華忍妖 ルティカ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_074.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/075",
+    "setCode": "DZ-BT16",
+    "cardNumber": "075",
+    "nameJp": "ドラグリッター サーリフ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ドラゴロイド"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_075.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/076",
+    "setCode": "DZ-BT16",
+    "cardNumber": "076",
+    "nameJp": "ドラグリッター ラーシヴ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ドラゴロイド"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_076.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/077",
+    "setCode": "DZ-BT16",
+    "cardNumber": "077",
+    "nameJp": "月華忍妖 ヴィレア",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_077.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/078",
+    "setCode": "DZ-BT16",
+    "cardNumber": "078",
+    "nameJp": "月華忍妖 プレトーシュ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_078.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/079",
+    "setCode": "DZ-BT16",
+    "cardNumber": "079",
+    "nameJp": "両闘竜 ヴィタブルラプトル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ディノドラゴン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_079.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/080",
+    "setCode": "DZ-BT16",
+    "cardNumber": "080",
+    "nameJp": "月華忍妖 ミリス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト/幻影"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_080.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/081",
+    "setCode": "DZ-BT16",
+    "cardNumber": "081",
+    "nameJp": "スチームスカラー マカルディット",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "ギアロイド/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_081.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/082",
+    "setCode": "DZ-BT16",
+    "cardNumber": "082",
+    "nameJp": "スチームスカラー ライフェル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "ギアロイド/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_082.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/083",
+    "setCode": "DZ-BT16",
+    "cardNumber": "083",
+    "nameJp": "れぶがおん",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "キメラ/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_083.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/084",
+    "setCode": "DZ-BT16",
+    "cardNumber": "084",
+    "nameJp": "スチームガンナー シュカムナ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "ギアロイド/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_084.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/085",
+    "setCode": "DZ-BT16",
+    "cardNumber": "085",
+    "nameJp": "スチームファイター エスティラ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "ギアロイド/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_085.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/086",
+    "setCode": "DZ-BT16",
+    "cardNumber": "086",
+    "nameJp": "スプラージ・ディヴァウアー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_086.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/087",
+    "setCode": "DZ-BT16",
+    "cardNumber": "087",
+    "nameJp": "綴刻の魔道士 ヴァーロン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_087.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/088",
+    "setCode": "DZ-BT16",
+    "cardNumber": "088",
+    "nameJp": "ブライズ・プランクスタ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_088.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/089",
+    "setCode": "DZ-BT16",
+    "cardNumber": "089",
+    "nameJp": "スチームシューター プラッタ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "ギアロイド/幻影"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_089.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/090",
+    "setCode": "DZ-BT16",
+    "cardNumber": "090",
+    "nameJp": "戦闘獣機 豪象丸",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "バトロイド"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_090.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/091",
+    "setCode": "DZ-BT16",
+    "cardNumber": "091",
+    "nameJp": "テンパード・メカニック",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_091.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/092",
+    "setCode": "DZ-BT16",
+    "cardNumber": "092",
+    "nameJp": "PiCKeR 1-Q",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "ワーカロイド"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_092.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/093",
+    "setCode": "DZ-BT16",
+    "cardNumber": "093",
+    "nameJp": "最強兵器 特攻丸",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "バトロイド"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_093.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/094",
+    "setCode": "DZ-BT16",
+    "cardNumber": "094",
+    "nameJp": "レティセント・パイロット ペイティ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_094.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/095",
+    "setCode": "DZ-BT16",
+    "cardNumber": "095",
+    "nameJp": "スタークラスター・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "スペースドラゴン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_095.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/096",
+    "setCode": "DZ-BT16",
+    "cardNumber": "096",
+    "nameJp": "戦闘獣機 孔雀丸",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "バトロイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_096.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/097",
+    "setCode": "DZ-BT16",
+    "cardNumber": "097",
+    "nameJp": "悪魔兵器 特攻丸",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "バトロイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_097.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/098",
+    "setCode": "DZ-BT16",
+    "cardNumber": "098",
+    "nameJp": "特攻丸",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "バトロイド"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_098.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/099",
+    "setCode": "DZ-BT16",
+    "cardNumber": "099",
+    "nameJp": "夕影の啓導 アンラクシェル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_099.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/100",
+    "setCode": "DZ-BT16",
+    "cardNumber": "100",
+    "nameJp": "天奏楽団 レクティナ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_100.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/101",
+    "setCode": "DZ-BT16",
+    "cardNumber": "101",
+    "nameJp": "天奏楽団 グラシア",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_101.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/102",
+    "setCode": "DZ-BT16",
+    "cardNumber": "102",
+    "nameJp": "天奏楽団 ティリボット",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_102.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/103",
+    "setCode": "DZ-BT16",
+    "cardNumber": "103",
+    "nameJp": "日影の啓導 アンラクシェル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_103.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/104",
+    "setCode": "DZ-BT16",
+    "cardNumber": "104",
+    "nameJp": "虚像天使 ノワドロート",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_104.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/105",
+    "setCode": "DZ-BT16",
+    "cardNumber": "105",
+    "nameJp": "曙影の啓導 アンラクシェル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_105.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/106",
+    "setCode": "DZ-BT16",
+    "cardNumber": "106",
+    "nameJp": "天奏楽団 コルフィ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル/幻影"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_106.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/107",
+    "setCode": "DZ-BT16",
+    "cardNumber": "107",
+    "nameJp": "空虚の揺籃",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_107.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/108",
+    "setCode": "DZ-BT16",
+    "cardNumber": "108",
+    "nameJp": "サングワンスプラウト ウェルディ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "バイオロイド"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_108.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/109",
+    "setCode": "DZ-BT16",
+    "cardNumber": "109",
+    "nameJp": "洞然の発掘家 レリドック",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "ハイビースト"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_109.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/110",
+    "setCode": "DZ-BT16",
+    "cardNumber": "110",
+    "nameJp": "葉陰の狩猟者 ラールギース",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_110.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/111",
+    "setCode": "DZ-BT16",
+    "cardNumber": "111",
+    "nameJp": "征標艦隊 ユーバ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "アクアロイド/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_111.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/112",
+    "setCode": "DZ-BT16",
+    "cardNumber": "112",
+    "nameJp": "征標艦隊 ラフィニール・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "ティアードラゴン/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_112.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/113",
+    "setCode": "DZ-BT16",
+    "cardNumber": "113",
+    "nameJp": "征標艦隊 アンシュテーア・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "ティアードラゴン/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_113.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/114",
+    "setCode": "DZ-BT16",
+    "cardNumber": "114",
+    "nameJp": "征標艦隊 ストラーザ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "アクアロイド/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_114.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/115",
+    "setCode": "DZ-BT16",
+    "cardNumber": "115",
+    "nameJp": "密林の先遣 ジャルク",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_115.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/116",
+    "setCode": "DZ-BT16",
+    "cardNumber": "116",
+    "nameJp": "征標艦隊 バートン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "ティアードラゴン/幻影"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_116.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/117",
+    "setCode": "DZ-BT16",
+    "cardNumber": "117",
+    "nameJp": "机上の休息 ストゥディア",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "エルフ"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_117.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/118",
+    "setCode": "DZ-BT16",
+    "cardNumber": "118",
+    "nameJp": "聖星刻姫 テュラン゠ダイナ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_118.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/119",
+    "setCode": "DZ-BT16",
+    "cardNumber": "119",
+    "nameJp": "フローラルガーデン カルテア",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_119.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/120",
+    "setCode": "DZ-BT16",
+    "cardNumber": "120",
+    "nameJp": "ボールと共にどこまでも サエット",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_120.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/121",
+    "setCode": "DZ-BT16",
+    "cardNumber": "121",
+    "nameJp": "聖星刻姫 シュアト゠スパーダ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_121.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/122",
+    "setCode": "DZ-BT16",
+    "cardNumber": "122",
+    "nameJp": "To My DearestS シェルリィタ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_122.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/123",
+    "setCode": "DZ-BT16",
+    "cardNumber": "123",
+    "nameJp": "なつき度UP↑↑ ティメーテ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "エルフ/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_123.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/124",
+    "setCode": "DZ-BT16",
+    "cardNumber": "124",
+    "nameJp": "バウンドフラッパー パピカ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_124.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/125",
+    "setCode": "DZ-BT16",
+    "cardNumber": "125",
+    "nameJp": "聖星刻姫 ピピス゠ムルシェ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン/幻影"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_125.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FFR01",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR01",
+    "nameJp": "月華忍姫 リシアフェール “幻影”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_126.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FFR02",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR02",
+    "nameJp": "エグザサベイト・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "フレイムドラゴン/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_127.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FFR03",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR03",
+    "nameJp": "月華忍妖 エルベリーナ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_128.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FFR04",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR04",
+    "nameJp": "スチームディーヴァ アルティサリア “幻影”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "ギアロイド/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_129.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FFR05",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR05",
+    "nameJp": "レジリエンス・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "アビスドラゴン/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_130.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FFR06",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR06",
+    "nameJp": "スチームブレイダー シュリクト",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "ギアロイド/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_131.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FFR07",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR07",
+    "nameJp": "特攻丸 オーバードライブ・スターク",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "バトロイド"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_132.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FFR08",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR08",
+    "nameJp": "究極兵器 特攻丸",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "バトロイド"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_133.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FFR09",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR09",
+    "nameJp": "裁秤大隊 シャルフーブ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "バトロイド/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_134.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FFR10",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR10",
+    "nameJp": "根絶の啓導 アンラクシヱル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_135.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FFR11",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR11",
+    "nameJp": "天奏楽団 リアノーン “幻影”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_136.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FFR12",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR12",
+    "nameJp": "虚像天使 ディルネーブ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_137.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FFR13",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR13",
+    "nameJp": "天奏楽団 サンセリーテ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_138.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FFR14",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR14",
+    "nameJp": "主峰の伝説・エスタシオン “華馳弩樹”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "フォレストドラゴン/舞羅主疾"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_139.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FFR15",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR15",
+    "nameJp": "征標艦隊提督 ヴェルストラ “幻影”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "アクアロイド/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_140.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FFR16",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR16",
+    "nameJp": "征標艦隊 ユーヴェスティ・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "ティアードラゴン/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_141.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FFR17",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR17",
+    "nameJp": "X-CeeDaNCe ヴィンスター",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_142.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FFR18",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR18",
+    "nameJp": "聖星刻姫 アストロア゠ユニカ “幻影”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_143.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FFR19",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR19",
+    "nameJp": "Star＋Liner ビフロンス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_144.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR01",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR01",
+    "nameJp": "月華忍妖 チェルナーチカ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_145.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR02",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR02",
+    "nameJp": "ディファイアンス・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "フレイムドラゴン/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_146.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR03",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR03",
+    "nameJp": "忍竜 ヘニエイトラック",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "アビスドラゴン/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_147.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR04",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR04",
+    "nameJp": "ドラグリッター ミスバーフ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ドラゴロイド"
+    ],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_148.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR05",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR05",
+    "nameJp": "月華忍鬼 アンフィ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_149.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR06",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR06",
+    "nameJp": "ジェパーダイジング・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "フレイムドラゴン/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_150.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR07",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR07",
+    "nameJp": "月華忍妖 アルメリア",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_151.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR08",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR08",
+    "nameJp": "月華忍鬼 リヴェサル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_152.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR09",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR09",
+    "nameJp": "ヴァーチュアス・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "アビスドラゴン/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_153.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR10",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR10",
+    "nameJp": "スチームファイター マルビティ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "ギアロイド/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_154.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR11",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR11",
+    "nameJp": "薔炎魔嬢 オルゼール",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_155.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR12",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR12",
+    "nameJp": "氷霜の魔道士 レイロン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_156.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR13",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR13",
+    "nameJp": "スニアリング・パペティアー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_157.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR14",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR14",
+    "nameJp": "アミーカブル・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "アビスドラゴン/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_158.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR15",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR15",
+    "nameJp": "紅の睥睨 エミリィ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_159.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR16",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR16",
+    "nameJp": "スチームファイター ピリエル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "ギアロイド/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_160.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR17",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR17",
+    "nameJp": "TicK-TacK FuzzTiMeR",
+    "unitType": "セットオーダー",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_161.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR18",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR18",
+    "nameJp": "特攻丸 オーバードライブ・ストライク",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "バトロイド"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_162.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR19",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR19",
+    "nameJp": "裁秤大隊 メルアヴァッハ・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "スペースドラゴン/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_163.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR20",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR20",
+    "nameJp": "オペレーターガール リュードベキア",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_164.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR21",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR21",
+    "nameJp": "彗光の白星弓 ブルムスタ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "サイバロイド"
+    ],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_165.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR22",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR22",
+    "nameJp": "戦闘獣機 炎獅子丸",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "バトロイド"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_166.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR23",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR23",
+    "nameJp": "戦闘獣機 青狼丸",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "バトロイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_167.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR24",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR24",
+    "nameJp": "緊急発進!!!",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_168.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR25",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR25",
+    "nameJp": "裁秤僚機 ベンヴェヌート",
+    "unitType": "セットオーダー",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_169.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR26",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR26",
+    "nameJp": "天奏楽団 スクセ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_170.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR27",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR27",
+    "nameJp": "虚像天使 フォンゼッテ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_171.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR28",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR28",
+    "nameJp": "激鎚の騎士 ユスラー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_172.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR29",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR29",
+    "nameJp": "索引の賢者 イディロン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "ジャイアント"
+    ],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_173.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR30",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR30",
+    "nameJp": "創造の啓導 アンラクシェル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_174.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR31",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR31",
+    "nameJp": "天奏楽団 フェルクテス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_175.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR32",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR32",
+    "nameJp": "天奏楽団 ベルティエナ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_176.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR33",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR33",
+    "nameJp": "虚像天使 ノワゴーズ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_177.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR34",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR34",
+    "nameJp": "征標艦隊 シューゼ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "アクアロイド/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_178.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR35",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR35",
+    "nameJp": "ジェニュインセパル ネクスロト",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "バイオロイド/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_179.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR36",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR36",
+    "nameJp": "リード・ラビット",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト"
+    ],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_180.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR37",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR37",
+    "nameJp": "厳嶺の俊英・御芽我舞羅主疾",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_181.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR38",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR38",
+    "nameJp": "征標艦隊 オムディーレイ・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "ティアードラゴン/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_182.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR39",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR39",
+    "nameJp": "嶽爪の狩猟者 リゼンガース",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_183.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR40",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR40",
+    "nameJp": "錦秋のフォルリーバス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "フォレストドラゴン/舞羅主疾"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_184.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR41",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR41",
+    "nameJp": "征標艦隊 ペルフェ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "アクアロイド/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_185.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR42",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR42",
+    "nameJp": "X-CeeDaNCe エレス・ヴェッティ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_186.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR43",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR43",
+    "nameJp": "星明かりの唄 フォノグラフ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_187.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR44",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR44",
+    "nameJp": "あんしゃっとのんしゃらん コルミス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_188.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR45",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR45",
+    "nameJp": "Cerise-Chu♡LiP カレット",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_189.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR46",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR46",
+    "nameJp": "Star＋Liner フォーラス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_190.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR47",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR47",
+    "nameJp": "雨上がりのヒカリ キャルベル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_191.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR48",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR48",
+    "nameJp": "X-CeeDaNCe リルプ・ローク",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_192.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/FR49",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR49",
+    "nameJp": "放課後スターレット ククルゥ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_193.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SEC01",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SEC01",
+    "nameJp": "月華忍姫 リシアフェール “幻影”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_194.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SEC02",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SEC02",
+    "nameJp": "スチームディーヴァ アルティサリア “幻影”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "ギアロイド/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_195.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SEC03",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SEC03",
+    "nameJp": "究極兵器 特攻丸",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "バトロイド"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_196.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SEC04",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SEC04",
+    "nameJp": "根絶の啓導 アンラクシヱル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_197.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SEC05",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SEC05",
+    "nameJp": "天奏楽団 リアノーン “幻影”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_198.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SEC06",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SEC06",
+    "nameJp": "主峰の伝説・エスタシオン “華馳弩樹”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "フォレストドラゴン/舞羅主疾"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_199.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SEC07",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SEC07",
+    "nameJp": "征標艦隊提督 ヴェルストラ “幻影”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "アクアロイド/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_200.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SEC08",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SEC08",
+    "nameJp": "聖星刻姫 アストロア゠ユニカ “幻影”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_201.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR01",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR01",
+    "nameJp": "月華忍姫 リシアフェール “幻影”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_202.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR02",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR02",
+    "nameJp": "エグザサベイト・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "フレイムドラゴン/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_203.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR03",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR03",
+    "nameJp": "月華忍妖 エルベリーナ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_204.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR04",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR04",
+    "nameJp": "月華忍妖 チェルナーチカ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_205.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR05",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR05",
+    "nameJp": "ディファイアンス・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "フレイムドラゴン/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_206.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR06",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR06",
+    "nameJp": "忍竜 ヘニエイトラック",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "アビスドラゴン/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_207.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR07",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR07",
+    "nameJp": "ドラグリッター ミスバーフ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ドラゴンエンパイア"
+    ],
+    "clan": [],
+    "races": [
+      "ドラゴロイド"
+    ],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_208.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR08",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR08",
+    "nameJp": "スチームディーヴァ アルティサリア “幻影”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "ギアロイド/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_209.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR09",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR09",
+    "nameJp": "レジリエンス・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "アビスドラゴン/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_210.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR10",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR10",
+    "nameJp": "スチームブレイダー シュリクト",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "ギアロイド/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_211.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR11",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR11",
+    "nameJp": "ヴァーチュアス・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "アビスドラゴン/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_212.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR12",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR12",
+    "nameJp": "スチームファイター マルビティ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "ギアロイド/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_213.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR13",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR13",
+    "nameJp": "薔炎魔嬢 オルゼール",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_214.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR14",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR14",
+    "nameJp": "氷霜の魔道士 レイロン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_215.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR15",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR15",
+    "nameJp": "スニアリング・パペティアー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ダークステイツ"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_216.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR16",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR16",
+    "nameJp": "特攻丸 オーバードライブ・スターク",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "バトロイド"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_217.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR17",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR17",
+    "nameJp": "究極兵器 特攻丸",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "バトロイド"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_218.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR18",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR18",
+    "nameJp": "裁秤大隊 シャルフーブ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "バトロイド/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_219.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR19",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR19",
+    "nameJp": "特攻丸 オーバードライブ・ストライク",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "バトロイド"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_220.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR20",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR20",
+    "nameJp": "裁秤大隊 メルアヴァッハ・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "スペースドラゴン/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_221.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR21",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR21",
+    "nameJp": "オペレーターガール リュードベキア",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_222.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR22",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR22",
+    "nameJp": "彗光の白星弓 ブルムスタ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ブラントゲート"
+    ],
+    "clan": [],
+    "races": [
+      "サイバロイド"
+    ],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_223.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR23",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR23",
+    "nameJp": "根絶の啓導 アンラクシヱル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_224.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR24",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR24",
+    "nameJp": "天奏楽団 リアノーン “幻影”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_225.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR25",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR25",
+    "nameJp": "虚像天使 ディルネーブ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_226.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR26",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR26",
+    "nameJp": "天奏楽団 サンセリーテ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_227.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR27",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR27",
+    "nameJp": "天奏楽団 スクセ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_228.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR28",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR28",
+    "nameJp": "虚像天使 フォンゼッテ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_229.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR29",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR29",
+    "nameJp": "激鎚の騎士 ユスラー",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_230.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR30",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR30",
+    "nameJp": "索引の賢者 イディロン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ケテルサンクチュアリ"
+    ],
+    "clan": [],
+    "races": [
+      "ジャイアント"
+    ],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_231.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR31",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR31",
+    "nameJp": "主峰の伝説・エスタシオン “華馳弩樹”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "フォレストドラゴン/舞羅主疾"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_232.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR32",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR32",
+    "nameJp": "征標艦隊提督 ヴェルストラ “幻影”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "アクアロイド/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_233.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR33",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR33",
+    "nameJp": "征標艦隊 ユーヴェスティ・ドラゴン",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "ティアードラゴン/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_234.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR34",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR34",
+    "nameJp": "征標艦隊 シューゼ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "アクアロイド/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_235.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR35",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR35",
+    "nameJp": "ジェニュインセパル ネクスロト",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "バイオロイド/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_236.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR36",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR36",
+    "nameJp": "リード・ラビット",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト"
+    ],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_237.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR37",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR37",
+    "nameJp": "厳嶺の俊英・御芽我舞羅主疾",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "ストイケイア"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_238.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR38",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR38",
+    "nameJp": "X-CeeDaNCe ヴィンスター",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_239.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR39",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR39",
+    "nameJp": "聖星刻姫 アストロア゠ユニカ “幻影”",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン/幻影"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_240.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR40",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR40",
+    "nameJp": "Star＋Liner ビフロンス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_241.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR41",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR41",
+    "nameJp": "X-CeeDaNCe エレス・ヴェッティ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_242.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR42",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR42",
+    "nameJp": "星明かりの唄 フォノグラフ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン/幻影"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_243.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR43",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR43",
+    "nameJp": "あんしゃっとのんしゃらん コルミス",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト/幻影"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_244.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/SR44",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR44",
+    "nameJp": "Cerise-Chu♡LiP カレット",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "SR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_245.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/T01",
+    "setCode": "DZ-BT16",
+    "cardNumber": "T01",
+    "nameJp": "星刻舞台・響彗天球",
+    "unitType": "その他",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "T",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_246.png"
+  },
+  {
+    "jpCardNo": "DZ-BT16/T02",
+    "setCode": "DZ-BT16",
+    "cardNumber": "T02",
+    "nameJp": "トイハンガー",
+    "unitType": "その他",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "T",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-BT16/dzbt16_247.png"
+  },
+  {
     "jpCardNo": "DZ-LBT01/001",
     "setCode": "DZ-LBT01",
     "cardNumber": "001",
