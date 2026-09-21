@@ -301708,6 +301708,634 @@
     "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS18/dzss18_044.png"
   },
   {
+    "jpCardNo": "DZ-SS19/001",
+    "setCode": "DZ-SS19",
+    "cardNumber": "001",
+    "nameJp": "( ´>ㅿ<`;)Ghost meets Gal( ơ ∇く,,) ルブナ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ゴースト"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_001.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/001R",
+    "setCode": "DZ-SS19",
+    "cardNumber": "001",
+    "nameJp": "( ´>ㅿ<`;)Ghost meets Gal( ơ ∇く,,) ルブナ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ゴースト"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_002.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/002",
+    "setCode": "DZ-SS19",
+    "cardNumber": "002",
+    "nameJp": "ライブへの道 ルブナ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ゴースト"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_003.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/002R",
+    "setCode": "DZ-SS19",
+    "cardNumber": "002",
+    "nameJp": "ライブへの道 ルブナ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ゴースト"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_004.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/003",
+    "setCode": "DZ-SS19",
+    "cardNumber": "003",
+    "nameJp": "レッスンの日々 サンティ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ドラゴロイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_005.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/003R",
+    "setCode": "DZ-SS19",
+    "cardNumber": "003",
+    "nameJp": "レッスンの日々 サンティ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ドラゴロイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_006.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/004",
+    "setCode": "DZ-SS19",
+    "cardNumber": "004",
+    "nameJp": "アイドル目指して！ ルブナ＆サンティ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ゴースト/ドラゴロイド"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_007.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/004R",
+    "setCode": "DZ-SS19",
+    "cardNumber": "004",
+    "nameJp": "アイドル目指して！ ルブナ＆サンティ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ゴースト/ドラゴロイド"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_008.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/005",
+    "setCode": "DZ-SS19",
+    "cardNumber": "005",
+    "nameJp": "エネルギージェネレーター",
+    "unitType": "ライドデッキクレスト",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": null,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_009.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/005R",
+    "setCode": "DZ-SS19",
+    "cardNumber": "005",
+    "nameJp": "エネルギージェネレーター",
+    "unitType": "ライドデッキクレスト",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": null,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_010.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/006",
+    "setCode": "DZ-SS19",
+    "cardNumber": "006",
+    "nameJp": "( ´>ㅿ<`;)Ghost meets Gal( ơ ∇く,,) サンティ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ドラゴロイド"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_011.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/006R",
+    "setCode": "DZ-SS19",
+    "cardNumber": "006",
+    "nameJp": "( ´>ㅿ<`;)Ghost meets Gal( ơ ∇く,,) サンティ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ドラゴロイド"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_012.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/007",
+    "setCode": "DZ-SS19",
+    "cardNumber": "007",
+    "nameJp": "探せスクープ！ アイド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "サキュバス"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_013.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/007R",
+    "setCode": "DZ-SS19",
+    "cardNumber": "007",
+    "nameJp": "探せスクープ！ アイド",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "サキュバス"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_014.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/008",
+    "setCode": "DZ-SS19",
+    "cardNumber": "008",
+    "nameJp": "生存舞踏訓練 セルジャーン軍曹",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_015.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/008R",
+    "setCode": "DZ-SS19",
+    "cardNumber": "008",
+    "nameJp": "生存舞踏訓練 セルジャーン軍曹",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "デーモン"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_016.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/009",
+    "setCode": "DZ-SS19",
+    "cardNumber": "009",
+    "nameJp": "ジョイアンスデリバリー エルディール",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_017.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/009R",
+    "setCode": "DZ-SS19",
+    "cardNumber": "009",
+    "nameJp": "ジョイアンスデリバリー エルディール",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ヒューマン"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_018.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/010",
+    "setCode": "DZ-SS19",
+    "cardNumber": "010",
+    "nameJp": "小さな名物教師 ペチー先生",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "シルフ"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_019.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/010R",
+    "setCode": "DZ-SS19",
+    "cardNumber": "010",
+    "nameJp": "小さな名物教師 ペチー先生",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "シルフ"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_020.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/011",
+    "setCode": "DZ-SS19",
+    "cardNumber": "011",
+    "nameJp": "勝ち気な明朗 シャルカ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ドラゴロイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_021.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/011R",
+    "setCode": "DZ-SS19",
+    "cardNumber": "011",
+    "nameJp": "勝ち気な明朗 シャルカ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ドラゴロイド"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_022.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/012",
+    "setCode": "DZ-SS19",
+    "cardNumber": "012",
+    "nameJp": "神恩天唱 グリザエル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル"
+    ],
+    "grade": 0,
+    "trigger": "オーバートリガー",
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_023.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/012R",
+    "setCode": "DZ-SS19",
+    "cardNumber": "012",
+    "nameJp": "神恩天唱 グリザエル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル"
+    ],
+    "grade": 0,
+    "trigger": "オーバートリガー",
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_024.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/013",
+    "setCode": "DZ-SS19",
+    "cardNumber": "013",
+    "nameJp": "破顔の竜鱗 イルゼ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ドラゴロイド"
+    ],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_025.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/013R",
+    "setCode": "DZ-SS19",
+    "cardNumber": "013",
+    "nameJp": "破顔の竜鱗 イルゼ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ドラゴロイド"
+    ],
+    "grade": 0,
+    "trigger": "クリティカルトリガー",
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_026.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/014",
+    "setCode": "DZ-SS19",
+    "cardNumber": "014",
+    "nameJp": "勤勉なる従者 シグエル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル"
+    ],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_027.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/014R",
+    "setCode": "DZ-SS19",
+    "cardNumber": "014",
+    "nameJp": "勤勉なる従者 シグエル",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "エンジェル"
+    ],
+    "grade": 0,
+    "trigger": "ドロートリガー",
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_028.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/015",
+    "setCode": "DZ-SS19",
+    "cardNumber": "015",
+    "nameJp": "魂を込めた指揮 リヒャルダ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ゴースト"
+    ],
+    "grade": 0,
+    "trigger": "フロントトリガー",
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_029.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/015R",
+    "setCode": "DZ-SS19",
+    "cardNumber": "015",
+    "nameJp": "魂を込めた指揮 リヒャルダ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ゴースト"
+    ],
+    "grade": 0,
+    "trigger": "フロントトリガー",
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_030.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/016",
+    "setCode": "DZ-SS19",
+    "cardNumber": "016",
+    "nameJp": "ピースフルガーデン アニカ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト"
+    ],
+    "grade": 0,
+    "trigger": "ヒールトリガー",
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_031.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/016R",
+    "setCode": "DZ-SS19",
+    "cardNumber": "016",
+    "nameJp": "ピースフルガーデン アニカ",
+    "unitType": "ノーマルユニット",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [
+      "ワービースト"
+    ],
+    "grade": 0,
+    "trigger": "ヒールトリガー",
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_032.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/017",
+    "setCode": "DZ-SS19",
+    "cardNumber": "017",
+    "nameJp": "Sweet×Sweet",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_033.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/017R",
+    "setCode": "DZ-SS19",
+    "cardNumber": "017",
+    "nameJp": "Sweet×Sweet",
+    "unitType": "ノーマルオーダー",
+    "nations": [
+      "リリカルモナステリオ"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_034.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/018",
+    "setCode": "DZ-SS19",
+    "cardNumber": "018",
+    "nameJp": "艱難遮る碧の結界",
+    "unitType": "ブリッツオーダー",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "TD",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_035.png"
+  },
+  {
+    "jpCardNo": "DZ-SS19/018R",
+    "setCode": "DZ-SS19",
+    "cardNumber": "018",
+    "nameJp": "艱難遮る碧の結界",
+    "unitType": "ブリッツオーダー",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "TDR",
+    "imageUrlJp": "https://cf-vanguard.com/wordpress/wp-content/images/cardlist/DZ-SS19/dzss19_036.png"
+  },
+  {
     "jpCardNo": "DZ-TB01/001",
     "setCode": "DZ-TB01",
     "cardNumber": "001",
