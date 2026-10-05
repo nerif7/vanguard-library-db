@@ -285871,6 +285871,5066 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztb02/dztb02_TRR167.png"
   },
   {
+    "enCardNo": "DZ-TBP01/001EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "001",
+    "name": "Kasumi Toyama [Our CiRCLE]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Poppin'Party"
+    ],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_001.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/002EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "002",
+    "name": "Tae Hanazono [Better Sound]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Poppin'Party"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_002.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/003EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "003",
+    "name": "Rimi Ushigome [Toy Friends]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Poppin'Party"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_003.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/004EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "004",
+    "name": "Saya Yamabuki [Poster Girl]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Poppin'Party"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_004.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/005EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "005",
+    "name": "Arisa Ichigaya [Unstoppable Force!]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Poppin'Party"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_005.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/006EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "006",
+    "name": "Ran Mitake [A Vow at the End]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Afterglow"
+    ],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_006.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/007EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "007",
+    "name": "Moca Aoba [Bread from a Hero]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Afterglow"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_007.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/008EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "008",
+    "name": "Himari Uehara [Shout]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Afterglow"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_008.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/009EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "009",
+    "name": "Tomoe Udagawa [Clear and Vivid Orange]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Afterglow"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_009.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/010EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "010",
+    "name": "Tsugumi Hazawa [In My Own Words]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Afterglow"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_010.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/011EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "011",
+    "name": "Aya Maruyama [A True Idol Fanatic]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [
+      "Pastel＊Palettes"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_011.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/012EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "012",
+    "name": "Hina Hikawa [Athletics Master]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [
+      "Pastel＊Palettes"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_012.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/013EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "013",
+    "name": "Chisato Shirasagi [Supporting Each Other]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [
+      "Pastel＊Palettes"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_013.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/014EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "014",
+    "name": "Maya Yamato [What Lies Ahead]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [
+      "Pastel＊Palettes"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_014.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/015EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "015",
+    "name": "Eve Wakamiya [How's My Voice?]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [
+      "Pastel＊Palettes"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_015.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/016EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "016",
+    "name": "Yukina Minato [Unshakable Trust]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Roselia"
+    ],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_016.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/017EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "017",
+    "name": "Sayo Hikawa [One Note at a Time]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Roselia"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_017.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/018EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "018",
+    "name": "Lisa Imai [This Is Destiny!]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Roselia"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_018.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/019EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "019",
+    "name": "Ako Udagawa [To the Peak Beyond Heights]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Roselia"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_019.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/020EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "020",
+    "name": "Rinko Shirokane [Conveying Tones]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Roselia"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_020.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/021EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "021",
+    "name": "Kokoro Tsurumaki [Smiles Connect Us All]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Hello, Happy World!"
+    ],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_021.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/022EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "022",
+    "name": "Kaoru Seta [Runway Magic]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Hello, Happy World!"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_022.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/023EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "023",
+    "name": "Hagumi Kitazawa [Smiles without Borders]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Hello, Happy World!"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_023.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/024EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "024",
+    "name": "Kanon Matsubara [Overlapping Voices]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Hello, Happy World!"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_024.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/025EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "025",
+    "name": "Misaki Okusawa [Days Spent Spreading Smiles]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Hello, Happy World!"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_025.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/026EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "026",
+    "name": "Mashiro Kurata [Fallin’ → Wonder]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Morfonica"
+    ],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_026.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/027EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "027",
+    "name": "Toko Kirigaya [Drawing the Future Closer]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Morfonica"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_027.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/028EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "028",
+    "name": "Nanami Hiromachi [Call of the Secret!]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Morfonica"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_028.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/029EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "029",
+    "name": "Tsukushi Futaba [In a Shining School]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Morfonica"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_029.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/030EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "030",
+    "name": "Rui Yashio [This World is Full of Colors]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Morfonica"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_030.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/031EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "031",
+    "name": "LAYER [You’ve Always Been]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "RAISE A SUILEN"
+    ],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_031.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/032EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "032",
+    "name": "LOCK [All-in]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "RAISE A SUILEN"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_032.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/033EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "033",
+    "name": "MASKING [If You're Gonna Take The Step]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "RAISE A SUILEN"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_033.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/034EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "034",
+    "name": "PAREO [A Morning That Changed It All]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "RAISE A SUILEN"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_034.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/035EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "035",
+    "name": "CHU² [I Won't Leave You]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "RAISE A SUILEN"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_035.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/036EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "036",
+    "name": "Tomori Takamatsu [Through the Back Alley]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "MyGO!!!!!"
+    ],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_036.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/037EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "037",
+    "name": "Anon Chihaya [The Usual, Please]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "MyGO!!!!!"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_037.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/038EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "038",
+    "name": "Rana Kaname [At Her Own Spontaneous Pace]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "MyGO!!!!!"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_038.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/039EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "039",
+    "name": "Soyo Nagasaki [Never-Ending Rain]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "MyGO!!!!!"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_039.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/040EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "040",
+    "name": "Taki Shiina [Let's Make a Deal]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "MyGO!!!!!"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_040.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/041EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "041",
+    "name": "Our Band Life continues to resonate!",
+    "unitType": "Normal Unit",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Over",
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_041.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/042EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "042",
+    "name": "Michelle Sticker",
+    "unitType": "Normal Order",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_042.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/043EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "043",
+    "name": "Live Beyond!!",
+    "unitType": "Normal Order",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Poppin'Party"
+    ],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_043.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/044EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "044",
+    "name": "Ultimate☆Song",
+    "unitType": "Normal Order",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Poppin'Party"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_044.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/045EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "045",
+    "name": "Drive Your Heart",
+    "unitType": "Normal Order",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Poppin'Party"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_045.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/046EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "046",
+    "name": "ONE OF US",
+    "unitType": "Normal Order",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Afterglow"
+    ],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_046.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/047EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "047",
+    "name": "Sansan",
+    "unitType": "Normal Order",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Afterglow"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_047.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/048EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "048",
+    "name": "Part of the Life",
+    "unitType": "Normal Order",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Afterglow"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_048.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/049EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "049",
+    "name": "TITLE IDOL",
+    "unitType": "Normal Order",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_049.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/050EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "050",
+    "name": "Luminous Once More",
+    "unitType": "Normal Order",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_050.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/051EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "051",
+    "name": "Suki x Suki x Colorfully",
+    "unitType": "Normal Order",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_051.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/052EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "052",
+    "name": "Sprechchor",
+    "unitType": "Normal Order",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Roselia"
+    ],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_052.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/053EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "053",
+    "name": "FLASHLIGHT",
+    "unitType": "Normal Order",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Roselia"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_053.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/054EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "054",
+    "name": "Violet Flame",
+    "unitType": "Normal Order",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Roselia"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_054.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/055EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "055",
+    "name": "Smile Connection!",
+    "unitType": "Normal Order",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Hello, Happy World!"
+    ],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_055.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/056EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "056",
+    "name": "Smiley Carol",
+    "unitType": "Normal Order",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Hello, Happy World!"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_056.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/057EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "057",
+    "name": "Starring ☆Myself☆",
+    "unitType": "Normal Order",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Hello, Happy World!"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_057.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/058EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "058",
+    "name": "beauty for",
+    "unitType": "Normal Order",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Morfonica"
+    ],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_058.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/059EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "059",
+    "name": "The Circle Of Butterflies",
+    "unitType": "Normal Order",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Morfonica"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_059.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/060EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "060",
+    "name": "Color of Us",
+    "unitType": "Normal Order",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Morfonica"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_060.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/061EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "061",
+    "name": "CORUSCATE -DNA-",
+    "unitType": "Normal Order",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "RAISE A SUILEN"
+    ],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_061.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/062EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "062",
+    "name": "!NVADE SHOW!",
+    "unitType": "Normal Order",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "RAISE A SUILEN"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_062.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/063EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "063",
+    "name": "‘FIGHT’ ADDICT",
+    "unitType": "Normal Order",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "RAISE A SUILEN"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_063.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/064EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "064",
+    "name": "Let's Sing, Let it Ring",
+    "unitType": "Normal Order",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "MyGO!!!!!"
+    ],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_064.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/065EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "065",
+    "name": "Egakumirai",
+    "unitType": "Normal Order",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "MyGO!!!!!"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_065.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/066EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "066",
+    "name": "Page",
+    "unitType": "Normal Order",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "MyGO!!!!!"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_066.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/067EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "067",
+    "name": "Kasumi Toyama [The Committee’s Job]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Poppin'Party"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_067.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/068EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "068",
+    "name": "Kasumi Toyama [To a Brand New Sky]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Poppin'Party"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_068.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/069EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "069",
+    "name": "Kasumi Toyama [Promised Candy]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Poppin'Party"
+    ],
+    "races": [],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "R+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_069.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/070EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "070",
+    "name": "Ran Mitake [Rebellious Spirit]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Afterglow"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_070.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/071EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "071",
+    "name": "Ran Mitake [Proof I'm Here]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Afterglow"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_071.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/072EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "072",
+    "name": "Ran Mitake [No Hesitation]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Afterglow"
+    ],
+    "races": [],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "R+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_072.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/073EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "073",
+    "name": "Aya Maruyama [Overcome]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [
+      "Pastel＊Palettes"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_073.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/074EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "074",
+    "name": "Aya Maruyama [Wrapped in Morning Glow]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [
+      "Pastel＊Palettes"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_074.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/075EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "075",
+    "name": "Aya Maruyama [Absolute Idol Pose☆]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [
+      "Pastel＊Palettes"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "R+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_075.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/076EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "076",
+    "name": "Yukina Minato [Paralyzingly Overwhelmed]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Roselia"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_076.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/077EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "077",
+    "name": "Yukina Minato [Thoughts I Suppressed]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Roselia"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_077.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/078EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "078",
+    "name": "Yukina Minato [Prepared Diva]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Roselia"
+    ],
+    "races": [],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "R+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_078.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/079EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "079",
+    "name": "Kokoro Tsurumaki [Through the Marble]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Hello, Happy World!"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_079.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/080EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "080",
+    "name": "Kokoro Tsurumaki [Maritime Detective]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Hello, Happy World!"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_080.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/081EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "081",
+    "name": "Kokoro Tsurumaki [Invincible Hero]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Hello, Happy World!"
+    ],
+    "races": [],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "R+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_081.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/082EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "082",
+    "name": "Mashiro Kurata [To Put Into Words]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Morfonica"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_082.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/083EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "083",
+    "name": "Mashiro Kurata [Welcome to the Party!]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Morfonica"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_083.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/084EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "084",
+    "name": "Mashiro Kurata [Shine Once More]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Morfonica"
+    ],
+    "races": [],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "R+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_084.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/085EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "085",
+    "name": "LAYER [Take My Hand]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "RAISE A SUILEN"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_085.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/086EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "086",
+    "name": "CHU² [Uncontrollable Feelings]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "RAISE A SUILEN"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_086.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/087EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "087",
+    "name": "CHU² [Tears in the Closet]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "RAISE A SUILEN"
+    ],
+    "races": [],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "R+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_087.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/088EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "088",
+    "name": "Tomori Takamatsu [Card Of Fate]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "MyGO!!!!!"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_088.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/089EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "089",
+    "name": "Tomori Takamatsu [Next to Taki]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "MyGO!!!!!"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_089.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/090EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "090",
+    "name": "Tomori Takamatsu [Mysterious Little Animal]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "MyGO!!!!!"
+    ],
+    "races": [],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "R+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_090.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/091aEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "091",
+    "name": "Irreplaceable Memories",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_091.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/091bEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "091",
+    "name": "Irreplaceable Memories",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_091.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/091cEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "091",
+    "name": "Irreplaceable Memories",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_091.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/091dEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "091",
+    "name": "Irreplaceable Memories",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_091.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/091eEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "091",
+    "name": "Irreplaceable Memories",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_091.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/091fEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "091",
+    "name": "Irreplaceable Memories",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_091.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/091gEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "091",
+    "name": "Irreplaceable Memories",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_091.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/091hEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "091",
+    "name": "Irreplaceable Memories",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_091.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/092aEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "092",
+    "name": "Overflowing Thoughts and Song",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_092.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/092bEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "092",
+    "name": "Overflowing Thoughts and Song",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_092.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/092cEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "092",
+    "name": "Overflowing Thoughts and Song",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_092.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/092dEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "092",
+    "name": "Overflowing Thoughts and Song",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_092.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/092eEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "092",
+    "name": "Overflowing Thoughts and Song",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_092.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/092fEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "092",
+    "name": "Overflowing Thoughts and Song",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_092.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/092gEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "092",
+    "name": "Overflowing Thoughts and Song",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_092.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/092hEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "092",
+    "name": "Overflowing Thoughts and Song",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_092.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/093aEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "093",
+    "name": "Accumulation of Time",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_093.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/093bEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "093",
+    "name": "Accumulation of Time",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_093.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/093cEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "093",
+    "name": "Accumulation of Time",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_093.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/093dEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "093",
+    "name": "Accumulation of Time",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_093.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/093eEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "093",
+    "name": "Accumulation of Time",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_093.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/093fEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "093",
+    "name": "Accumulation of Time",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_093.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/093gEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "093",
+    "name": "Accumulation of Time",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_093.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/093hEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "093",
+    "name": "Accumulation of Time",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_093.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/094aEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "094",
+    "name": "A Dream-like Moment",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_094.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/094bEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "094",
+    "name": "A Dream-like Moment",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_094.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/094cEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "094",
+    "name": "A Dream-like Moment",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_094.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/094dEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "094",
+    "name": "A Dream-like Moment",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_094.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/094eEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "094",
+    "name": "A Dream-like Moment",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_094.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/094fEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "094",
+    "name": "A Dream-like Moment",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_094.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/094gEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "094",
+    "name": "A Dream-like Moment",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_094.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/094hEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "094",
+    "name": "A Dream-like Moment",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_094.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/095aEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "095",
+    "name": "Thoughts Spun Out",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_095.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/095bEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "095",
+    "name": "Thoughts Spun Out",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_095.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/095cEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "095",
+    "name": "Thoughts Spun Out",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_095.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/095dEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "095",
+    "name": "Thoughts Spun Out",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_095.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/095eEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "095",
+    "name": "Thoughts Spun Out",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_095.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/095fEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "095",
+    "name": "Thoughts Spun Out",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_095.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/095gEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "095",
+    "name": "Thoughts Spun Out",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_095.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/095hEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "095",
+    "name": "Thoughts Spun Out",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_095.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/096aEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "096",
+    "name": "Each of their Dreams",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_096.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/096bEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "096",
+    "name": "Each of their Dreams",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_096.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/096cEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "096",
+    "name": "Each of their Dreams",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_096.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/096dEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "096",
+    "name": "Each of their Dreams",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_096.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/096eEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "096",
+    "name": "Each of their Dreams",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_096.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/096fEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "096",
+    "name": "Each of their Dreams",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_096.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/096gEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "096",
+    "name": "Each of their Dreams",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_096.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/096hEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "096",
+    "name": "Each of their Dreams",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_096.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/097aEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "097",
+    "name": "Together with Everyone",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_097.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/097bEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "097",
+    "name": "Together with Everyone",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_097.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/097cEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "097",
+    "name": "Together with Everyone",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_097.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/097dEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "097",
+    "name": "Together with Everyone",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_097.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/097eEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "097",
+    "name": "Together with Everyone",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_097.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/097fEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "097",
+    "name": "Together with Everyone",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_097.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/097gEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "097",
+    "name": "Together with Everyone",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_097.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/097hEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "097",
+    "name": "Together with Everyone",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_097.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/098aEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "098",
+    "name": "A Little Happiness",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_098.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/098bEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "098",
+    "name": "A Little Happiness",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_098.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/098cEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "098",
+    "name": "A Little Happiness",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_098.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/098dEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "098",
+    "name": "A Little Happiness",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_098.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/098eEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "098",
+    "name": "A Little Happiness",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_098.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/098fEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "098",
+    "name": "A Little Happiness",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_098.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/098gEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "098",
+    "name": "A Little Happiness",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_098.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/098hEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "098",
+    "name": "A Little Happiness",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_098.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR01EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR01",
+    "name": "Kasumi Toyama [Our CiRCLE]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Poppin'Party"
+    ],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR01.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋01EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR01",
+    "name": "Kasumi Toyama [Our CiRCLE]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Poppin'Party"
+    ],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋01.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR02EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR02",
+    "name": "Tae Hanazono [Better Sound]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Poppin'Party"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR02.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋02EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR02",
+    "name": "Tae Hanazono [Better Sound]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Poppin'Party"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋02.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR03EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR03",
+    "name": "Rimi Ushigome [Toy Friends]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Poppin'Party"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR03.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋03EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR03",
+    "name": "Rimi Ushigome [Toy Friends]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Poppin'Party"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋03.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR04EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR04",
+    "name": "Saya Yamabuki [Poster Girl]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Poppin'Party"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR04.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋04EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR04",
+    "name": "Saya Yamabuki [Poster Girl]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Poppin'Party"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋04.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR05EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR05",
+    "name": "Arisa Ichigaya [Unstoppable Force!]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Poppin'Party"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR05.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋05EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR05",
+    "name": "Arisa Ichigaya [Unstoppable Force!]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Poppin'Party"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋05.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR06EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR06",
+    "name": "Ran Mitake [A Vow at the End]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Afterglow"
+    ],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR06.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋06EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR06",
+    "name": "Ran Mitake [A Vow at the End]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Afterglow"
+    ],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋06.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR07EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR07",
+    "name": "Moca Aoba [Bread from a Hero]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Afterglow"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR07.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋07EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR07",
+    "name": "Moca Aoba [Bread from a Hero]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Afterglow"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋07.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR08EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR08",
+    "name": "Himari Uehara [Shout]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Afterglow"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR08.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋08EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR08",
+    "name": "Himari Uehara [Shout]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Afterglow"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋08.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR09EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR09",
+    "name": "Tomoe Udagawa [Clear and Vivid Orange]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Afterglow"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR09.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋09EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR09",
+    "name": "Tomoe Udagawa [Clear and Vivid Orange]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Afterglow"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋09.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR10EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR10",
+    "name": "Tsugumi Hazawa [In My Own Words]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Afterglow"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR10.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋10EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR10",
+    "name": "Tsugumi Hazawa [In My Own Words]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Afterglow"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋10.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR11EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR11",
+    "name": "Aya Maruyama [A True Idol Fanatic]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [
+      "Pastel＊Palettes"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR11.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋11EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR11",
+    "name": "Aya Maruyama [A True Idol Fanatic]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [
+      "Pastel＊Palettes"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋11.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR12EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR12",
+    "name": "Hina Hikawa [Athletics Master]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [
+      "Pastel＊Palettes"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR12.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋12EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR12",
+    "name": "Hina Hikawa [Athletics Master]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [
+      "Pastel＊Palettes"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋12.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR13EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR13",
+    "name": "Chisato Shirasagi [Supporting Each Other]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [
+      "Pastel＊Palettes"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR13.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋13EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR13",
+    "name": "Chisato Shirasagi [Supporting Each Other]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [
+      "Pastel＊Palettes"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋13.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR14EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR14",
+    "name": "Maya Yamato [What Lies Ahead]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [
+      "Pastel＊Palettes"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR14.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋14EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR14",
+    "name": "Maya Yamato [What Lies Ahead]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [
+      "Pastel＊Palettes"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋14.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR15EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR15",
+    "name": "Eve Wakamiya [How's My Voice?]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [
+      "Pastel＊Palettes"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR15.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋15EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR15",
+    "name": "Eve Wakamiya [How's My Voice?]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [
+      "Pastel＊Palettes"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋15.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR16EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR16",
+    "name": "Yukina Minato [Unshakable Trust]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Roselia"
+    ],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR16.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋16EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR16",
+    "name": "Yukina Minato [Unshakable Trust]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Roselia"
+    ],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋16.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR17EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR17",
+    "name": "Sayo Hikawa [One Note at a Time]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Roselia"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR17.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋17EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR17",
+    "name": "Sayo Hikawa [One Note at a Time]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Roselia"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋17.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR18EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR18",
+    "name": "Lisa Imai [This Is Destiny!]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Roselia"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR18.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋18EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR18",
+    "name": "Lisa Imai [This Is Destiny!]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Roselia"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋18.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR19EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR19",
+    "name": "Ako Udagawa [To the Peak Beyond Heights]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Roselia"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR19.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋19EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR19",
+    "name": "Ako Udagawa [To the Peak Beyond Heights]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Roselia"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋19.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR20EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR20",
+    "name": "Rinko Shirokane [Conveying Tones]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Roselia"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR20.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋20EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR20",
+    "name": "Rinko Shirokane [Conveying Tones]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Roselia"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋20.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR21EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR21",
+    "name": "Kokoro Tsurumaki [Smiles Connect Us All]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Hello, Happy World!"
+    ],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR21.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋21EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR21",
+    "name": "Kokoro Tsurumaki [Smiles Connect Us All]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Hello, Happy World!"
+    ],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋21.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR22EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR22",
+    "name": "Kaoru Seta [Runway Magic]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Hello, Happy World!"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR22.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋22EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR22",
+    "name": "Kaoru Seta [Runway Magic]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Hello, Happy World!"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋22.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR23EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR23",
+    "name": "Hagumi Kitazawa [Smiles without Borders]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Hello, Happy World!"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR23.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋23EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR23",
+    "name": "Hagumi Kitazawa [Smiles without Borders]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Hello, Happy World!"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋23.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR24EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR24",
+    "name": "Kanon Matsubara [Overlapping Voices]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Hello, Happy World!"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR24.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋24EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR24",
+    "name": "Kanon Matsubara [Overlapping Voices]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Hello, Happy World!"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋24.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR25EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR25",
+    "name": "Misaki Okusawa [Days Spent Spreading Smiles]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Hello, Happy World!"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR25.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋25EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR25",
+    "name": "Misaki Okusawa [Days Spent Spreading Smiles]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Hello, Happy World!"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋25.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR26EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR26",
+    "name": "Mashiro Kurata [Fallin’ → Wonder]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Morfonica"
+    ],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR26.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋26EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR26",
+    "name": "Mashiro Kurata [Fallin’ → Wonder]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Morfonica"
+    ],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋26.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR27EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR27",
+    "name": "Toko Kirigaya [Drawing the Future Closer]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Morfonica"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR27.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋27EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR27",
+    "name": "Toko Kirigaya [Drawing the Future Closer]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Morfonica"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋27.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR28EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR28",
+    "name": "Nanami Hiromachi [Call of the Secret!]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Morfonica"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR28.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋28EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR28",
+    "name": "Nanami Hiromachi [Call of the Secret!]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Morfonica"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋28.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR29EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR29",
+    "name": "Tsukushi Futaba [In a Shining School]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Morfonica"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR29.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋29EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR29",
+    "name": "Tsukushi Futaba [In a Shining School]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Morfonica"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋29.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR30EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR30",
+    "name": "Rui Yashio [This World is Full of Colors]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Morfonica"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR30.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋30EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR30",
+    "name": "Rui Yashio [This World is Full of Colors]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Morfonica"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋30.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR31EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR31",
+    "name": "LAYER [You’ve Always Been]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "RAISE A SUILEN"
+    ],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR31.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋31EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR31",
+    "name": "LAYER [You’ve Always Been]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "RAISE A SUILEN"
+    ],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋31.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR32EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR32",
+    "name": "LOCK [All-in]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "RAISE A SUILEN"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR32.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋32EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR32",
+    "name": "LOCK [All-in]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "RAISE A SUILEN"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋32.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR33EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR33",
+    "name": "MASKING [If You're Gonna Take The Step]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "RAISE A SUILEN"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR33.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋33EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR33",
+    "name": "MASKING [If You're Gonna Take The Step]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "RAISE A SUILEN"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋33.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR34EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR34",
+    "name": "PAREO [A Morning That Changed It All]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "RAISE A SUILEN"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR34.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋34EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR34",
+    "name": "PAREO [A Morning That Changed It All]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "RAISE A SUILEN"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋34.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR35EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR35",
+    "name": "CHU² [I Won't Leave You]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "RAISE A SUILEN"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR35.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋35EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR35",
+    "name": "CHU² [I Won't Leave You]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "RAISE A SUILEN"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋35.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR36EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR36",
+    "name": "Tomori Takamatsu [Through the Back Alley]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "MyGO!!!!!"
+    ],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR36.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋36EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR36",
+    "name": "Tomori Takamatsu [Through the Back Alley]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "MyGO!!!!!"
+    ],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋36.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR37EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR37",
+    "name": "Anon Chihaya [The Usual, Please]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "MyGO!!!!!"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR37.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋37EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR37",
+    "name": "Anon Chihaya [The Usual, Please]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "MyGO!!!!!"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋37.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR38EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR38",
+    "name": "Rana Kaname [At Her Own Spontaneous Pace]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "MyGO!!!!!"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR38.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋38EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR38",
+    "name": "Rana Kaname [At Her Own Spontaneous Pace]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "MyGO!!!!!"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋38.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR39EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR39",
+    "name": "Soyo Nagasaki [Never-Ending Rain]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "MyGO!!!!!"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR39.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋39EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR39",
+    "name": "Soyo Nagasaki [Never-Ending Rain]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "MyGO!!!!!"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋39.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR40EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR40",
+    "name": "Taki Shiina [Let's Make a Deal]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "MyGO!!!!!"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR40.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR＋40EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR40",
+    "name": "Taki Shiina [Let's Make a Deal]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "MyGO!!!!!"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR+",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR＋40.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR41EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR41",
+    "name": "Our Band Life continues to resonate!",
+    "unitType": "Normal Unit",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Over",
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR41.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR42EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR42",
+    "name": "Michelle Sticker",
+    "unitType": "Normal Order",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR42.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR43EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR43",
+    "name": "Kasumi Toyama [The Committee’s Job]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Poppin'Party"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR43.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR44EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR44",
+    "name": "Kasumi Toyama [To a Brand New Sky]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Poppin'Party"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR44.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR45EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR45",
+    "name": "Kasumi Toyama [Promised Candy]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Poppin'Party"
+    ],
+    "races": [],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR45.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR46EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR46",
+    "name": "Ran Mitake [Rebellious Spirit]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Afterglow"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR46.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR47EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR47",
+    "name": "Ran Mitake [Proof I'm Here]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Afterglow"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR47.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR48EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR48",
+    "name": "Ran Mitake [No Hesitation]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Afterglow"
+    ],
+    "races": [],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR48.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR49EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR49",
+    "name": "Aya Maruyama [Overcome]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [
+      "Pastel＊Palettes"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR49.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR50EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR50",
+    "name": "Aya Maruyama [Wrapped in Morning Glow]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [
+      "Pastel＊Palettes"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR50.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR51EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR51",
+    "name": "Aya Maruyama [Absolute Idol Pose☆]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [
+      "Pastel＊Palettes"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR51.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR52EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR52",
+    "name": "Yukina Minato [Paralyzingly Overwhelmed]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Roselia"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR52.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR53EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR53",
+    "name": "Yukina Minato [Thoughts I Suppressed]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Roselia"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR53.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR54EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR54",
+    "name": "Yukina Minato [Prepared Diva]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Roselia"
+    ],
+    "races": [],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR54.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR55EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR55",
+    "name": "Kokoro Tsurumaki [Through the Marble]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Hello, Happy World!"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR55.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR56EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR56",
+    "name": "Kokoro Tsurumaki [Maritime Detective]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Hello, Happy World!"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR56.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR57EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR57",
+    "name": "Kokoro Tsurumaki [Invincible Hero]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Hello, Happy World!"
+    ],
+    "races": [],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR57.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR58EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR58",
+    "name": "Mashiro Kurata [To Put Into Words]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Morfonica"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR58.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR59EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR59",
+    "name": "Mashiro Kurata [Welcome to the Party!]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Morfonica"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR59.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR60EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR60",
+    "name": "Mashiro Kurata [Shine Once More]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "Morfonica"
+    ],
+    "races": [],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR60.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR61EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR61",
+    "name": "LAYER [Take My Hand]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "RAISE A SUILEN"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR61.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR62EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR62",
+    "name": "CHU² [Uncontrollable Feelings]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "RAISE A SUILEN"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR62.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR63EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR63",
+    "name": "CHU² [Tears in the Closet]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "RAISE A SUILEN"
+    ],
+    "races": [],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR63.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR64EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR64",
+    "name": "Tomori Takamatsu [Card Of Fate]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "MyGO!!!!!"
+    ],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR64.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR65EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR65",
+    "name": "Tomori Takamatsu [Next to Taki]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "MyGO!!!!!"
+    ],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR65.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/GBPR66EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "GBPR66",
+    "name": "Tomori Takamatsu [Mysterious Little Animal]",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [
+      "MyGO!!!!!"
+    ],
+    "races": [],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "GBPR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_GBPR66.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H01aEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H01",
+    "name": "Irreplaceable Memories",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H01.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H01bEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H01",
+    "name": "Irreplaceable Memories",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H01.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H01cEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H01",
+    "name": "Irreplaceable Memories",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H01.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H01dEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H01",
+    "name": "Irreplaceable Memories",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H01.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H01eEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H01",
+    "name": "Irreplaceable Memories",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H01.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H01fEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H01",
+    "name": "Irreplaceable Memories",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H01.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H01gEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H01",
+    "name": "Irreplaceable Memories",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H01.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H01hEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H01",
+    "name": "Irreplaceable Memories",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H01.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H02aEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H02",
+    "name": "Overflowing Thoughts and Song",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H02.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H02bEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H02",
+    "name": "Overflowing Thoughts and Song",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H02.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H02cEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H02",
+    "name": "Overflowing Thoughts and Song",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H02.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H02dEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H02",
+    "name": "Overflowing Thoughts and Song",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H02.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H02eEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H02",
+    "name": "Overflowing Thoughts and Song",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H02.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H02fEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H02",
+    "name": "Overflowing Thoughts and Song",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H02.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H02gEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H02",
+    "name": "Overflowing Thoughts and Song",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H02.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H02hEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H02",
+    "name": "Overflowing Thoughts and Song",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H02.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H03aEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H03",
+    "name": "Accumulation of Time",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H03.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H03bEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H03",
+    "name": "Accumulation of Time",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H03.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H03cEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H03",
+    "name": "Accumulation of Time",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H03.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H03dEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H03",
+    "name": "Accumulation of Time",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H03.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H03eEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H03",
+    "name": "Accumulation of Time",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H03.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H03fEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H03",
+    "name": "Accumulation of Time",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H03.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H03gEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H03",
+    "name": "Accumulation of Time",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H03.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H03hEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H03",
+    "name": "Accumulation of Time",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H03.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H04aEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H04",
+    "name": "A Dream-like Moment",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H04.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H04bEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H04",
+    "name": "A Dream-like Moment",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H04.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H04cEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H04",
+    "name": "A Dream-like Moment",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H04.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H04dEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H04",
+    "name": "A Dream-like Moment",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H04.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H04eEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H04",
+    "name": "A Dream-like Moment",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H04.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H04fEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H04",
+    "name": "A Dream-like Moment",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H04.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H04gEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H04",
+    "name": "A Dream-like Moment",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H04.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/H04hEN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "H04",
+    "name": "A Dream-like Moment",
+    "unitType": "Normal Unit",
+    "nations": [
+      "BanG Dream!"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "H",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_H04.png"
+  },
+  {
+    "enCardNo": "DZ-TBP01/PGSP01EN",
+    "setCode": "DZ-TBP01",
+    "cardNumber": "PGSP01",
+    "name": "Our Band Life continues to resonate!",
+    "unitType": "Normal Unit",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Over",
+    "rarity": "PGSP",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dztbp01/dztbp01_PGSP01.png"
+  },
+  {
     "enCardNo": "DZ-TD01/001EN",
     "setCode": "DZ-TD01",
     "cardNumber": "001",
