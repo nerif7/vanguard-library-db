@@ -246538,6 +246538,5832 @@
     "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt15/dzbt15_T01.png"
   },
   {
+    "enCardNo": "DZ-BT16/001EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "001",
+    "name": "Moonflower Stealth Princess, Lisciafael \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_001.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/002EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "002",
+    "name": "Exacerbate Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_002.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/003EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "003",
+    "name": "Moonflower Stealth Fiend, Albellina",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_003.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/004EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "004",
+    "name": "Steam Diva, Artisaria \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Gearoid/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_004.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/005EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "005",
+    "name": "Resilience Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_005.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/006EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "006",
+    "name": "Steam Blader, Shrikt",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Gearoid/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_006.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/007EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "007",
+    "name": "Tokkoumaru, Overdrive Stark",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Battleroid"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_007.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/008EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "008",
+    "name": "Ultimweapon, Tokkoumaru",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Battleroid"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_008.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/009EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "009",
+    "name": "Librate Battalion, Shalhuub",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Battleroid/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_009.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/010EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "010",
+    "name": "Enlightening of Extirpation, Anlarcciæl",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_010.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/011EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "011",
+    "name": "Seraphic Notes, Lianorn \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_011.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/012EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "012",
+    "name": "Hollow Vallet, Delnebre",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_012.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/013EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "013",
+    "name": "Seraphic Notes, Sinceriete",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_013.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/014EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "014",
+    "name": "Legend of the Highest Peak, Estacion \"Galloping Pergola\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Forest Dragon/Blast"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_014.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/015EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "015",
+    "name": "Blitz Fleet Admiral, Welstra \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Aquaroid/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_015.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/016EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "016",
+    "name": "Blitz Fleet, Uvestei Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Tear Dragon/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_016.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/017EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "017",
+    "name": "X-CeeDaNCe, Vindschtar",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_017.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/018EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "018",
+    "name": "Saint Almajestar, Astroea=Unica \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_018.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/019EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "019",
+    "name": "Star+Liner, Bifrons",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Demon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_019.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/020EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "020",
+    "name": "Planetary Replication",
+    "unitType": "Set Order",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_020.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/021EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "021",
+    "name": "Moonflower Stealth Fiend, Cernacika",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_RR021_v2.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/022EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "022",
+    "name": "Defiance Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_022.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/023EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "023",
+    "name": "Stealth Dragon, Henyeytrack",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_023.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/024EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "024",
+    "name": "Dragritter, Misbaah",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Dragoroid"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_024.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/025EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "025",
+    "name": "Virtuous Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_025.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/026EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "026",
+    "name": "Steam Fighter, Marbity",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Gearoid/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_026.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/027EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "027",
+    "name": "Rose Flame Demonic Lady, Orzeil",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Demon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_027.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/028EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "028",
+    "name": "Ice Frost Mage, Laron",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_028.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/029EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "029",
+    "name": "Sneering Puppeteer",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Demon"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_029.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/030EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "030",
+    "name": "Tokkoumaru, Overdrive Strike",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Battleroid"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_030.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/031EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "031",
+    "name": "Librate Battalion, Merhavach Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Space Dragon/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_031.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/032EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "032",
+    "name": "Operator Girl, Reudbeckia",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_032.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/033EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "033",
+    "name": "White Star Bow of Cometlight, Brumsta",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Cyberoid"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_033.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/034EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "034",
+    "name": "Seraphic Notes, Sucuse",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_034.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/035EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "035",
+    "name": "Hollow Vallet, Foncet",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_035.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/036EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "036",
+    "name": "Knight of Intense Hammer, Yusrah",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_036.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/037EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "037",
+    "name": "Sage of Index, Ideron",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Giant"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_037.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/038EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "038",
+    "name": "Blitz Fleet, Schussei",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Aquaroid/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_038.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/039EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "039",
+    "name": "Genuine Sepal, Necsrot",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Bioroid/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_039.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/040EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "040",
+    "name": "Lead Rabbit",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_040.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/041EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "041",
+    "name": "Great Blaze Omega Blast",
+    "unitType": "Normal Order",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_041.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/042EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "042",
+    "name": "X-CeeDaNCe, Eles Vette",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_042.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/043EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "043",
+    "name": "Starlit Opera, Phonograph",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_043.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/044EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "044",
+    "name": "Une Chatte Nonchalante, Kolmiss",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_044.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/045EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "045",
+    "name": "Cerise-Chu♡LiP, Calet",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_045.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/046EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "046",
+    "name": "Crimson Moonlight",
+    "unitType": "Normal Order",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_046.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/047EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "047",
+    "name": "Moonflower Stealth Rogue, Amphie",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Demon/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_047.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/048EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "048",
+    "name": "Jeopardizing Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_048.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/049EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "049",
+    "name": "Moonflower Stealth Fiend, Ulmeria",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_049.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/050EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "050",
+    "name": "Moonflower Stealth Rogue, Rivesal",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Demon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_050.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/051EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "051",
+    "name": "Amicable Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_051.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/052EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "052",
+    "name": "Crimson Glower, Emilie",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Demon"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_052.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/053EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "053",
+    "name": "Steam Fighter, Pilial",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Gearoid/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_053.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/054EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "054",
+    "name": "TicK-TacK, FuzzTiMeR",
+    "unitType": "Set Order",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_054.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/055EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "055",
+    "name": "Battle Beast Machine, Enjishimaru",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Battleroid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_055.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/056EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "056",
+    "name": "Battle Beast Machine, Seiroumaru",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Battleroid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_056.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/057EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "057",
+    "name": "Scramble!!!",
+    "unitType": "Normal Order",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_R057_v2.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/058EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "058",
+    "name": "Librate Wingman, Benvenuto",
+    "unitType": "Set Order",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_058.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/059EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "059",
+    "name": "Enlightening of Inception, Anlarcciel",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_059.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/060EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "060",
+    "name": "Seraphic Notes, Feructess",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_060.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/061EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "061",
+    "name": "Seraphic Notes, Vertiena",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_061.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/062EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "062",
+    "name": "Hollow Vallet, Noirgauche",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_062.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/063EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "063",
+    "name": "Blitz Fleet, Omdirei Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Tear Dragon/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_063.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/064EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "064",
+    "name": "Peak Claw Huntsman, Lyzengaas",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_064.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/065EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "065",
+    "name": "Falreavas of Brocaded Autumn",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Forest Dragon/Blast"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_065.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/066EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "066",
+    "name": "Blitz Fleet, Perfe",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Aquaroid/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_066.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/067EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "067",
+    "name": "Star+Liner, Fhoras",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Demon/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_067.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/068EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "068",
+    "name": "After Rain Light, Kyavel",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_068.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/069EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "069",
+    "name": "X-CeeDaNCe, Lealup Rok",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_069.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/070EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "070",
+    "name": "After Class Starlet, Cuculhu",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Demon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_070.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/071EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "071",
+    "name": "Enveloping the Planet is a Crimson Disease",
+    "unitType": "Normal Order",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "R",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_071.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/072EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "072",
+    "name": "Unbeateun Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_072.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/073EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "073",
+    "name": "Dancing Princess of Elegant Flames, Ulfeir",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_073.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/074EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "074",
+    "name": "Moonflower Stealth Fiend, Lutikca",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_074.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/075EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "075",
+    "name": "Dragritter, Sahlih",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Dragoroid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_075.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/076EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "076",
+    "name": "Dragritter, Raashiv",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Dragoroid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_076.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/077EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "077",
+    "name": "Moonflower Stealth Fiend, Viilea",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_077.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/078EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "078",
+    "name": "Moonflower Stealth Fiend, Pletoush",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_078.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/079EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "079",
+    "name": "Two-war Dragon, Vitableraptor",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Dinodragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_079.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/080EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "080",
+    "name": "Moonflower Stealth Fiend, Milyz",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast/Fantôme"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_080.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/081EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "081",
+    "name": "Steam Scala, Makardit",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Gearoid/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_081.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/082EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "082",
+    "name": "Steam Scala, Lifel",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Gearoid/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_082.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/083EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "083",
+    "name": "Lebgaon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Chimera/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_083.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/084EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "084",
+    "name": "Steam Gunner, Sukamuna",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Gearoid/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_084.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/085EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "085",
+    "name": "Steam Fighter, Eastiera",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Gearoid/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_085.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/086EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "086",
+    "name": "Splurge Devour",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Demon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_086.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/087EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "087",
+    "name": "Spelling Mage, Veron",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_087.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/088EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "088",
+    "name": "Blithe Prankster",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Demon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_088.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/089EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "089",
+    "name": "Steam Shooter, Proutta",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Gearoid/Fantôme"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_089.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/090EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "090",
+    "name": "Battle Beast Machine, Gouzoumaru",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Battleroid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_C090_v2.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/091EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "091",
+    "name": "Tempered Mechanic",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_091.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/092EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "092",
+    "name": "PiCKeR 1-Q",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Workeroid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_092.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/093EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "093",
+    "name": "Magnumweapon, Tokkoumaru",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Battleroid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_093.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/094EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "094",
+    "name": "Reticent Pilot, Payte",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_094.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/095EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "095",
+    "name": "Star Cluster Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Space Dragon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_095.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/096EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "096",
+    "name": "Battle Beast Machine, Kujakumaru",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Battleroid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_096.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/097EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "097",
+    "name": "Diabolweapon, Tokkoumaru",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Battleroid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_097.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/098EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "098",
+    "name": "Tokkoumaru",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Battleroid"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_098.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/099EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "099",
+    "name": "Enlightening of Evening Shadow, Anlarcciel",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_099.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/100EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "100",
+    "name": "Seraphic Notes, Rektina",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_100.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/101EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "101",
+    "name": "Seraphic Notes, Gracia",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_101.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/102EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "102",
+    "name": "Seraphic Notes, Telibeaut",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_102.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/103EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "103",
+    "name": "Enlightening of Day Shadow, Anlarcciel",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_103.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/104EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "104",
+    "name": "Hollow Vallet, Noirdroite",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_104.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/105EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "105",
+    "name": "Enlightening of Onset Shadow, Anlarcciel",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_105.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/106EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "106",
+    "name": "Seraphic Notes, Corphie",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel/Fantôme"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_106.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/107EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "107",
+    "name": "Cradle of Hollow",
+    "unitType": "Normal Order",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_107.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/108EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "108",
+    "name": "Sanguine Sprout, Weldi",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Bioroid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_108.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/109EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "109",
+    "name": "Cavern Excavator, Rairidoc",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "High Beast"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_109.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/110EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "110",
+    "name": "Leafshade Huntsman, Largiss",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_110.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/111EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "111",
+    "name": "Blitz Fleet, Uber",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Aquaroid/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_111.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/112EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "112",
+    "name": "Blitz Fleet, Raffinir Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Tear Dragon/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_112.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/113EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "113",
+    "name": "Blitz Fleet, Anshteur Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Tear Dragon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_113.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/114EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "114",
+    "name": "Blitz Fleet, Strazer",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Aquaroid/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_114.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/115EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "115",
+    "name": "Jungle Scout, Jaruk",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_115.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/116EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "116",
+    "name": "Blitz Fleet, Warton",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Tear Dragon/Fantôme"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_116.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/117EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "117",
+    "name": "Stretch Break, Studia",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Elf"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_117.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/118EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "118",
+    "name": "Saint Almajestar, Turan=Dyna",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_118.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/119EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "119",
+    "name": "Floral Garden, Culteia",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_119.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/120EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "120",
+    "name": "Anywhere with the Ball, Saeytt",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_120.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/121EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "121",
+    "name": "Saint Almajestar, Schwart=Sparda",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_121.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/122EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "122",
+    "name": "To My DearestS, Cherulyta",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_122.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/123EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "123",
+    "name": "Affection Lv. UP↑↑, Timaete",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Elf/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_123.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/124EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "124",
+    "name": "Bound Flapper, Puppica",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_124.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/125EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "125",
+    "name": "Saint Almajestar, Pypis=Mulchie",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "C",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_125.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX01EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX01",
+    "name": "Kazuma Kiryu",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Tojo Clan"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXRRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX01.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX02EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX02",
+    "name": "Akira Nishikiyama",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Tojo Clan/Nishikiyama Family"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXRRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX02.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX03EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX03",
+    "name": "Makoto Date",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Police"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXRRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX03.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX04EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX04",
+    "name": "Goro Majima",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Tojo Clan/Majima Family"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXRRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX04.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX05EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX05",
+    "name": "Kaoru Sayama",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Police"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXRRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX05.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX06EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX06",
+    "name": "Ryuji Goda",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Omi Alliance"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXRRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX06.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX07EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX07",
+    "name": "Yoshitaka Mine",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Tojo Clan/Hakuho Clan"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXRRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX07.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX08EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX08",
+    "name": "Daigo Dojima",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Tojo Clan"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXRRR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX08.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX09EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX09",
+    "name": "Shintaro Kazama",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Tojo Clan/Kazama Family"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX09.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX10EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX10",
+    "name": "Reina",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX10.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX11EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX11",
+    "name": "Jo Amon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX11.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX12EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX12",
+    "name": "Kazuto Arase",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Tojo Clan/Nishikiyama Family"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX12.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX13EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX13",
+    "name": "Kazuki",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX13.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX14EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX14",
+    "name": "Lau Ka Long",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX14.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX15EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX15",
+    "name": "The Girl Worth 10 Billion Yen, Haruka Sawamura",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX15.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX16EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX16",
+    "name": "Osamu Kashiwagi",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Tojo Clan/Kazama Family"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX16.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX17EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX17",
+    "name": "Gary Buster Holmes",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX17.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX18EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX18",
+    "name": "Sotaro Komaki",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX18.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX19EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX19",
+    "name": "The Florist of Sai",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX19.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX20EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX20",
+    "name": "Junichi Sudo",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Police"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX20.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX21EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX21",
+    "name": "Shinji Tanaka",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Tojo Clan/Nishikiyama Family"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX21.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX22EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX22",
+    "name": "Pocket Circuit Fighter",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX22.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX23EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX23",
+    "name": "Matsushige",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Tojo Clan/Nishikiyama Family"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX23.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX24EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX24",
+    "name": "Yuya",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX24.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX25EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX25",
+    "name": "Yumi Sawamura",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX25.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX26EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX26",
+    "name": "Susumu Gondawara",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Gondawara Family"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX26.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX27EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX27",
+    "name": "Jin Goda",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Omi Alliance"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX27.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX28EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX28",
+    "name": "Yukio Terada",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Tojo Clan/Omi Alliance"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX28.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX29EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX29",
+    "name": "Yayoi Dojima",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Tojo Clan"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX29.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX30EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX30",
+    "name": "Il Yu-jin",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX30.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX31EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX31",
+    "name": "Tamiyo Sayama",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX31.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX32EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX32",
+    "name": "Eldest Daughter of Morning Glory, Haruka Sawamura",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX32.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX33EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX33",
+    "name": "Tsuyoshi Kanda",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Tojo Clan/Nishikiyama Family"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX33.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX34EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX34",
+    "name": "Miya-san",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX34.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX35EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX35",
+    "name": "Morning Glory: A Precious Place",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX35.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX36EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX36",
+    "name": "Komaki Fist Reversal",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX36.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX37EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX37",
+    "name": "The Dragon of Dojima, Kazuma Kiryu",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Tojo Clan"
+    ],
+    "grade": 0,
+    "trigger": null,
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX37.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX38EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX38",
+    "name": "Dragon Style: Unmatched Strength",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 0,
+    "trigger": "Over",
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX38.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX39EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX39",
+    "name": "Beast Style: Overwhelming Suppression",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX39.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX40EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX40",
+    "name": "Rush Style: Splendid Footwork",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 0,
+    "trigger": "Critical",
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX40.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX41EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX41",
+    "name": "Bob Utsunomiya",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX41.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX42EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX42",
+    "name": "Rowdy Style: Resolute Counter",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 0,
+    "trigger": "Front",
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX42.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EX43EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EX43",
+    "name": "The Gourmet of Kamurocho",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 0,
+    "trigger": "Heal",
+    "rarity": "EXC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EX43.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EXS01EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EXS01",
+    "name": "Kazuma Kiryu",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Tojo Clan"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "EXS",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EXS01.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EXS02EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EXS02",
+    "name": "Akira Nishikiyama",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Tojo Clan/Nishikiyama Family"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXS",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EXS02.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EXS03EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EXS03",
+    "name": "Makoto Date",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Police"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXS",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EXS03.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EXS04EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EXS04",
+    "name": "Goro Majima",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Tojo Clan/Majima Family"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXS",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EXS04.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EXS05EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EXS05",
+    "name": "Kaoru Sayama",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Police"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXS",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EXS05.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EXS06EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EXS06",
+    "name": "Ryuji Goda",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Omi Alliance"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXS",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EXS06.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EXS07EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EXS07",
+    "name": "Yoshitaka Mine",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Tojo Clan/Hakuho Clan"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXS",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EXS07.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/EXS08EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "EXS08",
+    "name": "Daigo Dojima",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Tojo Clan"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "EXS",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_EXS08.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FFR01EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR01",
+    "name": "Moonflower Stealth Princess, Lisciafael \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FFR01.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FFR02EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR02",
+    "name": "Exacerbate Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FFR02.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FFR03EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR03",
+    "name": "Moonflower Stealth Fiend, Albellina",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FFR03.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FFR04EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR04",
+    "name": "Steam Diva, Artisaria \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Gearoid/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FFR04.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FFR05EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR05",
+    "name": "Resilience Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FFR05.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FFR06EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR06",
+    "name": "Steam Blader, Shrikt",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Gearoid/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FFR06.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FFR07EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR07",
+    "name": "Tokkoumaru, Overdrive Stark",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Battleroid"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FFR07.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FFR08EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR08",
+    "name": "Ultimweapon, Tokkoumaru",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Battleroid"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FFR08.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FFR09EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR09",
+    "name": "Librate Battalion, Shalhuub",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Battleroid/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FFR09.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FFR10EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR10",
+    "name": "Enlightening of Extirpation, Anlarcciæl",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FFR10.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FFR11EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR11",
+    "name": "Seraphic Notes, Lianorn \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FFR11.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FFR12EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR12",
+    "name": "Hollow Vallet, Delnebre",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FFR12.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FFR13EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR13",
+    "name": "Seraphic Notes, Sinceriete",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FFR13.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FFR14EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR14",
+    "name": "Legend of the Highest Peak, Estacion \"Galloping Pergola\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Forest Dragon/Blast"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FFR14.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FFR15EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR15",
+    "name": "Blitz Fleet Admiral, Welstra \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Aquaroid/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FFR15.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FFR16EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR16",
+    "name": "Blitz Fleet, Uvestei Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Tear Dragon/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FFR16.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FFR17EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR17",
+    "name": "X-CeeDaNCe, Vindschtar",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FFR17.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FFR18EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR18",
+    "name": "Saint Almajestar, Astroea=Unica \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FFR18.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FFR19EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FFR19",
+    "name": "Star+Liner, Bifrons",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Demon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FFR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FFR19.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR01EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR01",
+    "name": "Moonflower Stealth Fiend, Cernacika",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR01_v2.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR02EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR02",
+    "name": "Defiance Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR02.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR03EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR03",
+    "name": "Stealth Dragon, Henyeytrack",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR03.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR04EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR04",
+    "name": "Dragritter, Misbaah",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Dragoroid"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR04.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR05EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR05",
+    "name": "Moonflower Stealth Rogue, Amphie",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Demon/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR05.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR06EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR06",
+    "name": "Jeopardizing Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR06.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR07EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR07",
+    "name": "Moonflower Stealth Fiend, Ulmeria",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR07.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR08EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR08",
+    "name": "Moonflower Stealth Rogue, Rivesal",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Demon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR08.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR09EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR09",
+    "name": "Virtuous Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR09.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR10EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR10",
+    "name": "Steam Fighter, Marbity",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Gearoid/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR10.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR11EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR11",
+    "name": "Rose Flame Demonic Lady, Orzeil",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Demon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR11.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR12EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR12",
+    "name": "Ice Frost Mage, Laron",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR12.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR13EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR13",
+    "name": "Sneering Puppeteer",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Demon"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR13.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR14EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR14",
+    "name": "Amicable Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR14.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR15EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR15",
+    "name": "Crimson Glower, Emilie",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Demon"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR15.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR16EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR16",
+    "name": "Steam Fighter, Pilial",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Gearoid/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR16.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR17EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR17",
+    "name": "TicK-TacK, FuzzTiMeR",
+    "unitType": "Set Order",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR17.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR18EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR18",
+    "name": "Tokkoumaru, Overdrive Strike",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Battleroid"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR18.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR19EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR19",
+    "name": "Librate Battalion, Merhavach Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Space Dragon/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR19.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR20EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR20",
+    "name": "Operator Girl, Reudbeckia",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR20.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR21EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR21",
+    "name": "White Star Bow of Cometlight, Brumsta",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Cyberoid"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR21.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR22EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR22",
+    "name": "Battle Beast Machine, Enjishimaru",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Battleroid"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR22.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR23EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR23",
+    "name": "Battle Beast Machine, Seiroumaru",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Battleroid"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR23.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR24EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR24",
+    "name": "Scramble!!!",
+    "unitType": "Normal Order",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR24.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR25EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR25",
+    "name": "Librate Wingman, Benvenuto",
+    "unitType": "Set Order",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR25.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR26EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR26",
+    "name": "Seraphic Notes, Sucuse",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR26.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR27EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR27",
+    "name": "Hollow Vallet, Foncet",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR27.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR28EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR28",
+    "name": "Knight of Intense Hammer, Yusrah",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR28.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR29EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR29",
+    "name": "Sage of Index, Ideron",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Giant"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR29.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR30EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR30",
+    "name": "Enlightening of Inception, Anlarcciel",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR30.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR31EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR31",
+    "name": "Seraphic Notes, Feructess",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR31.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR32EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR32",
+    "name": "Seraphic Notes, Vertiena",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR32.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR33EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR33",
+    "name": "Hollow Vallet, Noirgauche",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR33.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR34EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR34",
+    "name": "Blitz Fleet, Schussei",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Aquaroid/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR34.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR35EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR35",
+    "name": "Genuine Sepal, Necsrot",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Bioroid/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR35.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR36EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR36",
+    "name": "Lead Rabbit",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR36.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR37EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR37",
+    "name": "Great Blaze Omega Blast",
+    "unitType": "Normal Order",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR37.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR38EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR38",
+    "name": "Blitz Fleet, Omdirei Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Tear Dragon/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR38.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR39EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR39",
+    "name": "Peak Claw Huntsman, Lyzengaas",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR39.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR40EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR40",
+    "name": "Falreavas of Brocaded Autumn",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Forest Dragon/Blast"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR40.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR41EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR41",
+    "name": "Blitz Fleet, Perfe",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Aquaroid/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR41.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR42EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR42",
+    "name": "X-CeeDaNCe, Eles Vette",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR42.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR43EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR43",
+    "name": "Starlit Opera, Phonograph",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR43.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR44EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR44",
+    "name": "Une Chatte Nonchalante, Kolmiss",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR44.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR45EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR45",
+    "name": "Cerise-Chu♡LiP, Calet",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR45.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR46EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR46",
+    "name": "Star+Liner, Fhoras",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Demon/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR46.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR47EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR47",
+    "name": "After Rain Light, Kyavel",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR47.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR48EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR48",
+    "name": "X-CeeDaNCe, Lealup Rok",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR48.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/FR49EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "FR49",
+    "name": "After Class Starlet, Cuculhu",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Demon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "FR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_FR49.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/RGGR01EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "RGGR01",
+    "name": "Kazuma Kiryu",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Tojo Clan"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RGGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_RGGR01.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/RGGR02EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "RGGR02",
+    "name": "Akira Nishikiyama",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Tojo Clan/Nishikiyama Family"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RGGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_RGGR02.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/RGGR03EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "RGGR03",
+    "name": "Makoto Date",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Police"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RGGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_RGGR03.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/RGGR04EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "RGGR04",
+    "name": "Goro Majima",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Tojo Clan/Majima Family"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RGGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_RGGR04.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/RGGR05EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "RGGR05",
+    "name": "Kaoru Sayama",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Police"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RGGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_RGGR05.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/RGGR06EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "RGGR06",
+    "name": "Ryuji Goda",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Omi Alliance"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RGGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_RGGR06.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/RGGR07EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "RGGR07",
+    "name": "Yoshitaka Mine",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Tojo Clan/Hakuho Clan"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RGGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_RGGR07.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/RGGR08EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "RGGR08",
+    "name": "Daigo Dojima",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Tojo Clan"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RGGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_RGGR08.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/RGGR09EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "RGGR09",
+    "name": "Shintaro Kazama",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Tojo Clan/Kazama Family"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RGGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_RGGR09.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/RGGR10EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "RGGR10",
+    "name": "Reina",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RGGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_RGGR10.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/RGGR11EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "RGGR11",
+    "name": "Kazuki",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RGGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_RGGR11.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/RGGR12EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "RGGR12",
+    "name": "Lau Ka Long",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RGGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_RGGR12.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/RGGR13EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "RGGR13",
+    "name": "The Girl Worth 10 Billion Yen, Haruka Sawamura",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RGGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_RGGR13.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/RGGR14EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "RGGR14",
+    "name": "Osamu Kashiwagi",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Tojo Clan/Kazama Family"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RGGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_RGGR14.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/RGGR15EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "RGGR15",
+    "name": "Sotaro Komaki",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RGGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_RGGR15.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/RGGR16EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "RGGR16",
+    "name": "The Florist of Sai",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RGGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_RGGR16.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/RGGR17EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "RGGR17",
+    "name": "Junichi Sudo",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Police"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RGGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_RGGR17.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/RGGR18EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "RGGR18",
+    "name": "Shinji Tanaka",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Tojo Clan/Nishikiyama Family"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RGGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_RGGR18.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/RGGR19EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "RGGR19",
+    "name": "Matsushige",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Tojo Clan/Nishikiyama Family"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RGGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_RGGR19.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/RGGR20EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "RGGR20",
+    "name": "Yuya",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RGGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_RGGR20.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/RGGR21EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "RGGR21",
+    "name": "Yumi Sawamura",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RGGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_RGGR21.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/RGGR22EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "RGGR22",
+    "name": "Jin Goda",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Omi Alliance"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RGGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_RGGR22.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/RGGR23EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "RGGR23",
+    "name": "Yukio Terada",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Tojo Clan/Omi Alliance"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RGGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_RGGR23.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/RGGR24EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "RGGR24",
+    "name": "Yayoi Dojima",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Tojo Clan"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RGGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_RGGR24.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/RGGR25EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "RGGR25",
+    "name": "Tamiyo Sayama",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RGGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_RGGR25.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/RGGR26EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "RGGR26",
+    "name": "Eldest Daughter of Morning Glory, Haruka Sawamura",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "RGGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_RGGR26.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/RGGR27EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "RGGR27",
+    "name": "Tsuyoshi Kanda",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza/Tojo Clan/Nishikiyama Family"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "RGGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_RGGR27.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/RGGR28EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "RGGR28",
+    "name": "Miya-san",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Yakuza"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "RGGR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_RGGR28.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SEC01EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SEC01",
+    "name": "Moonflower Stealth Princess, Lisciafael \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SEC01.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SEC02EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SEC02",
+    "name": "Steam Diva, Artisaria \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Gearoid/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SEC02.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SEC03EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SEC03",
+    "name": "Ultimweapon, Tokkoumaru",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Battleroid"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SEC03.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SEC04EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SEC04",
+    "name": "Enlightening of Extirpation, Anlarcciæl",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SEC04.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SEC05EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SEC05",
+    "name": "Seraphic Notes, Lianorn \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SEC05.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SEC06EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SEC06",
+    "name": "Legend of the Highest Peak, Estacion \"Galloping Pergola\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Forest Dragon/Blast"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SEC06.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SEC07EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SEC07",
+    "name": "Blitz Fleet Admiral, Welstra \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Aquaroid/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SEC07.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SEC08EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SEC08",
+    "name": "Saint Almajestar, Astroea=Unica \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SEC",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SEC08.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR01EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR01",
+    "name": "Moonflower Stealth Princess, Lisciafael \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR01.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR02EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR02",
+    "name": "Exacerbate Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR02.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR03EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR03",
+    "name": "Moonflower Stealth Fiend, Albellina",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR03.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR04EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR04",
+    "name": "Moonflower Stealth Fiend, Cernacika",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR04_v2.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR05EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR05",
+    "name": "Defiance Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Flame Dragon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR05.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR06EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR06",
+    "name": "Stealth Dragon, Henyeytrack",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR06.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR07EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR07",
+    "name": "Dragritter, Misbaah",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dragon Empire"
+    ],
+    "clan": [],
+    "races": [
+      "Dragoroid"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR07.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR08EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR08",
+    "name": "Steam Diva, Artisaria \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Gearoid/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR08.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR09EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR09",
+    "name": "Resilience Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR09.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR10EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR10",
+    "name": "Steam Blader, Shrikt",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Gearoid/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR10.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR11EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR11",
+    "name": "Virtuous Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Abyss Dragon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR11.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR12EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR12",
+    "name": "Steam Fighter, Marbity",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Gearoid/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR12.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR13EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR13",
+    "name": "Rose Flame Demonic Lady, Orzeil",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Demon"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR13.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR14EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR14",
+    "name": "Ice Frost Mage, Laron",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR14.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR15EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR15",
+    "name": "Sneering Puppeteer",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Dark States"
+    ],
+    "clan": [],
+    "races": [
+      "Demon"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR15.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR16EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR16",
+    "name": "Tokkoumaru, Overdrive Stark",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Battleroid"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR16.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR17EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR17",
+    "name": "Ultimweapon, Tokkoumaru",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Battleroid"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR17.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR18EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR18",
+    "name": "Librate Battalion, Shalhuub",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Battleroid/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR18.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR19EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR19",
+    "name": "Tokkoumaru, Overdrive Strike",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Battleroid"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR19.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR20EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR20",
+    "name": "Librate Battalion, Merhavach Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Space Dragon/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR20.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR21EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR21",
+    "name": "Operator Girl, Reudbeckia",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR21.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR22EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR22",
+    "name": "White Star Bow of Cometlight, Brumsta",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Brandt Gate"
+    ],
+    "clan": [],
+    "races": [
+      "Cyberoid"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR22.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR23EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR23",
+    "name": "Enlightening of Extirpation, Anlarcciæl",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel"
+    ],
+    "grade": 4,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR23.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR24EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR24",
+    "name": "Seraphic Notes, Lianorn \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR24.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR25EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR25",
+    "name": "Hollow Vallet, Delnebre",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR25.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR26EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR26",
+    "name": "Seraphic Notes, Sinceriete",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR26.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR27EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR27",
+    "name": "Seraphic Notes, Sucuse",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR27.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR28EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR28",
+    "name": "Hollow Vallet, Foncet",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR28.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR29EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR29",
+    "name": "Knight of Intense Hammer, Yusrah",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Angel/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR29.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR30EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR30",
+    "name": "Sage of Index, Ideron",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Keter Sanctuary"
+    ],
+    "clan": [],
+    "races": [
+      "Giant"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR30.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR31EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR31",
+    "name": "Legend of the Highest Peak, Estacion \"Galloping Pergola\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Forest Dragon/Blast"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR31.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR32EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR32",
+    "name": "Blitz Fleet Admiral, Welstra \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Aquaroid/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR32.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR33EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR33",
+    "name": "Blitz Fleet, Uvestei Dragon",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Tear Dragon/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR33.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR34EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR34",
+    "name": "Blitz Fleet, Schussei",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Aquaroid/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR34.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR35EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR35",
+    "name": "Genuine Sepal, Necsrot",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Bioroid/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR35.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR36EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR36",
+    "name": "Lead Rabbit",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR36.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR37EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR37",
+    "name": "Great Blaze Omega Blast",
+    "unitType": "Normal Order",
+    "nations": [
+      "Stoicheia"
+    ],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR37.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR38EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR38",
+    "name": "X-CeeDaNCe, Vindschtar",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR38.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR39EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR39",
+    "name": "Saint Almajestar, Astroea=Unica \"Fantôme\"",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 3,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR39.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR40EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR40",
+    "name": "Star+Liner, Bifrons",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Demon/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR40.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR41EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR41",
+    "name": "X-CeeDaNCe, Eles Vette",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR41.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR42EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR42",
+    "name": "Starlit Opera, Phonograph",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human/Fantôme"
+    ],
+    "grade": 2,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR42.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR43EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR43",
+    "name": "Une Chatte Nonchalante, Kolmiss",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Warbeast/Fantôme"
+    ],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR43.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/SR44EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "SR44",
+    "name": "Cerise-Chu♡LiP, Calet",
+    "unitType": "Normal Unit",
+    "nations": [
+      "Lyrical Monasterio"
+    ],
+    "clan": [],
+    "races": [
+      "Human"
+    ],
+    "grade": 0,
+    "trigger": "Draw",
+    "rarity": "SR",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_SR44.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/T01EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "T01",
+    "name": "Almajest Celestage",
+    "unitType": "Others",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "T",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_T01.png"
+  },
+  {
+    "enCardNo": "DZ-BT16/T02EN",
+    "setCode": "DZ-BT16",
+    "cardNumber": "T02",
+    "name": "Toy Hangar",
+    "unitType": "Others",
+    "nations": [],
+    "clan": [],
+    "races": [],
+    "grade": 1,
+    "trigger": null,
+    "rarity": "T",
+    "imageUrlEn": "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/dzbt16/DZ-BT16_T02.png"
+  },
+  {
     "enCardNo": "DZ-LBT01/001EN",
     "setCode": "DZ-LBT01",
     "cardNumber": "001",
